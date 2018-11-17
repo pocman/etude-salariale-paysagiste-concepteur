@@ -5,7 +5,7 @@ Cette **première étude collaborative** sur la rémunariation des paysagistes c
 
 **Depuis le 30 octobre 2018**, nous avons été **plus de 180** à répondre à l'appel. Pour gagner en visibilité, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660/public-results) d'ici le 31 mars 2019** (date de clôture de l'étude).
 
-Vous souhaitez avoir les résultats finaux de l'étude ? N'hésitez pas à compléter **[ce formulaire](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538822319?fbclid=IwAR1G4hlpyGBrsupSPWVM9ElzkiO4M5gKo-Z_wx0vYQ4hgsozU_ZTxpKAiM4)**
+Vous souhaitez avoir les résultats finaux de l'étude ? Alors n'hésitez pas à compléter **[ce formulaire](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538822319?fbclid=IwAR1G4hlpyGBrsupSPWVM9ElzkiO4M5gKo-Z_wx0vYQ4hgsozU_ZTxpKAiM4).**
 
 _Cette étude a été réfléchie de façon isolée et montre aujourd'hui certains manques. Ils seront intégrés pour la prochaine étude salariale 2019, comme par exemples le sexe de l'employé-e, le nombre d'heures travaillées à la semaine, les postes en Assistance à la Maîtrise d'Ouvrage (AMO) et compétences associées. N'hésitez donc pas à transmettre vos interrogations et appréciations par le biais du second formulaire._
 
