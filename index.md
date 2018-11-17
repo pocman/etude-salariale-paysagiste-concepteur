@@ -14,10 +14,12 @@ J'ai négocié un contrat que j'ai accepté depuis deux ans... Mais voilà, sans
 A quoi j'aurais réellement pu prétendre ? Est-ce que ceux à postes équivalents, en province, sont payés plus ou moins ? Quelle est la différence entre province et Paris ? En somme, quel est le marché actuel ?
 
 **Chapitre I...**
+
 Par le biais de cette étude salariale, le but est d'avoir une vision limpide (dans l'absolu) de la réalité du marché et des différents postes auxquels les paysagistes concepteurs répondent et avec quelle rémunération en fonction des compétences et acquis. 
 C'est un moyen d'engager une démarche nationale pour faire valoir nos compétences auprès des entreprises et structures qui profitent de ce flou artistique autour "du marché".
 
 **Chapitre II...**
+
 A l'arrivée de cette fin d'année, il me semble important de récolter un maximum d'informations pour cette année 2018 et de mettre en forme les résultats pour davantage de visibilité. Ils serviront à ceux qui réfléchissent à faire des études en paysage, à ceux qui sont étudiants et qui se demandent à quoi ils peuvent prétendre pour leur première expérience professionnelle, à ceux qui sont déjà actifs.
 
 **N’hésitez pas à relayer auprès de vos ami-e-s de Bordeaux, de Versailles, de Marseille, de Gembloux, de l'INH, de Blois, de l'ESAJ, de l'HEP, de l'ITIAPE...** pour que nous arrivions à faire valoir nos compétences vis à vis des autres métiers, à l'échelle nationale. 
