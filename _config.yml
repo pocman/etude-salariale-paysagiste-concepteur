@@ -1,3 +1,24 @@
 theme: jekyll-theme-cayman
 title: Etude Salariale 2018 - Paysagiste Concepteur
 description: Résultats préliminaires de l'étude
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Thomas Pocreau et Juliette Ols
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  email: thomas.poc@gmail.com
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+gtag: UA-129426323-1
