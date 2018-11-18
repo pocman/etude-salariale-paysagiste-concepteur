@@ -51,7 +51,7 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la rég
 
 # Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?
 
-![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](Nombre_de_participations_par_école_et_année_de_diplôme.png)
+![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](Nombre_de_participations.png)
 
 # FAQ
 
