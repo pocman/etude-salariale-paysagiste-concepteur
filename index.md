@@ -1,13 +1,9 @@
-Merci aux 180 participant.e.s.
-
-Pour améliorer la pertinence statistique de l'étude, merci vous aussi d’y participer en cliquant [ici](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660).
+**Depuis le 30 octobre 2018**, nous avons été **plus de 180** à répondre à l'appel. Pour gagner en visibilité, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
 
 # UNE ETUDE COLLABORATIVE
 Vous êtes **élève en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
 
 Cette **première étude collaborative** sur la rémunariation des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
-
-**Depuis le 30 octobre 2018**, nous avons été **plus de 180** à répondre à l'appel. Pour gagner en visibilité, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
 
 Vous souhaitez avoir les résultats finaux de l'étude ? Alors n'hésitez pas à compléter **[ce formulaire](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538822319?fbclid=IwAR1G4hlpyGBrsupSPWVM9ElzkiO4M5gKo-Z_wx0vYQ4hgsozU_ZTxpKAiM4).** Les données brutes sont aussi disponibles [ici](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660/public-results).
 
@@ -29,7 +25,9 @@ A l'arrivée de cette fin d'année, il me semble important de récolter un maxim
 **N’hésitez pas à relayer auprès de vos ami-e-s de Bordeaux, de Versailles, de Marseille, de Gembloux, de l'INH, de Blois, de l'ESAJ, de l'HEP, de l'ITIAPE...** pour que nous arrivions à faire valoir nos compétences vis à vis des autres métiers, à l'échelle nationale. 
 Ce projet pourrait être porté par une structure (fédération, association), mais à l'heure actuelle, il fait office de test. 2019 nous servira à consolider la démarche et toucher plus largement les personnes diplômées paysagistes si jamais nous la portons à plusieurs.
 
-# QUELQUES RÉSULTATS CLÉS
+# QUELQUES RÉSULTATS PRELIMINAIRES
+
+Mise à jour le 18/11/2018 sur la base de 180 réponses.
 
 ## Quels sont les salaires moyens selon la séniorité ?
 Salaire moyen brut (fixe et variable) en fonction de l'expérience, hors freelances et indépendants.
@@ -43,16 +41,20 @@ Salaire moyen brut (fixe et variable) en fonction de la date de diplôme, hors f
 
 Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la région, hors freelances et indépendants.
 
-| Expérience | Paris | Province |
-|:---:|:---:|:---:|
-|     0-2    |  29,1 k€ | 27,1 k€  |
-|     2-4    |  30,6 k€ | 27,8 k€ |
-|     4-6    | 34,1 k€ | 29,1 k€ |
+| Expérience | Paris | Province |  |
+|:---:|:---:|:---:|:---:|
+|     0-2    |  29,1 k€ | 27,1 k€  |   **7%**  |
+|     2-4    |  30,6 k€ | 27,8 k€ | **10%** |
+|     4-6    | 34,1 k€ | 29,1 k€ | **17%** |
+
+[L'Insee](https://www.insee.fr/fr/statistiques) table sur un écart de 20 à 25% entre la région parisienne et le reste du pays. Vivre à Paris intra-muros n’offre en revanche que peu de différences de salaires avec les Franciliens.
 
 # Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?
 
 ![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](Nombre_de_participations.png)
 
 # FAQ
+
+Contact: thomas.poc@gmail.com
 
 
