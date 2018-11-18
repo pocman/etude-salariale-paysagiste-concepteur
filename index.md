@@ -32,7 +32,7 @@ Ce projet pourrait être porté par une structure (fédération, association), m
 # QUELQUES RÉSULTATS CLÉS
 
 ## Quels sont les salaires moyens selon la séniorité ?
-Salaire moyen brut (fixe et variable) en fonction de l'expérience. 
+Salaire moyen brut (fixe et variable) en fonction de l'expérience, hors freelances et indépendants.
 ![Quels sont les salaires moyens selon la séniorité ?](avg_salary.png)
 
 
