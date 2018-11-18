@@ -49,4 +49,10 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la rég
 |     2-4    |  30,6 k€ | 27,8 k€ |
 |     4-6    | 34,1 k€ | 29,1 k€ |
 
+# Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?
+
+![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](Nombre_de_participations_par_école_et_année_de_diplôme.png)
+
 # FAQ
+
+
