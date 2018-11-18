@@ -39,4 +39,14 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience, hors freelan
 Salaire moyen brut (fixe et variable) en fonction de la date de diplôme, hors freelances et indépendants.
 ![Quels sont les salaires moyens selon l'année de diplôme ?](avg_salary_diplome_year.png)
 
+# Quelle est la différence de salaires entre Paris et la province ?
+
+Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la région, hors freelances et indépendants.
+
+| Expérience | Paris | Province |
+|:---:|:---:|:---:|
+|     0-2    |  29,1 k€ | 27,1 k€  |
+|     2-4    |  30,6 k€ | 27,8 k€ |
+|     4-6    | 34,1 k€ | 29,1 k€ |
+
 # FAQ
