@@ -3,7 +3,7 @@
 # UNE ETUDE COLLABORATIVE
 Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
 
-Cette **première étude collaborative** sur la rémunariation des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
+Cette **première étude collaborative** sur la rémunération des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
 
 Vous souhaitez avoir les résultats finaux de l'étude ? Alors n'hésitez pas à compléter **[ce formulaire](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538822319?fbclid=IwAR1G4hlpyGBrsupSPWVM9ElzkiO4M5gKo-Z_wx0vYQ4hgsozU_ZTxpKAiM4).** Les données brutes sont aussi disponibles [ici](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660/public-results).
 
