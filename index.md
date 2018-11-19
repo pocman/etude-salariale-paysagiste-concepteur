@@ -55,6 +55,7 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la rég
 
 # FAQ
 
-Contact: thomas.poc@gmail.com
+Contact: olsjuliette@gmail.com
+thomas.poc@gmail.com
 
 
