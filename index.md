@@ -5,7 +5,7 @@ Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dan
 
 Cette **première étude collaborative** sur la rémunération des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
 
-Vous souhaitez avoir les résultats finaux de l'étude ? Alors n'hésitez pas à compléter **[ce formulaire](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538822319?fbclid=IwAR1G4hlpyGBrsupSPWVM9ElzkiO4M5gKo-Z_wx0vYQ4hgsozU_ZTxpKAiM4).** Les données brutes sont aussi disponibles [ici](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660/public-results).
+Vous souhaitez avoir les résultats finaux de l'étude ? Alors n'hésitez pas à compléter **[ce formulaire](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538822319?fbclid=IwAR1G4hlpyGBrsupSPWVM9ElzkiO4M5gKo-Z_wx0vYQ4hgsozU_ZTxpKAiM4).** Les données brutes sont aussi disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur).
 
 _Cette étude a été réfléchie de façon isolée et montre aujourd'hui certains manques. Ils seront intégrés pour la prochaine étude salariale 2019, comme par exemples le sexe de l'employé-e, le nombre d'heures travaillées à la semaine, les postes en Assistance à la Maîtrise d'Ouvrage (AMO) et compétences associées. N'hésitez donc pas à transmettre vos interrogations et appréciations par le biais du second formulaire._
 
