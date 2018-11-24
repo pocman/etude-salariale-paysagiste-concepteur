@@ -29,6 +29,10 @@ Ce projet pourrait être porté par une structure (fédération, association), m
 
 Mise à jour le 24/11/2018 sur la base de 225 réponses.
 
+## Quelle est la répartition des salaires parmi les répondants ?
+
+![Histogramme des salaires bruts](histogram_rem.png)
+
 ## Quels sont les salaires moyens selon la séniorité ?
 Salaire moyen brut (fixe et variable) en fonction de l'expérience, hors freelances et indépendants.
 ![Quels sont les salaires moyens selon la séniorité ?](avg_salary_exp.png)
@@ -47,7 +51,7 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la rég
 
 # Quelle est la différence de salaires par type de poste et années d'expérience ?
 
-## Provice
+## Province
 
 Sur la base de 134 réponses
 
