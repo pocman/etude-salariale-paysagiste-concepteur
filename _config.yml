@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Juliette Ols"
-  avatar           : "/etude-salariale-paysagiste-concepteur/assets/images/bio.jpg"
-  bio              : "Paysagiste conceptrice DPLG / Chargée d'études aux ateliers UP+ de SCE"
+  avatar           : "/assets/images/bio.jpg"
+  bio              : "Paysagiste conceptrice DPLG. Chargée d'études aux ateliers UP+ de SCE"
   location         : "Nantes, France"
   email            : "olsjuliette@gmail.com"
   links:

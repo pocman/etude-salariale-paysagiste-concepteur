@@ -1,9 +1,7 @@
 ---
-title:  "Etude Salariale 2018 - Résultats Préliminaires"
+title:  "Résultats Préliminaires 2018"
 ---
 **Depuis le 30 octobre 2018**, nous avons été **plus de 225** à répondre à l'appel. Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
-
-# Quelques résultats préliminaires
 
 Mise à jour le 24/11/2018 sur la base de 225 réponses.
 
