@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "fr-FR"
@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juliette Ols et Thomas Pocreau"
+  name             : "Juliette Ols"
   avatar           : #"/assets/images/bio-photo.jpg"
   bio              : #"I am an amazing person."
-  location         : #"Nantes, France"
-  email            :
+  location         : "Nantes, France"
+  email            : "olsjuliette@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -265,7 +265,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: true
       share: true
