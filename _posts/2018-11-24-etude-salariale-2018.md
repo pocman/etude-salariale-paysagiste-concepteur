@@ -35,21 +35,21 @@ Mise à jour le 24/11/2018 sur la base de 225 réponses.
 
 ## Quelle est la répartition des salaires parmi les répondants ?
 
-![Histogramme des salaires bruts](/assets/images/histogram_rem.png)
+![Histogramme des salaires bruts](/etude-salariale-paysagiste-concepteur/assets/images/histogram_rem.png)
 
 ## Quels sont les salaires moyens selon la séniorité ?
 Salaire moyen brut (fixe et variable) en fonction de l'expérience, hors freelances et indépendants.
-![Quels sont les salaires moyens selon la séniorité ?](/assets/images/avg_salary_exp.png)
+![Quels sont les salaires moyens selon la séniorité ?](/etude-salariale-paysagiste-concepteur/assets/images/avg_salary_exp.png)
 
 ## Quels sont les salaires moyens selon l'année de diplôme ?
 Salaire moyen brut (fixe et variable) en fonction de la date de diplôme, hors freelances et indépendants.
-![Quels sont les salaires moyens selon l'année de diplôme ?](/assets/images/avg_salary_diplome_year.png)
+![Quels sont les salaires moyens selon l'année de diplôme ?](/etude-salariale-paysagiste-concepteur/assets/images/avg_salary_diplome_year.png)
 
 # Quelle est la différence de salaires entre Paris et la province ?
 
 Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la région, hors freelances et indépendants.
 
-![Quels sont les salaires moyens en fonction de la région?](/assets/images/avg_salary_exp_per_region.png)
+![Quels sont les salaires moyens en fonction de la région?](/etude-salariale-paysagiste-concepteur/assets/images/avg_salary_exp_per_region.png)
 
 [L'Insee](https://www.insee.fr/fr/statistiques) table sur un écart de 20 à 25% entre la région parisienne et le reste du pays. Vivre à Paris intra-muros n’offre en revanche que peu de différences de salaires avec les Franciliens.
 
@@ -91,7 +91,7 @@ Sur la base de 57 réponses.
 
 # Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?
 
-![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](/assets/images/Nombre_de_participations.png)
+![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](/etude-salariale-paysagiste-concepteur/assets/images/Nombre_de_participations.png)
 
 # FAQ
 
