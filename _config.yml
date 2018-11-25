@@ -20,7 +20,7 @@ title                    : "Etude Salariale - Paysagiste Concepteur"
 title_separator          : "-"
 name                     : "Etude Salariale - Paysagiste Concepteur"
 description              : "Résultats préliminaires de l'étude / Cette étude n'est pas affiliée à la FFP"
-url                      : "https://pocman.github.io"
+url                      : "https://pocman.github.io/etude-salariale-paysagiste-concepteur"
 baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,15 +109,9 @@ author:
   location         : "Nantes, France"
   email            : "olsjuliette@gmail.com"
   links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:olsjuliette@gmail.com
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/thomasPoc"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/pocman"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Juliette0ls"
 
 # Site Footer
 #footer:
