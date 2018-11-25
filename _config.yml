@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Etude Salariale - Paysagiste Concepteur"
+title                    : "Étude Salariale - Paysagiste Concepteur"
 title_separator          : "-"
-name                     : "Etude Salariale - Paysagiste Concepteur"
+name                     : "Étude Salariale - Paysagiste Concepteur"
 description              : "Résultats préliminaires de l'étude / Cette étude n'est pas affiliée à la FFP"
 url                      : "https://pocman.github.io"
 baseurl                  : "/etude-salariale-paysagiste-concepteur"
