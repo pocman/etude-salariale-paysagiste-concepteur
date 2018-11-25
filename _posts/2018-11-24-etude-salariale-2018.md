@@ -4,7 +4,7 @@ description: "Résultats préliminaires de l'étude / Cette étude n'est pas aff
 ---
 **Depuis le 30 octobre 2018**, nous avons été **plus de 225** à répondre à l'appel. Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
 
-# UNE ETUDE COLLABORATIVE
+# Une étude collaborative
 Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
 
 Cette **première étude collaborative** sur la rémunération des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
@@ -13,7 +13,7 @@ Vous souhaitez avoir les résultats finaux de l'étude ? Alors n'hésitez pas à
 
 _Cette étude a été réfléchie de façon isolée et montre aujourd'hui certains manques. Ils seront intégrés pour la prochaine étude salariale 2019, comme par exemples le sexe de l'employé-e, le nombre d'heures travaillées à la semaine, les postes en Assistance à la Maîtrise d'Ouvrage (AMO) et compétences associées. N'hésitez donc pas à transmettre vos interrogations et appréciations par le biais du second formulaire._
 
-# CONTEXTE DE L’ÉTUDE
+# Contexte de l'étude
 J'ai négocié un contrat que j'ai accepté depuis deux ans... Mais voilà, sans véritable visibilité de la rémunération générale des jeunes paysagistes, j'ai accepté assez bêtement 25K car l'entreprise me disait que cela reflétait "le marché".
 A quoi j'aurais réellement pu prétendre ? Est-ce que ceux à postes équivalents, en province, sont payés plus ou moins ? Quelle est la différence entre province et Paris ? En somme, quel est le marché actuel ?
 
@@ -29,7 +29,7 @@ A l'arrivée de cette fin d'année, il me semble important de récolter un maxim
 **N’hésitez pas à relayer auprès de vos ami-e-s de Bordeaux, de Versailles, de Marseille, de Gembloux, de l'INH, de Blois, de l'ESAJ, de l'HEP, de l'ITIAPE...** pour que nous arrivions à faire valoir nos compétences vis à vis des autres métiers, à l'échelle nationale. 
 Ce projet pourrait être porté par une structure (fédération, association), mais à l'heure actuelle, il fait office de test. 2019 nous servira à consolider la démarche et toucher plus largement les personnes diplômées paysagistes si jamais nous la portons à plusieurs.
 
-# QUELQUES RÉSULTATS PRELIMINAIRES
+# Quelques résultats préliminaires
 
 Mise à jour le 24/11/2018 sur la base de 225 réponses.
 
@@ -45,7 +45,7 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience, hors freelan
 Salaire moyen brut (fixe et variable) en fonction de la date de diplôme, hors freelances et indépendants.
 ![Quels sont les salaires moyens selon l'année de diplôme ?](/etude-salariale-paysagiste-concepteur/assets/images/avg_salary_diplome_year.png)
 
-# Quelle est la différence de salaires entre Paris et la province ?
+## Quelle est la différence de salaires entre Paris et la province ?
 
 Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la région, hors freelances et indépendants.
 
@@ -53,9 +53,9 @@ Salaire moyen brut (fixe et variable) en fonction de l'expérience et de la rég
 
 [L'Insee](https://www.insee.fr/fr/statistiques) table sur un écart de 20 à 25% entre la région parisienne et le reste du pays. Vivre à Paris intra-muros n’offre en revanche que peu de différences de salaires avec les Franciliens.
 
-# Quelle est la différence de salaires par type de poste et années d'expérience ?
+## Quelle est la différence de salaires par type de poste et années d'expérience ?
 
-## Province
+**Province**
 
 Sur la base de 134 réponses
 
@@ -71,7 +71,7 @@ Sur la base de 134 réponses
 | Assistant(e) de projet                               |       | 27729 |  29912  | 31200 |       | 32600 |       |       |       |       |
 | Chargé(e) d'étude débutant                           | 27865 | 27880 |  30300  | 29000 |       |       |       |       |       |       |
 
-## Paris et île-de-France
+**Paris et île-de-France**
 
 Sur la base de 57 réponses.
 
@@ -89,12 +89,6 @@ Sur la base de 57 réponses.
 | Assistant(e) de projet                               | 22750 | 23460 | 25392 | 23371 | 29840 |       |       |       |       |       |
 | Directeur(trice) de société                          |       |       |       | 15000 | 21000 |       | 23400 |       |       |       |
 
-# Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?
+## Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?
 
 ![Quelle est la répartition des réponses en fonction des écoles et des années de diplôme ?](/etude-salariale-paysagiste-concepteur/assets/images/Nombre_de_participations.png)
-
-# FAQ
-
-Contact: olsjuliette@gmail.com
-thomas.poc@gmail.com
-
