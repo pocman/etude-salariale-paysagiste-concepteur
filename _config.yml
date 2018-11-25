@@ -109,9 +109,9 @@ author:
   location         : "Nantes, France"
   email            : "olsjuliette@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:olsjuliette@gmail.com
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:olsjuliette@gmail.com
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/thomasPoc"
