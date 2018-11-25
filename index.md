@@ -1,9 +1,9 @@
-**Depuis le 30 octobre 2018**, nous avons été **plus de 225** à répondre à l'appel. Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
-
 ---
 layout: home
 author_profile: true
 ---
+
+**Depuis le 30 octobre 2018**, nous avons été **plus de 225** à répondre à l'appel. Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
 
 # Une étude collaborative
 Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
@@ -29,3 +29,4 @@ A l'arrivée de cette fin d'année, il me semble important de récolter un maxim
 
 **N’hésitez pas à relayer auprès de vos ami-e-s de Bordeaux, de Versailles, de Marseille, de Gembloux, de l'INH, de Blois, de l'ESAJ, de l'HEP, de l'ITIAPE...** pour que nous arrivions à faire valoir nos compétences vis à vis des autres métiers, à l'échelle nationale. 
 Ce projet pourrait être porté par une structure (fédération, association), mais à l'heure actuelle, il fait office de test. 2019 nous servira à consolider la démarche et toucher plus largement les personnes diplômées paysagistes si jamais nous la portons à plusieurs.
+
