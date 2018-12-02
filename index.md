@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-**Depuis le 30 octobre 2018**, nous avons été **plus de 225** à répondre à l'appel. Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
+**Depuis le 30 octobre 2018**, nous avons été **plus de 243** à répondre à l'appel. Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2018-paysagiste-concepteur-1538819660) d'ici le 31 mars 2019** (date de clôture de l'étude).
 
 Les résultats et analyses préliminaires sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
 
