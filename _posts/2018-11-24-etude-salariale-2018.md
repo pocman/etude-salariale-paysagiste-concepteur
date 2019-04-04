@@ -1,8 +1,8 @@
 ---
 classes: wide
-title:  "Résultats Préliminaires 2018"
+title:  "Résultats 2018"
 ---
-**Depuis le 30 octobre 2018**, nous avons été **plus de 294** à répondre à l'appel. L'enquête 2018 est maintenant close.
+**Depuis le 30 octobre 2018**, nous avons été **294** à répondre à l'appel. L'enquête 2018 est maintenant close.
 
 ## Quelle est la répartition des salaires parmi les répondants ?
 
