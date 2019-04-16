@@ -13,7 +13,7 @@ Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dan
 
 Cette **première étude collaborative** sur la rémunération des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
 
-_Cette étude a été réfléchie de façon isolée et montre aujourd'hui certains manques. Ils seront intégrés pour la prochaine étude salariale 2019, comme par exemples le sexe de l'employé-e, le nombre d'heures travaillées à la semaine, les postes en Assistance à la Maîtrise d'Ouvrage (AMO) et compétences associées. N'hésitez donc pas à commenter librement et de façon anonyme sur cette page.
+Cette étude a été réfléchie de façon isolée et montre aujourd'hui certains manques. Ils seront intégrés pour la prochaine étude salariale 2019, comme par exemples le sexe de l'employé-e, le nombre d'heures travaillées à la semaine, les postes en Assistance à la Maîtrise d'Ouvrage (AMO) et compétences associées. N'hésitez donc pas à commenter librement et de façon anonyme sur cette page.
 
 # Contexte de l'étude
 J'ai négocié un contrat que j'ai accepté depuis deux ans... Mais voilà, sans véritable visibilité de la rémunération générale des paysagistes, j'ai accepté assez bêtement 25K car l'entreprise me disait que cela reflétait "le marché".
@@ -33,7 +33,7 @@ Ce projet peut être porté par une structure (fédération, association), il a 
 
 **Chapitre III...** 
 
-2019 est là. Cette initiative a suscité l'intérêt des paysagistes concepteurs : 10% de la masse des paysagistes concepteurs ont répondu présents. Ces premiers résultats sont prometteurs pour la nouvelle étude qui débutera en octobre. Par la force de notre réseau, nous gagnerons petit à petit une plus grande légitimité aux côtés des autres métiers de la conception d'espace public. Continuons à diffuser ces informations et à débattre sur notre avenir commun. Soyons libre d'imaginer une rémunération à la hauteur de nos compétences avérées, soyons confiants et ambassadeurs de notre discipline.
+2019 est là. Cette initiative a suscité l'intérêt des paysagistes concepteurs : 10% ont répondu présents. Ces premiers résultats sont prometteurs pour la nouvelle étude qui débutera en octobre. Par la force de notre réseau, nous gagnerons petit à petit une plus grande légitimité aux côtés des autres métiers de la conception d'espace public. Continuons à diffuser ces informations et à débattre sur notre avenir commun. Soyons libre d'imaginer une rémunération à la hauteur de nos compétences avérées, soyons confiants et ambassadeurs de notre discipline.
 
 # Résultats 2018
 
