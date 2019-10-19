@@ -4,9 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-**Depuis le 30 octobre 2018**, nous avons été **294** à répondre à l'appel. 
+L'enquête 2019 est lancée !
+Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2019-paysagiste-concepteur-1571164965) d'ici le 31 mars 2020** (date de clôture de l'étude).
 
-Les résultats et analyses préliminaires sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
+# Résultats 2018
+Les résultats et analyses de l'enquête 2018 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
 
 # Une étude collaborative
 Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
@@ -34,7 +36,3 @@ Ce projet peut être porté par une structure (fédération, association), il a 
 **Chapitre III...** 
 
 2019 est là. Cette initiative a suscité l'intérêt des paysagistes concepteurs : 10% ont répondu présents. Ces premiers résultats sont prometteurs pour la nouvelle étude qui débutera en octobre. Par la force de notre réseau, nous gagnerons petit à petit une plus grande légitimité aux côtés des autres métiers de la conception d'espace public. Continuons à diffuser ces informations et à débattre sur notre avenir commun. Soyons libre d'imaginer une rémunération à la hauteur de nos compétences avérées, soyons confiants et ambassadeurs de notre discipline.
-
-# Résultats 2018
-
-Les résultats et analyses de l'enquête 2018 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
