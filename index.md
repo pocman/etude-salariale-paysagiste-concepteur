@@ -11,28 +11,12 @@ Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répo
 Les résultats et analyses de l'enquête 2018 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
 
 # Une étude collaborative
-Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
+Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans trop savoir à quoi cela correspond en terme de rémunération ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez connaître ce qui vous attend à la sortie du cursus universitaire dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
 
-Cette **première étude collaborative** sur la rémunération des paysagistes concepteurs est faite pour répondre à vos questions. Elle a pour but de rendre visible la rémunération moyenne des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage..._
+Cette **étude collaborative** sur la rémunération des paysagistes concepteurs est faite pour répondre à vos questions. Autant que possible, elle a pour but de rendre visible la rémunération des paysagistes concepteurs pour les différents postes que nous occupons. _Autrement dit, elle participe à définir "le marché" du paysage._
 
-Cette étude a été réfléchie de façon isolée et montre aujourd'hui certains manques. Ils seront intégrés pour la prochaine étude salariale 2019, comme par exemples le sexe de l'employé-e, le nombre d'heures travaillées à la semaine, les postes en Assistance à la Maîtrise d'Ouvrage (AMO) et compétences associées. N'hésitez donc pas à commenter librement et de façon anonyme sur cette page.
+L'étude 2018 présentait des manques qui ont été intégrés dans celle de 2019. Elle a permis de lancer le débat, les retours ont été nombreux. Le principal résultat est que la médiane des rémunérations est proche de la médiane nationale selon l'INSEE. Est-ce normal pour un statut qui nécessite au minimum 6 ans d'études ? L'évolution du salaire en fonction de l'expérience est très faible voire inexistante. Est-ce normal ? Cela est sans doutes lié à un manque d'information qui ne permet pas la négocation d'où l'intérêt de continuer dans cette démarche d'ouverture. 
 
-# Contexte de l'étude
-J'ai négocié un contrat que j'ai accepté depuis deux ans... Mais voilà, sans véritable visibilité de la rémunération générale des paysagistes, j'ai accepté assez bêtement 25K car l'entreprise me disait que cela reflétait "le marché".
-A quoi j'aurais réellement pu prétendre ? Est-ce que ceux à postes équivalents, en province, sont payés plus ou moins ? Quelle est la différence entre province et Paris ? En somme, quel est le marché actuel ?
+Pour cette deuxième étude nous avons ajouté des critères subjectifs autour de la satisfaction au travail, le sexe de la personne et avons pris en compte les différentes formes d'emploi que nous pouvons occuper (salarié ou non) afin d'avoir des résultats plus exploitables sur la situation des paysagistes, en constante évolution. Pour l'heure, il est complexe de tirer des analyses et conclusions précises sur les chiffres de 2018... La médiane ne permettant pas de se comparer par rapport à la masse, il serait souhaitable d'analyser les déciles. Un des objectifs de cette deuxième étude salariale est de faire augmenter la moyenne d'âge des répondants. Cela nous permettra peut-être de voir l'évolution de la rémunération des paysagistes en fonction de l'expérience.
 
-**Chapitre I...**
-
-Par le biais de cette étude salariale, le but est d'avoir une vision limpide (dans l'absolu) de la réalité du marché et des différents postes auxquels les paysagistes concepteurs répondent et avec quelle rémunération en fonction des compétences et acquis. 
-C'est un moyen d'engager une démarche nationale pour faire valoir nos compétences auprès des entreprises et structures qui profitent de ce flou artistique autour "du marché".
-
-**Chapitre II...**
-
-A la fin d'année 2018, il me semblait important de récolter un maximum d'informations et de mettre en forme les résultats pour davantage de visibilité. Ils servent à ceux qui réfléchissent à faire des études en paysage, à ceux qui sont étudiants et qui se demandent à quoi ils peuvent prétendre pour leur première expérience professionnelle, à ceux qui sont déjà actifs.
-
-**N’hésitez pas à relayer auprès de vos ami-e-s de Bordeaux, de Versailles, de Marseille, de Gembloux, de l'INHP, de Blois, de l'ESAJ, de l'HEP, de l'ITIAPE...** pour que nous arrivions à faire valoir nos compétences vis à vis des autres métiers, à l'échelle nationale. 
-Ce projet peut être porté par une structure (fédération, association), il a fait office de test. 
-
-**Chapitre III...** 
-
-2019 est là. Cette initiative a suscité l'intérêt des paysagistes concepteurs : 10% ont répondu présents. Ces premiers résultats sont prometteurs pour la nouvelle étude qui débutera en octobre. Par la force de notre réseau, nous gagnerons petit à petit une plus grande légitimité aux côtés des autres métiers de la conception d'espace public. Continuons à diffuser ces informations et à débattre sur notre avenir commun. Soyons libre d'imaginer une rémunération à la hauteur de nos compétences avérées, soyons confiants et ambassadeurs de notre discipline.
+Par la force de notre réseau, nous gagnerons petit à petit une plus grande légitimité aux côtés des autres métiers de la conception d'espace public. Continuons à diffuser ces informations et à débattre sur notre avenir commun. Soyons confiants et ambassadeurs de notre discipline.
