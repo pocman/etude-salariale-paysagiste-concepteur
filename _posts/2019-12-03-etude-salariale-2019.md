@@ -21,34 +21,7 @@ La parité est presque respectée avec *50 femmes et 54 hommes*.
 
 ![Histogramme des salaires bruts](/etude-salariale-paysagiste-concepteur/assets/images/2019/rem_hist.png)
 
-### Statuts salariales
-#### Statut par type de structure
-
-| Dans quel type de structure êtes-vous ? | Quel est votre statut ?               | Répondants |
-|-----------------------------------------|---------------------------------------|------------|
-| Agence de conception                    | C.D.D                                 | 13         |
-| Agence de conception                    | C.D.I                                 | 23         |
-| Agence de conception                    | Dirigeant de SARL                     | 3          |
-| Bureau d'études                         | Auto-entrepreneur                     | 1          |
-| Bureau d'études                         | C.D.D                                 | 6          |
-| Bureau d'études                         | C.D.I                                 | 19         |
-| Entreprise de réalisation               | Auto-entrepreneur                     | 1          |
-| Entreprise de réalisation               | C.D.D                                 | 1          |
-| Entreprise de réalisation               | C.D.I                                 | 10         |
-| Entreprise de réalisation               | Dirigeant de SARL                     | 2          |
-| Freelance / Indépendant                 | Auto-entrepreneur                     | 4          |
-| Freelance / Indépendant                 | Dirigeant d'entreprise salarié        | 1          |
-| Freelance / Indépendant                 | Dirigeant de SARL                     | 2          |
-| Fonction publique                       | C.D.D                                 | 3          |
-| Fonction publique                       | Contractuel dans la fonction publique | 1          |
-| Fonction publique                       | Fonctionnaire                         | 3          |
-| Autre                                   | C.D.I                                 | 4          |
-| Groupe                                  | C.D.I                                 | 3          |
-| Association                             | C.D.D                                 | 2          |
-| Agence d'Urbanisme du réseau F.N.A.U    | C.D.D                                 | 1          |
-| C.A.U.E                                 | C.D.I                                 | 1          |
-
-#### Statut en fonction du sexe
+### Statut en fonction du sexe
 On peut remarquer une précarité accrue chez les femmes, avec *40%* de statut précaires (CDD et Auto-entrepreneur), contre *22%* chez les hommes.
 
 | Quel est votre sexe ? | Quel est votre statut ?               | Répondants |
