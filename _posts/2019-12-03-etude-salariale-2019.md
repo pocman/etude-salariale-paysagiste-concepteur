@@ -22,7 +22,7 @@ La parité est presque respectée avec *50 femmes et 54 hommes*.
 ![Histogramme des salaires bruts](/etude-salariale-paysagiste-concepteur/assets/images/2019/rem_hist.png)
 
 ### Statut en fonction du sexe
-On peut remarquer une précarité accrue chez les femmes, avec *40%* de statut précaires (CDD et Auto-entrepreneur), contre *22%* chez les hommes.
+On peut remarquer une précarité accrue chez les femmes, avec *40%* de statuts précaires (CDD et Auto-entrepreneur), contre *22%* chez les hommes.
 
 | Quel est votre sexe ? | Quel est votre statut ?               | Répondants |
 |-----------------------|---------------------------------------|------------|
