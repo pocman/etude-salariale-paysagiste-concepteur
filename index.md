@@ -7,6 +7,9 @@ author_profile: true
 L'enquête 2019 est lancée !
 Pour gagner en pertinence, n'hésitez pas à partager votre expérience en répondant sur **[cette page](https://framaforms.org/etude-salaire-2019-paysagiste-concepteur-1571164965) d'ici le 31 mars 2020** (date de clôture de l'étude).
 
+# Résultats Préliminaires 2019
+Les résultats préliminaires et analyses de l'enquête 2019 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2019/)**.
+
 # Résultats 2018
 Les résultats et analyses de l'enquête 2018 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
 
