@@ -4,9 +4,7 @@ main:
     url: https://framaforms.org/etude-salaire-2019-paysagiste-concepteur-1571164965
   - title: "📊 Résultats 2019"
     url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2019/
-  - title: "Archives"
-    subfolderitems:
-      - page: "📊 Résultats 2018"
-        url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/
+  - title: "📊 Résultats 2018"
+    url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/
   - title: "Accueil"
     url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/
