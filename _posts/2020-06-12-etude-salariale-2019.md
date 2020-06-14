@@ -38,11 +38,11 @@ Et les hommes sont plus représentés dans les statuts de dirigeants.
 |                                         |         |    Femme  | Homme  |
 | C.D.I                                   |  54,81% |    57,21% | 52,11% |
 | C.D.D                                   |  16,54% |    19,53% | 13,16% |
-| Dirigeant de SARL                       |  12,35% |    8,37%  | 16,84% |
-| Auto-entrepreneur                       |  7,16%  |    8,84%  | 5,26%  |
-| Dirigeant d'entreprise salarié          |  3,95%  |    2,33%  | 5,79%  |
+| Dirigeant.e de SARL                       |  12,35% |    8,37%  | 16,84% |
+| Auto-entrepreneur.se                       |  7,16%  |    8,84%  | 5,26%  |
+| Dirigeant.e d'entreprise salarié          |  3,95%  |    2,33%  | 5,79%  |
 | Fonctionnaire                           |  3,21%  |    1,86%  | 4,74%  |
-| Contractuel dans la fonction publique   |  1,98%  |    1,86%  | 2,11%  |
+| Contractuel.le dans la fonction publique   |  1,98%  |    1,86%  | 2,11%  |
 
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
@@ -56,16 +56,16 @@ mais les hommes dans cette situation sont globalement plus satisfaits de leur em
 
 |                  | Sexe  | Moyenne Satisfaction globale | Moyenne Satisfaction temps de travail | % de réponses |
 |------------------|-------|------------------------------|---------------------------------------|---------------|
-| Temps partiel    |       | 3,81                         | 4,10                                  | 7,65%         |
+| **Temps partiel    |       | 3,81                         | 4,10                                  | 7,65%**         |
 |                  | Femme | 3,81                         | 4,07                                  | 6,67%         |
 |                  | Homme | 3,75                         | 4,25                                  | 0,99%         |
-| Temps plein      |       | 3,53                         | 3,48                                  | 68,15%        |
+| **Temps plein      |       | 3,53                         | 3,48                                  | 68,15%**       |
 |                  | Femme | 3,49                         | 3,43                                  | 36,54%        |
 |                  | Homme | 3,58                         | 3,54                                  | 31,60%        |
-| Temps trop plein |       | 3,57                         | 2,40                                  | 24,20%        |
+| **Temps trop plein |       | 3,57                         | 2,40                                  | 24,20%**        |
 |                  | Femme | 3,25                         | 2,08                                  | 9,88%         |
 |                  | Homme | 3,79                         | 2,62                                  | 14,32%        |
-| Ensemble         |       | 3,56                         | 3,26                                  | 100,00%       |
+| **Ensemble         |       | 3,56                         | 3,26                                  | 100,00%**       |
 
 ![Moyenne de la satisfaction du temps de trvail en fonction du temps de travail](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-satisfaction-temps-travail-fonction-temps-travail.png)
 
@@ -82,7 +82,7 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 | Sortie depuis 4 à 6 ans de formation initiale       | 1965€     | 1855€  | 2086€  | 1846€     | 2155€          |
 | Sortie depuis 7 à 10 ans de formation initiale      | 1967€     | 1975€  | 1957€  | 1861€     | 2289€          |
 | Sortie depuis 11 ans ou plus de formation initiale  | 2484€     | 2072€  | 2830€  | 2412€     | 2616€          |
-| Ensemble                                            | 2048€     | 1883€  | 2235€  | 1969€     | 2211€          |
+| **Ensemble                                            | 2048€     | 1883€  | 2235€  | 1969€     | 2211€**          |
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
@@ -101,35 +101,37 @@ Lecture : en 2020, 10 % des répondant.e.s en équivalent temps plein perçoiven
 | D8           | 2500€    | 2317€    | 2620€    |
 | D9           | 2901€    | 2596€    | 3230€    |
 
+Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante.
+
 ## Satisfaction au travail en fonction du type de contrat
 La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satisfait**.
 
-| Statut                                | Sexe  | Moyenne satisfaction globale | Moyenne satisfaction rémunération | Moyenne satisfaction temps de travail | # réponses |
+| Statut                                | Sexe  | Moyenne satisfaction au travail | Moyenne satisfaction rémunération | Moyenne satisfaction temps de travail | # réponses |
 |---------------------------------------|-------|------------------------------|-----------------------------------|---------------------------------------|------------|
-| Auto-entrepreneur                     |       | 3,45                         | 1,76                              | 2,66                                  | 29         |
+| **Auto-entrepreneur.se                     |       | 3,45                         | 1,76                              | 2,66                                  | 29**         |
 |                                       | Femme | 3,26                         | 1,84                              | 2,47                                  | 19         |
 |                                       | Homme | 3,80                         | 1,60                              | 3,00                                  | 10         |
-| C.D.D                                 |       | 3,37                         | 2,72                              | 3,28                                  | 67         |
+| **C.D.D                                 |       | 3,37                         | 2,72                              | 3,28                                  | 67**         |
 |                                       | Femme | 3,38                         | 2,64                              | 3,24                                  | 42         |
 |                                       | Homme | 3,36                         | 2,84                              | 3,36                                  | 25         |
-| C.D.I                                 |       | 3,46                         | 2,69                              | 3,32                                  | 222        |
+| **C.D.I                                 |       | 3,46                         | 2,69                              | 3,32                                  | 222**        |
 |                                       | Femme | 3,45                         | 2,71                              | 3,33                                  | 123        |
 |                                       | Homme | 3,48                         | 2,68                              | 3,31                                  | 99         |
-| Contractuel dans la fonction publique |       | 3,88                         | 2,75                              | 4,00                                  | 8          |
+| **Contractuel dans la fonction publique |       | 3,88                         | 2,75                              | 4,00                                  | 8**          |
 |                                       | Femme | 4,00                         | 2,50                              | 3,75                                  | 4          |
 |                                       | Homme | 3,75                         | 3,00                              | 4,25                                  | 4          |
-| Dirigeant d'entreprise salarié        |       | 3,94                         | 2,81                              | 3,38                                  | 16         |
+| **Dirigeant.e d'entreprise salarié        |       | 3,94                         | 2,81                              | 3,38                                  | 16**         |
 |                                       | Femme | 4,20                         | 3,40                              | 4,20                                  | 5          |
 |                                       | Homme | 3,82                         | 2,55                              | 3,00                                  | 11         |
-| Dirigeant de SARL                     |       | 4,14                         | 2,64                              | 3,00                                  | 50         |
+| **Dirigeant.e de SARL                     |       | 4,14                         | 2,64                              | 3,00                                  | 50**         |
 |                                       | Femme | 3,83                         | 1,56                              | 3,06                                  | 18         |
 |                                       | Homme | 4,31                         | 3,25                              | 2,97                                  | 32         |
-| Fonctionnaire                         |       | 3,62                         | 3,15                              | 3,92                                  | 13         |
+| **Fonctionnaire                         |       | 3,62                         | 3,15                              | 3,92                                  | 13**         |
 |                                       | Femme | 4,00                         | 3,75                              | 4,00                                  | 4          |
 |                                       | Homme | 3,44                         | 2,89                              | 3,89                                  | 9          |
-| Total                                 |       | 3,56                         | 2,64                              | 3,26                                  | 405        |
+| **Total                                 |       | 3,56                         | 2,64                              | 3,26                                  | 405**        |
 
-Les personnes les plus satisfaites au travail sont les dirigeants de SARL, les moins satisfaites sont les personnes en C.D.D.
+Les personnes les plus satisfaites au travail sont les dirigeant.es de SARL, les moins satisfaites sont les personnes en C.D.D.
 On observe une différence de satisfaction au travail entre homme et femme chez les dirigeant.e.s, les fonctionnaires et les auto-entrepreneur.se.s.
 La satisfaction est homogène entre les sexes pour les personnes en C.D.I et en C.D.D.
 ![Moyenne de la satisfaction globale en fonction du statut et du sexe](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-de-la-satisfaction-globale-en-fonction-du-statut-et-du-sexe.png)
@@ -138,22 +140,22 @@ La satisfaction est homogène entre les sexes pour les personnes en C.D.I et en 
 
 ![Moyenne de la satisfaction de la rémunération en fonction du statut et du sexe](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-de-la-satisfaction-rémunération.png)
 
-## Parité au sein des dirigeants en fonction de la taille de la structure
-Malgré une parité au sein des répondant.e.s, on observe que les femmes sont sous représentées au sein des dirigeants.
+## Parité au sein des dirigeant.e.s en fonction de la taille de la structure
+Malgré une parité au sein des répondant.e.s, on observe que les femmes sont sous représentées au sein des dirigeant.e.s.
 
 | Statut / taille de la structure| Ensemble |            |            |
 |--------------------------------|----------|------------|------------|
 |                                |          | dont Femme | dont Homme |
-| Dirigeant d'entreprise salarié | 16       | 5          | 11         |
-| 1 employées                    | 1        |            | 1          |
-| 2-5 employées                  | 13       | 5          | 8          |
-| 6-10 employées                 | 1        |            | 1          |
-| 11-50 employées                | 1        |            | 1          |
-| Dirigeant de SARL              | 50       | 18         | 32         |
-| 1 employées                    | 20       | 7          | 13         |
-| 2-5 employées                  | 20       | 9          | 11         |
-| 6-10 employées                 | 7        | 2          | 5          |
-| 11-50 employées                | 3        |            | 3          |
-| Total                          | 66       | 23         | 43         |
+| **Dirigeant.e d'entreprise salarié | 16       | 5          | 11**        |
+| 1 employé.e                    | 1        |            | 1          |
+| 2-5 employé.es                  | 13       | 5          | 8          |
+| 6-10 employé.es                 | 1        |            | 1          |
+| 11-50 employé.es                | 1        |            | 1          |
+| **Dirigeant.e de SARL              | 50       | 18         | 32**         |
+| 1 employé.e                    | 20       | 7          | 13         |
+| 2-5 employé.es                  | 20       | 9          | 11         |
+| 6-10 employé.es                 | 7        | 2          | 5          |
+| 11-50 employé.es                | 3        |            | 3          |
+| **Total                          | 66       | 23         | 43**         |
 
 Si vous avez des remarques ou des propositions d'analyses complémentaires, merci de me contacter par email (voir en haut à gauche) ou sur twitter.
