@@ -1,0 +1,431 @@
+Séquentiel,De quelle école êtes-vous diplômé(e) ?,Autre diplôme,En quelle année avez-vous été diplômé(e) ?,Combien d'années d'expérience avez-vous ?,Quelle est votre localisation actuelle ?,Autre localisation,Quel est votre sexe ?,Dans quel type de structure êtes-vous ?,Autre type de structure,Quelle est la taille de cette structure ?,Quelle est la convention collective de cette structure ?,Quel est votre statut ?,Quel est votre temps de travail hebdomadaire effectif annualisé ?,Etes-vous satisfait(e) de votre charge horaire ?,Quel type de poste occupez-vous ?,Autre type de poste,Années d'ancienneté,Avez-vous un poste critique au sein de votre structure ?,Etes-vous satisfait(e) de votre emploi ?,Quel est votre salaire ANNUEL NET imposable en 2019 ?,Quel est votre salaire MENSUEL NET imposable en 2019 ?,Quel est votre revenu d’activité annuel en 2019 ?,"Pour les auto-entrepreneurs, quel est votre revenu non salarial annualisé en 2019 ?",Quels sont vos avantages ?,Etes-vous satisfait(e) de votre rémunération ?
+5,ENSAPBX,,2015,4,Autre,Limoges,Femme,Bureau d'études,,26-50,Syntec,C.D.I,38,3,Responsable d'équipe,,4,3,4,23000,,0,0,,2
+6,ENSAPL,,2016,3,Autre,Compiègne,Homme,Bureau d'études,,11-25,Syntec,C.D.I,45,4,Responsable d'agence / bureaux,,3,3,4,39300,,0,0,,5 - Très satisfait
+7,ENSAPL,,2014,3,Lille,,Homme,Fonction publique,,201-500,Fonction publique,Fonctionnaire,35,1,Responsable d'agence / bureaux,,2,2,3,24240,,0,0,,2
+8,ESAJ,,2014,3,Canada,,Homme,Groupe,,1001-...,Bureau d'ingénieure,C.D.I,37.5,5 - Très satisfait,Chef(fe) de projet débutant,,3,3,4,24000,,,0,,2
+9,ENSAPL,,2016,3,Lille,,Femme,Agence de conception,,6-10,Entreprises d’architecture,C.D.I,42,3,Chef(fe) de projet,,3,3,4,25420,,0,0,,4
+10,ENSAPL,,2016,3,Île-de-France,,Homme,Bureau d'études,,6-10,Bureau d’études technique ingénierie,C.D.I,45,4,Chef(fe) de projet,,2,3,5 - Très satisfait,35000,,0,0,,4
+11,ENSNP,,2019,0,Paris,,Homme,Bureau d'études,,6-10,entreprise paysagiste,C.D.D,39,5 - Très satisfait,Assistant(e) de projet,,0,2,5 - Très satisfait,24000,2000,0,0,,5 - Très satisfait
+12,ENSP Versailles,,2019,1,Lyon,,Femme,Agence de conception,,2-5,Entreprises architectes,C.D.D,39,4,Assistant(e) de projet,,0,2,4,19200,1600,0,0,,3
+13,Agrocampus Ouest (INH),,2019,0,Autre,Thouars,Femme,Fonction publique,,201-500,Fonction publique territoriale,C.D.D,39,4,Autre,Chef de service,0,3,4,19800,1650,0,0,,3
+14,ENSP Marseille,,2018,1,Lyon,,Femme,Bureau d'études,,11-25,Bureau d'étude technique,C.D.I,42,4,Chargé(e) d'étude débutant,,1,1,4,21600,,0,0,,3
+15,ENSNP,,2017,2,Autre,Irlande,Femme,Agence de conception,,11-25,Entreprises paysagistes,C.D.I,37.5,5 - Très satisfait,Chargé(e) d'étude débutant,,2,3,3,38000,,0,0,,5 - Très satisfait
+16,ENSNP,,2017,2,Autre,Bruxelles,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,39,2,Chef(fe) de projet débutant,,2,3,4,10632,,0,0,,2
+17,ENSAPL,,2018,0,Toulouse,,Femme,Agence de conception,,2-5,entreprises d'architecture,C.D.D,32,5 - Très satisfait,Assistant(e) d'étude,,0,2,5 - Très satisfait,,0,0,0,,3
+18,Agrocampus Ouest (INH),,2019,0,Paris,,Homme,Agence de conception,,51-200,Entreprises paysagistes architectes et urbanistes,C.D.D,39,4,Dessinateur(trice) projeteur,,0,2,3,21000,1750,0,0,,3
+20,ENSAPL,,2018,1,Paris,,Homme,Agence de conception,,26-50,Entreprises d'architecture,C.D.I,37,5 - Très satisfait,Chargé(e) d'étude débutant,,1,1,3,18456,1538,0,0,,0 - Pas du tout satisfait
+21,ENSNP,,2006,13,Île-de-France,,Homme,Agence de conception,,6-10,Syntec,Dirigeant de SARL,50,2,Directeur(trice) de société,,11,4,3,35000,2900,,,,2
+22,Autre,,2010,8,Lille,,Homme,Agence de conception,,2-5,Entreprises d architecture,C.D.I,45,0 - Pas du tout satisfait,Chef(fe) de projet,,1,2,0 - Pas du tout satisfait,24456,2038,,,,0 - Pas du tout satisfait
+23,Agrocampus Ouest (INH),,2007,13,Lille,,Femme,Fonction publique,,1001-...,Fonction publique,Fonctionnaire,39,4,Chef(fe) de projet,,10,2,5 - Très satisfait,38000,3100,,,,4
+24,ENSAPL,,2018,0,Paris,,Femme,Agence de conception,,51-200,Entreprise d'architecture,C.D.D,40,3,Assistant(e) de projet,,0,1,4,11400,1900,,,,5 - Très satisfait
+25,ENSP Versailles,,2015,3,Lyon,,Homme,Agence de conception,,501-1000,Entreprises d'architecture,C.D.I,39,4,Assistant(e) de projet,,1,3,2,,1835,,,,2
+26,ENSAPL,,2016,3,Lyon,,Homme,Agence de conception,,6-10,Entreprises d’architecture,C.D.D,39,4,Chef(fe) de projet débutant,,1,2,3,,1850,,,,2
+27,ENSP Versailles,,2012,4,Paris,,Homme,Agence de conception,,26-50,Architectes,C.D.D,39,4,Chef(fe) de projet,,1,3,4,31200,2600,,,,4
+28,ENSNP,,2013,5,Strasbourg,,Femme,Agence de conception,,2-5,Convention collective nationale des entreprises d’architecture,C.D.I,35,4,Chargé(e) d'étude,,3,3,4,21467,1693,,,,4
+29,Autre,Licence Dessinateur,2015,4,Lyon,,Homme,Entreprise de réalisation,,51-200,Entreprises paysagistes,Auto-entrepreneur,46,3,Chef(fe) de projet,,1,2,4,20640,1720,,,,2
+30,ENSAPL,,2015,3,Île-de-France,,Homme,Autre,Établissement public d'aménagement,51-200,Immobilier,C.D.I,40,4,Autre,Charge de projets,1,3,4,32500,2700,,,,4
+31,Agrocampus Ouest (INH),,2017,2,Paris,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,35,3,Assistant(e) de projet,,1,4,3,,1770,,,,3
+32,ENSAPL,,2018,1,Rennes,,Femme,Bureau d'études,,26-50,Syntex,C.D.D,39,4,Chef(fe) de projet débutant,,1,2,3,22500,1875,,,,4
+33,ESAJ,,2011,10,Nantes,,Homme,Freelance / Indépendant,,2-5,Entreprises paysagistes,Dirigeant de SARL,60,3,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,30000,2500,,,,5 - Très satisfait
+34,ENSAPL,,2016,2,Toulouse,,Homme,Agence de conception,,6-10,entreprises d’architecture,C.D.I,38,4,Chef(fe) de projet débutant,,2,1,4,24000,2000,,,,4
+35,ITIAPE - ISA Lille,,2009,13,Île-de-France,,Femme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.I,39,4,Chargé(e) d'étude,,4,3,3,24000,2000,,,,1
+36,ENSAPBX,,2018,1,Autre,Dijon,Homme,Bureau d'études,,2-5,Bureaux d'études techniques,C.D.D,35,3,Chargé(e) d'étude,,1,4,4,21252,1771,,,,3
+37,ENSAPBX,,2016,3,Bordeaux,,Homme,Freelance / Indépendant,,1,Bureau d'étude architecture paysagère,Auto-entrepreneur,45,3,Autre,,3,5 - Essentiel à la survie de l'entreprise,4,,,,12000,,1
+38,Autre,ESA (Ecole supérieur d'agriculture d'angers),2014,3,Nantes,,Homme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.I,55,3,Chef(fe) de projet,,3,4,4,28000,2300,,,,3
+39,Autre,CS collaborateur du concepteur paysagiste,2016,3,Autre,Angers,Homme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,39,4,Chargé(e) d'étude,,3,2,3,20500,,,,,1
+40,ESAJ,,2018,1,Paris,,Femme,Agence de conception,,6-10,Bureau d’etude,C.D.D,39,3,Chargé(e) d'étude débutant,,1,3,3,,1756,,,,2
+41,ITIAPE - ISA Lille,,2006,13,Autre,Maintenon,Femme,Freelance / Indépendant,,1,Architecte,Dirigeant de SARL,39,5 - Très satisfait,Directeur(trice) de société,,10,5 - Essentiel à la survie de l'entreprise,3,12000,1200,14400,,,0 - Pas du tout satisfait
+42,Agrocampus Ouest (INH),,2016,2,Lyon,,Homme,Groupe,,1001-...,Entreprises paysagistes,C.D.I,39,3,Chef(fe) de projet,,2,5 - Essentiel à la survie de l'entreprise,4,27300,2100,0,0,,2
+43,ENSP Versailles,,2008,10,Paris,,Femme,Agence de conception,,51-200,Entreprises d'architecture,C.D.I,45,1,Chef(fe) de projet,,4,2,2,31834,2652,,,,0 - Pas du tout satisfait
+44,Autre,Licence pro infographie paysagère,2017,2,Autre,Quimper,Homme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,39,4,Assistant(e) d'étude,,2,4,3,19010,1555,,,,2
+45,Autre,Licence Aménagement Paysager,2013,6,Autre,Angers,Femme,Bureau d'études,,51-200,Entreprises paysagistes,C.D.I,39,2,Chargé(e) d'étude,,6,3,4,20565,1600,,,,0 - Pas du tout satisfait
+46,Agrocampus Ouest (INH),,2017,3,Autre,Angers,Homme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,40,3,Chargé(e) d'étude,,2,3,3,,1800,,,,2
+47,ENSAPL,,2018,2,Autre,Asie du Sud Est,Homme,Agence de conception,,26-50,NA,C.D.I,45,3,Chef(fe) de projet débutant,,1,3,3,27600,2300,,,,3
+48,Agrocampus Ouest (INH),,2017,2,Autre,La Reunion,Femme,Bureau d'études,,2-5,Synthec,C.D.I,35,3,Chef(fe) de projet,,2,4,2,,1980,,,,3
+49,ENSP Versailles - Formation continue,,2014,5,Autre,LA ROCHELLE,Femme,Freelance / Indépendant,,1,aucune,Auto-entrepreneur,25,2,Directeur(trice) de société,,5,1,2,,,15000,,,0 - Pas du tout satisfait
+50,ESAJ,,2014,3,Paris,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,32,5 - Très satisfait,Assistant(e) de projet,,3,3,5 - Très satisfait,22000,1850,0,0,,3
+51,ITIAPE - ISA Lille,,2015,6,Rennes,,Femme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,35,5 - Très satisfait,Dessinateur(trice) projeteur,,6,2,4,19100,1530,,,,3
+52,Autre,,2017,4,Bordeaux,,Homme,Agence de conception,,26-50,Entreprises paysagistes,C.D.D,39,3,Chargé(e) d'étude,,0,2,3,26000,2200,30000,30000,,3
+53,ENSP Versailles,,2019,1,Paris,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.D,39,2,Chargé(e) d'étude débutant,,0,2,2,,1600,,,,0 - Pas du tout satisfait
+54,Lullier,,2016,3,Grenoble,,Homme,Bureau d'études,,6-10,syntec,C.D.I,35,0 - Pas du tout satisfait,Dessinateur(trice) projeteur,,1,1,2,13883,1630,,,,0 - Pas du tout satisfait
+55,Autre,Licence professionnelle Infographie paysagère,2013,5,Autre,Angers,Homme,Autre,Entreprise arrosage,51-200,Entreprises paysagistes,C.D.I,39,3,Chargé(e) d'opération,,3,2,4,25500,2150,0,0,,3
+56,ENSAPL,,2016,2,Autre,TRESSON-SARTHE,Homme,Bureau d'études,,2-5,Code du travail - sans convention collective,C.D.I,40,4,Chef(fe) de projet débutant,,2,2,4,20600,1716,19300,,,3
+57,Autre,Licence aménagements paysagers option infographie,2016,2,Toulouse,,Homme,Bureau d'études,,11-25,Entreprises paysagistes,C.D.I,39,2,Chargé(e) d'étude,,2,4,2,21600,1800,,,,2
+59,ENSP Versailles - Formation continue,,2017,2,Paris,,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,39,2,Chargé(e) d'étude débutant,,1,2,2,,,,28548,,2
+60,ENSAPL,,2016,3,Nantes,,Femme,Agence de conception,,11-25,Entreprises d'architecture,C.D.D,39,3,Assistant(e) de projet,,0,2,5 - Très satisfait,25600,2130,,,,3
+61,Autre,,2008,11,Lyon,,Homme,Bureau d'études,,6-10,Bureau d'étude Syntec,C.D.I,39,3,Chargé(e) d'étude,,9,4,4,31000,2300,,,,4
+62,ENSNP,,2018,1,Autre,Angouleme,Femme,Bureau d'études,,2-5,Bureaux d'études techniques,C.D.D,28,4,Chargé(e) d'étude débutant,,1,4,4,16800,1400,,,RTT,4
+63,ENSP Versailles - Formation continue,,2020,1,Paris,,Femme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.D,35,0 - Pas du tout satisfait,Chargé(e) d'étude,,1,5 - Essentiel à la survie de l'entreprise,0 - Pas du tout satisfait,18000,1500,0,,,0 - Pas du tout satisfait
+64,ENSP Versailles,,2018,1,Paris,,Femme,Agence de conception,,51-200,Entreprise d’architecte,C.D.D,40,3,Dessinateur(trice) projeteur,,1,1,3,23640,1970,,,Tickets restaurants,5 - Très satisfait
+65,Autre,Lycée horticole de Winzenheim Alsace,1991,28,Strasbourg,,Homme,Entreprise de réalisation,,1,Entreprises paysagistes,Dirigeant de SARL,80,0 - Pas du tout satisfait,Directeur(trice) de société,,7,5 - Essentiel à la survie de l'entreprise,2,15600,1300,0,,Aucun,0 - Pas du tout satisfait
+66,Autre,CS ccp,2017,4,Toulouse,,Femme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,39,3,Chargé(e) d'étude débutant,,2,3,3,21600,1800,,,,4
+67,Lullier,,2010,9,Autre,DOM,Homme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,39,4,Chef(fe) de projet,,6,4,4,38000,2700,,,"voiture de fonction, tickets restau, téléphone",3
+68,ITIAPE - ISA Lille,,2017,5,Nantes,,Homme,Entreprise de réalisation,,6-10,Entreprises paysagistes,C.D.I,41,4,Autre,Responsable bureau d'études et secteur création,2,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,22800,1900,,,paniers reaps,2
+69,ENSP Versailles,,2017,2,Île-de-France,,Femme,Fonction publique,,51-200,Ecole de paysage - fonction publique,C.D.D,42,3,Autre,Chargée de mission,1,3,2,18300,1601,,3000,,1
+70,ENSP Versailles,,2001,18,Paris,,Femme,Agence de conception,,11-25,Entreprises architecture,C.D.D,39,2,Chargé(e) d'étude confirmé,,10,2,3,32000,3200,,,RTT tickets restaurants,1
+71,ENSP Versailles,,2013,5,Lyon,,Femme,Agence de conception,,6-10,Syntec,C.D.I,40,1,Chef(fe) de projet débutant,,1,2,2,22800,1905,,,Salle de sport,1
+72,ENSP Versailles,,2019,2,Île-de-France,,Femme,Bureau d'études,,11-25,Entreprises paysagistes,C.D.I,39,3,Chef(fe) de projet débutant,,2,0 - Pas d'impact,3,32000,2100,,,"Rtt, ce, indemnites repas",3
+73,Autre,License pro angers,2009,12,Bordeaux,,Homme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant de SARL,42,3,Autre,Un peu tous,4,5 - Essentiel à la survie de l'entreprise,4,21000,1700,1000,,Chèques vacances,2
+74,Autre,Licence professionnelle aménagements paysagers,2018,1,Autre,Orleans,Homme,Bureau d'études,,11-25,Entreprises paysagistes,C.D.D,39,2,Dessinateur(trice) projeteur,,1,5 - Essentiel à la survie de l'entreprise,3,12000,,,,,1
+75,ENSP Versailles - Formation continue,,2018,3,Paris,,Femme,Bureau d'études,,11-25,Entreprises paysagistes,Auto-entrepreneur,39,1,Chef(fe) de projet débutant,,3,0 - Pas d'impact,1,24000,2000,24000,,,1
+76,ENSAPBX,,2018,1,Bordeaux,,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,25,3,Responsable d'agence / bureaux,,1,5 - Essentiel à la survie de l'entreprise,2,,,,6500,,2
+77,ESAJ,,1983,34,Paris,,Homme,Fonction publique,,1001-...,Fonction publique,Contractuel dans la fonction publique,39,4,Chargé(e) d'étude,,32,2,3,,2300,,,RTT,2
+78,ENSAPBX,,2017,2,Autre,Rouen - Normandie,Femme,Bureau d'études,,26-50,Bureau d'études,C.D.I,40,1,Chargé(e) d'étude débutant,,2,2,2,24000,1600,,,,0 - Pas du tout satisfait
+79,ENSAPBX,,2014,4,Paris,,Femme,Agence de conception,,6-10,pas de convention collective,C.D.I,40,4,Chef(fe) de projet débutant,,2,2,3,,2290,,,,4
+80,Autre,Apprenti d'auteuil marcoussis,2017,2,Île-de-France,,Homme,Autre,Pme,6-10,Entreprises paysagistes,C.D.I,35,2,Autre,Arboriste grimpeur,0,3,3,15120,1260,,,,0 - Pas du tout satisfait
+81,Autre,,2015,4,Paris,,Homme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.I,35,3,Responsable d'équipe,,3,3,3,23000,2300,,,,3
+82,ENSP Versailles,,2017,2,Paris,,Homme,Agence de conception,,2-5,Code du travail,C.D.I,39,2,Assistant(e) de projet,,2,3,2,22800,1900,0,0,Ticket restaurant,0 - Pas du tout satisfait
+83,ENSP Versailles,,2010,9,Autre,DOM,Femme,Bureau d'études,,6-10,bureaux d’études techniques - Syntec,C.D.I,35,2,Chef(fe) de projet,,9,0 - Pas d'impact,2,,2200,28600,,,2
+84,Autre,,2007,11,Autre,vosges,Homme,Fonction publique,,201-500,fonction publique,Fonctionnaire,36,4,Responsable d'équipe,,8,3,0 - Pas du tout satisfait,16000,1300,,,aucun,0 - Pas du tout satisfait
+85,ENSAPBX,,2019,1,Bordeaux,,Homme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.D,39,2,Chargé(e) d'étude,,0,3,3,,1590,,,,3
+86,Autre,BTS Aménagement paysager,1996,22,Rennes,,Homme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,39,4,Chef(fe) de projet confirmé,,22,3,4,24000,2000,,,"souplesse horaire, mise à disposition de véhicules, matériels",2
+87,ENSAPL,,2013,5,Grenoble,,Femme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant de SARL,45,2,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,4,,,21000,,,3
+88,Autre,Cs,2012,8,Île-de-France,,Homme,Freelance / Indépendant,,2-5,Entreprises paysagistes,Dirigeant d'entreprise salarié,39,4,Directeur(trice) de société,,3,0 - Pas d'impact,3,24000,1200,,,Dividende,2
+89,Autre,,2018,1,Lyon,,Homme,Autre,,26-50,Entreprises paysagistes,C.D.I,35,1,Autre,,1,2,2,20000,,,,,1
+90,ENSNP,,2019,0,Bordeaux,,Femme,Association,,6-10,Animation,C.D.D,35,5 - Très satisfait,Autre,Médiatrice culturelle chargé d’education À l’environnement,0,4,4,,1198,,,Aucun,0 - Pas du tout satisfait
+91,Autre,Cs taille et soins aux arbres,2015,4,Paris,,Homme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,39,4,Responsable d'équipe,,0,2,3,,2100,,,,3
+92,Autre,Cs taille et soins aux arbres,2009,14,Autre,Quimper,Homme,Groupe,,51-200,Entreprises paysagistes,C.D.I,35,2,Responsable d'équipe,,10,4,2,18000,1550,,,Rien,0 - Pas du tout satisfait
+93,ENSNP,,2017,2,Nantes,,Homme,Agence de conception,,2-5,Syntec,C.D.I,38,4,Chef(fe) de projet débutant,,2,3,4,22692,1891,,,,4
+94,ENSP Versailles,,1992,25,Île-de-France,,Homme,Bureau d'études,,201-500,syntec,C.D.I,39,5 - Très satisfait,Responsable d'équipe,,1,2,3,41000,3400,,,cantine groupe.,3
+95,Lullier,,2017,2,Paris,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,39,4,Assistant(e) de projet,,2,3,4,20568,1714,20076,,ticket restaurant,2
+96,ITIAPE - ISA Lille,,2012,12,Lille,,Homme,Association,,51-200,Entreprises paysagistes,C.D.D,35,5 - Très satisfait,Responsable d'équipe,,1,3,5 - Très satisfait,16000,1333,,,,1
+97,ENSAPL,,2018,1,Autre,Dunkerque,Femme,Agence d'Urbanisme du réseau F.N.A.U,,26-50,"Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement du 24 mai 2007",C.D.D,37.5,5 - Très satisfait,Assistant(e) d'étude,,1,3,5 - Très satisfait,25029,2085,,,"RTT, tickets restaurants, voiture de fonction, Chèques cadeaux",5 - Très satisfait
+98,Gembloux,,2015,1,Angleterre,,Homme,Agence de conception,,51-200,Entreprises paysagistes,C.D.I,39,5 - Très satisfait,Assistant(e) de projet,,1,1,5 - Très satisfait,20000,1800,,,,2
+99,ENSAPL,,2016,3,Angleterre,,Femme,Agence de conception,,11-25,Entreprises paysagistes,C.D.I,39,1,Assistant(e) de projet,,3,4,2,28500,2375,,,,3
+100,Autre,BTSAP,2012,6,Autre,Lozère,Homme,Entreprise de réalisation,,2-5,Entreprises paysagistes,Dirigeant de SARL,45,3,Autre,Dirigeant,6,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,14400,1200,,,,3
+101,Agrocampus Ouest (INH),,2013,5,Autre,Limoges,Femme,Bureau d'études,,26-50,bureaux d’études techniques - Syntec,C.D.I,38,2,Autre,Responsable d'études et d'affaires,1,1,2,20952,1746,,,tickets restaurants et chèques vacances,3
+102,ENSAPL,,2014,4,Angleterre,,Femme,Agence de conception,,51-200,Entreprises paysagistes,C.D.I,40,3,Assistant(e) de projet,,4,0 - Pas d'impact,4,30305,2283,,,,3
+103,Gembloux,,2008,11,Marseille - Aix-en-Provence,,Homme,Bureau d'études,,26-50,bureau études,C.D.I,38,4,Responsable d'agence / bureaux,,6,2,2,30000,2500,0,0,ticket restau,2
+104,ENSAPBX,,2018,1,Autre,Angers,Femme,Bureau d'études,,11-25,Cabinets d'architecture,C.D.I,39,0 - Pas du tout satisfait,Assistant(e) d'étude,,1,1,2,18720,1560,,,,0 - Pas du tout satisfait
+105,ITIAPE - ISA Lille,,2013,6,Autre,Angers,Femme,Fonction publique,,201-500,0Entreprises paysagistes,C.D.D,39,5 - Très satisfait,Responsable d'équipe,,6,3,5 - Très satisfait,22800,1900,,,,3
+106,ENSAPBX,,2018,1,Nantes,,Homme,Bureau d'études,,11-25,Entreprisesd’architecture,C.D.I,44,3,Chargé(e) d'étude débutant,,1,3,4,18840,1550,,,RTT,3
+107,Agrocampus Ouest (INH),,2017,2,Île-de-France,,Femme,Bureau d'études,,26-50,Entreprises d’architecture,C.D.I,37,4,Assistant(e) de projet,,0,4,5 - Très satisfait,17000,1670,,,"RTT, tickets restaurant, 50% pass Navigo",2
+108,ENSAPL,,2018,1,Paris,,Femme,Agence de conception,,51-200,Entreprises d’architecture,C.D.D,39,5 - Très satisfait,Chargé(e) d'étude débutant,,1,1,4,24500,2033,,,Ticket restaurant,5 - Très satisfait
+110,ENSP Versailles,,2016,3,Paris,,Femme,Agence de conception,,51-200,Entreprise d'architecture,C.D.I,39,4,Assistant(e) de projet,,3,3,4,25525,2311,,,"RTT, tickets restaurants, CE",4
+111,ENSAPL,,2015,4,Autre,CAEN,Femme,C.A.U.E,,11-25,Convention collective des CAUE,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude,,1,3,4,23040,1920,,,CP: 30 jours/an - RTT: 18 jours/an - CNAS (CE),3
+112,Lullier,,2002,18,Lyon,,Homme,Agence de conception,,11-25,syntec,C.D.I,39,3,Chef(fe) de projet confirmé,,18,3,3,33000,2500,,,TR,4
+113,Lullier,,2002,17,Autre,Besançon,Homme,Agence de conception,,2-5,Entreprises d’architecture,Dirigeant de SARL,40,4,Directeur(trice) de société,,13,5 - Essentiel à la survie de l'entreprise,4,,,31687,,,3
+114,ENSNP,,2015,4,Paris,,Femme,Agence de conception,,11-25,Entreprise d'architecture,C.D.D,39,2,Chef(fe) de projet débutant,,1,2,3,,2100,,,RTT tickets restaurants,3
+115,ENSNP,,2013,6,Marseille - Aix-en-Provence,,Femme,Entreprise de réalisation,,501-1000,Entreprises paysagistes,C.D.I,40,0 - Pas du tout satisfait,Chargé(e) d'étude débutant,,2,3,0 - Pas du tout satisfait,20000,1400,,,,0 - Pas du tout satisfait
+116,ENSNP,,2013,6,Autre,Tours,Femme,Agence de conception,,2-5,SYNTEC,Dirigeant d'entreprise salarié,39,5 - Très satisfait,Responsable d'agence / bureaux,,6,4,4,20800,1730,,,,3
+117,ENSP Marseille,,2018,1,Lyon,,Homme,Fonction publique,,201-500,Fonction publique,C.D.D,35,5 - Très satisfait,Autre,Technicien territorial grade B,0,3,4,,1644,,,"Vélo de fonction, restaurant municipal",2
+118,ENSP Versailles,,2018,1,Bordeaux,,Homme,Autre,SCEA,11-25,Entreprises paysagistes,C.D.D,39,3,Chargé(e) d'étude débutant,,1,3,3,22000,1800,28000,,logement+restauration midi,3
+119,Lullier,,2010,9,Lyon,,Homme,Agence de conception,,1,entreprises d’architecture,Dirigeant de SARL,43,4,Directeur(trice) de société,,9,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,39000,,,,,3
+120,Agrocampus Ouest (INH),,2007,12,Autre,Franche Comté,Femme,Bureau d'études,,11-25,Géomètres experts,C.D.I,28,4,Chef(fe) de projet confirmé,,12,4,4,25255,2690,,,Voiture de fonction + téléphone,3
+121,ENSP Versailles,,2018,3,Paris,,Femme,Agence de conception,,26-50,Entreprises paysagistes,C.D.I,39,0 - Pas du tout satisfait,Chargé(e) d'étude,,1,2,3,,2100,,,,0 - Pas du tout satisfait
+122,ENSP Versailles,,2018,1,Paris,,Femme,Agence de conception,,51-200,Entreprises architectes,C.D.D,39,2,Assistant(e) de projet,,0,0 - Pas d'impact,1,,1950,,,Tickets resto,4
+123,ENSP Versailles,,2018,1,Autre,Tarn,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,20,3,Directeur(trice) de société,,1,5 - Essentiel à la survie de l'entreprise,3,,,,6000,,1
+124,ENSP Versailles,,2018,0,Paris,,Femme,Agence de conception,,26-50,Entreprises d'architecture,C.D.D,39,4,Chargé(e) d'étude,,0,4,5 - Très satisfait,23388,1949,,,"tickets restaurant, navigo ..",4
+125,ENSP Versailles,,2018,1,Strasbourg,,Femme,Agence de conception,,6-10,Entreprises d'architecture,C.D.I,35,4,Assistant(e) de projet,,1,1,3,,2000,,,Tickets restaurants,4
+126,ENSP Versailles,,2019,0,Île-de-France,,Femme,Fonction publique,,51-200,Entreprises paysagistes,C.D.D,39,2,Chargé(e) d'étude débutant,,0,0 - Pas d'impact,2,,2050,,,"Congés, déplacements",2
+127,ENSAPL,,2018,1,Paris,,Homme,Agence de conception,,11-25,Bureaux d'études techniques,C.D.I,40,2,Chargé(e) d'étude,,1,3,3,,1752,,,,2
+128,ENSAPL,,2018,1,Autre,Caen,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,35,2,Assistant(e) de projet,,1,5 - Essentiel à la survie de l'entreprise,4,,1600,,,,3
+129,ENSNP,,2019,1,Paris,,Homme,Agence de conception,,6-10,Entreprises paysagistes,C.D.D,39,4,Dessinateur(trice) projeteur,,0,1,3,,2000,,,aucun,4
+130,ENSAPL,,2018,0,Toulouse,,Femme,Agence de conception,,2-5,Entreprise d’architecture,C.D.D,34,4,Assistant(e) de projet,,0,1,4,16200,1350,,,,3
+131,ENSNP,,2019,0,Autre,Chambéry,Femme,Bureau d'études,,11-25,Bureau d'étude en écologie,C.D.D,37,2,Autre,Chargée d'affaire,0,1,4,25200,2100,,,"Rtt, téléphone et ordinateur portable, mutuelle familiale prise en charge à 100%",3
+133,ENSNP,,2018,1,Bordeaux,,Homme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,42,0 - Pas du tout satisfait,Chargé(e) d'étude débutant,,1,3,3,18600,1550,,,rien,0 - Pas du tout satisfait
+134,ENSAPL,,2018,1,Lille,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,50,1,Chargé(e) d'étude,,1,3,3,19200,1600,,,Voiture de service,2
+135,Autre,,2018,2,Lyon,,Homme,Fonction publique,,2-5,Entreprises paysagistes,Fonctionnaire,40,4,Autre,,2,2,4,,1500,,,,1
+136,ENSNP,,2018,0,Autre,Rouen,Homme,Bureau d'études,,2-5,bureaux d’études techniques,C.D.I,36,5 - Très satisfait,Assistant(e) de projet,,0,1,3,,1700,20400,,RTT,3
+137,ENSAPL,,2018,1,Autre,Caen,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,40,3,Autre,,1,5 - Essentiel à la survie de l'entreprise,4,,1600,,,,3
+138,Autre,Licence,2006,11,Île-de-France,,Homme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,50,0 - Pas du tout satisfait,Chef(fe) de projet,,4,4,1,35000,2100,,,Rtt ticket resto voiture,2
+139,ENSP Versailles,,2014,5,Lyon,,Homme,Agence de conception,,2-5,Entreprises d'architecture,C.D.I,38,4,Chargé(e) d'étude confirmé,,3,3,3,21600,1800,,,RTT,2
+140,Agrocampus Ouest (INH),,2009,10,Strasbourg,,Femme,Fonction publique,,1001-...,Fonction publique,Fonctionnaire,30,4,Responsable d'équipe,,6,4,4,25000,2100,,,"RTT, treizième mois, carte de parking en ouvrage",3
+141,ENSP Versailles,,2019,1,Île-de-France,,Femme,Bureau d'études,,1001-...,Bureaux d'études techniques,C.D.D,39,3,Chargé(e) d'étude,,1,0 - Pas d'impact,3,18000,1500,0,,"CE, 13e mois et intéressement",4
+142,ENSNP,,2019,0,Autre,Tours,Femme,Bureau d'études,,2-5,Entreprises vrd,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude débutant,,0,2,4,,1600,,,,4
+143,ENSP Versailles,,2019,0,Paris,,Femme,Agence de conception,,51-200,Entreprises d'architecture,C.D.D,43,1,Assistant(e) de projet,,1,0 - Pas d'impact,1,6000,1900,,,"Et, Tickets restaurants",5 - Très satisfait
+144,ENSNP,,2015,5,Autre,Clermont-Fd - Puy de dome,Homme,Agence de conception,,2-5,entreprises d’architecture,C.D.D,40,3,Chargé(e) d'étude,,2,3,3,19500,1630,,,rien,3
+145,ENSP Versailles,,2006,14,Île-de-France,,Homme,Autre,CCI,1001-...,CCI,C.D.I,39,2,Autre,formateir,7,3,4,30800,2200,,,16 semaines de congés,3
+146,ENSP Versailles,,2018,1,Lyon,,Femme,Association,,2-5,Entreprises paysagistes,C.D.D,35,5 - Très satisfait,Autre,Chargée de projet service civique,0,3,5 - Très satisfait,,580,,,Carte avantages service civiques,0 - Pas du tout satisfait
+147,ENSAPBX,,2018,2,Autre,dijon,Homme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.I,35,5 - Très satisfait,Chargé(e) d'étude,,2,4,4,22000,1775,22000,,,4
+148,ENSP Versailles,,2017,2,Autre,Auvergne,Femme,Fonction publique,,26-50,fonction publique,C.D.D,39,4,Chargé(e) d'étude,,1,3,5 - Très satisfait,,1500,,,"RTT, tickets resto,",3
+149,Agrocampus Ouest (INH),,2017,2,Île-de-France,,Homme,Fonction publique,,1001-...,Fonction publique territoriale,Fonctionnaire,42,3,Autre,Adjoint au directeur,2,3,4,,2300,27600,,CE,4
+150,ENSNP,,2018,1,Bordeaux,,Femme,Agence de conception,,2-5,Bureaux d'études techniques,C.D.D,45,0 - Pas du tout satisfait,Chargé(e) d'étude,,1,3,2,10712,1338,900,900,aucun,2
+151,Agrocampus Ouest (INH),,2016,3,Île-de-France,,Femme,Autre,Commerce,11-25,Commerce de gros,C.D.I,50,1,Autre,Chef de secteur commercial,1,4,4,38000,2785,,,"Voiture de fonction, CB, Téléphone, Ordinateur",5 - Très satisfait
+152,Agrocampus Ouest (INH),,2012,8,Autre,Pays de la Loire hors Nantes,Femme,Entreprise de réalisation,,1001-...,Entreprises paysagistes,C.D.I,39,5 - Très satisfait,Autre,Fonction support - développement,1,1,5 - Très satisfait,34110,2490,,,"RTT, intéressement, CE, tickets restos, mutuelle de groupe, abonnement SNCF pris en charge à 100%, treizième mois, télétravail",5 - Très satisfait
+153,ESAJ,,2005,13,Île-de-France,,Homme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude débutant,,1,2,0 - Pas du tout satisfait,27000,2250,27000,,RTT,4
+154,Autre,Licence pro,2008,8,Île-de-France,,Homme,Bureau d'études,,1001-...,Entreprises paysagistes,C.D.D,36,5 - Très satisfait,Chef(fe) de projet,,2,3,2,35000,,,,"RTT, CE, RIE",4
+155,Agrocampus Ouest (INH),,2000,17,Grenoble,,Homme,Association,,11-25,"pas de convetion collective, relié à l'accord FNAB",C.D.I,31.5,4,Autre,"conseiller agriculture biologique, productions végétales spécialisées",10,4,4,24048,2004,234,,aucun,2
+156,ENSP Versailles - Formation continue,,2016,3,Île-de-France,,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,30,2,Directeur(trice) de société,,2,5 - Essentiel à la survie de l'entreprise,4,,,,16000,,1
+157,Agrocampus Ouest (INH),,2015,4,Nantes,,Homme,Bureau d'études,,201-500,Entreprises paysagistes,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude,,4,3,4,25800,2150,,,,4
+158,Agrocampus Ouest (INH),,2009,11,Bordeaux,,Homme,Entreprise de réalisation,,1001-...,Entreprises paysagistes,C.D.I,60,3,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,4,54000,3500,9000,0,Voiture de fonction + CE,4
+159,Agrocampus Ouest (INH),,2018,1,Autre,Pas-de-Calais,Femme,Groupe,,51-200,Géomètres experts,C.D.I,39,4,Chargé(e) d'étude,,1,3,3,21036,1753,,,,3
+160,Agrocampus Ouest (INH),,2012,8,Autre,Pays de la Loire,Homme,Entreprise de réalisation,,1,Entreprises paysagistes,Dirigeant de SARL,60,3,Directeur(trice) de société,,4,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,19000,,,,,3
+161,Agrocampus Ouest (INH),,2013,7,Île-de-France,,Femme,Groupe,,1001-...,Entreprises paysagistes,C.D.I,45,4,Autre,Ingénieur Travaux principal,7,4,4,29326,2200,,,"Rtt, tickets resto, voiture fonction, PEE",3
+162,Agrocampus Ouest (INH),,2011,8,Nantes,,Femme,Association,,6-10,_,C.D.I,35,5 - Très satisfait,Autre,Technicienne agricole/chargée de mission,2,3,5 - Très satisfait,,2092,24926,,"RTT, cadre de travail humain, voiture de service",4
+163,Agrocampus Ouest (INH),,2010,7,Suisse,,Femme,Fonction publique,,501-1000,Sans - Fonctionnaire suisse,Fonctionnaire,41,5 - Très satisfait,Chef(fe) de projet,,6,3,5 - Très satisfait,82500,6345,,,13e salaire,4
+164,Agrocampus Ouest (INH),,2018,1,Allemagne,,Femme,Autre,,11-25,Bureau d'études,C.D.D,40,4,Chef(fe) de projet débutant,,1,3,5 - Très satisfait,21372,1781,,,,3
+165,ENSNP,,2017,2,Paris,,Femme,Agence de conception,,6-10,entreprises d’architecture,C.D.I,42,3,Chargé(e) d'étude,,2,3,4,24136,2011,,,"tickets restaurants, 1/2 pass navigo",4
+166,Agrocampus Ouest (INH),,2017,1,Autre,Vendée,Femme,Association,,11-25,convention collective de l'animation,C.D.D,35,4,Autre,chargée de mission,1,3,5 - Très satisfait,16800,1400,,,,4
+167,Agrocampus Ouest (INH),,2016,3,Paris,,Homme,Autre,Syndicat,26-50,Entreprises paysagistes,C.D.I,40,4,Chef(fe) de projet,,3,3,5 - Très satisfait,26780,2189,,,"RTT, tickets restaurants, portable, CE",3
+168,Agrocampus Ouest (INH),,2017,3,Lyon,,Homme,Bureau d'études,,6-10,Bureau d’etude Technique,C.D.I,39,5 - Très satisfait,Chef(fe) de projet,,0,2,4,27360,2100,,,,4
+169,Agrocampus Ouest (INH),,2012,8,Paris,,Femme,Agence de conception,,6-10,Entreprise architecture,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude,,4,3,5 - Très satisfait,31520,2500,,,Ticket restaurants,4
+170,Agrocampus Ouest (INH),,2010,10,Île-de-France,,Homme,Entreprise de réalisation,,1001-...,Entreprises paysagistes,C.D.I,45,2,Autre,Charge d’exploitation,10,2,4,390000,3000,,,Voiture de fonction,4
+171,ENSAPBX,,2018,2,Île-de-France,,Homme,Agence de conception,,2-5,architecture,C.D.I,45,0 - Pas du tout satisfait,Assistant(e) d'étude,,1,3,2,18000,1500,,,aucun,1
+172,Agrocampus Ouest (INH),,2011,8,Nantes,,Homme,Fonction publique,,1001-...,Fonction publique,Fonctionnaire,39,5 - Très satisfait,Autre,Inspecteur des sites,3,3,3,32000,2600,,,Rtt,5 - Très satisfait
+173,ENSP Versailles,,2014,4,Paris,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,39,4,Chargé(e) d'étude,,3,2,4,24000,2100,,,tickets restaurants,3
+174,ENSP Versailles,,2014,5,Île-de-France,,Femme,Bureau d'études,,6-10,bureaux d'études techniques,C.D.I,32,5 - Très satisfait,Chargé(e) d'étude confirmé,,4,3,3,24000,2000,,,tickets restaurants,2
+175,Autre,Bac professionnel aménagement paysager,2017,5,Autre,"GRANVILLE, Basse Normandie",Homme,Entreprise de réalisation,,2-5,Entreprises paysagistes,Dirigeant de SARL,50,5 - Très satisfait,Directeur(trice) de société,,2,0 - Pas d'impact,5 - Très satisfait,16000,1200,,,,3
+176,ENSAPBX,,2016,3,Lyon,,Homme,Agence de conception,,26-50,Syntec,C.D.I,37,4,Chargé(e) d'étude,,3,1,2,,2300,,,,2
+177,ESAJ,,1993,25,Rennes,,Homme,Agence de conception,,6-10,bureau d'études techniques,C.D.I,50,4,Chef(fe) de projet confirmé,,25,4,5 - Très satisfait,31200,2600,,,,4
+178,ENSAPBX,,2017,3,Rennes,,Homme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.D,35,0 - Pas du tout satisfait,Chargé(e) d'étude,,1,5 - Essentiel à la survie de l'entreprise,3,19800,1650,19800,,,3
+179,ENSAPBX,,2009,10,Autre,Brest,Femme,Bureau d'études,,2-5,Entreprises paysagistes,Dirigeant de SARL,40,2,Responsable d'équipe,,6,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,19200,1600,,,,2
+180,ENSP Versailles,,2014,3,Île-de-France,,Femme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.I,30,5 - Très satisfait,Chargé(e) d'étude,,3,3,4,20000,,,,,3
+181,ENSAPBX,,1999,20,Bordeaux,,Homme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant de SARL,39,0 - Pas du tout satisfait,Directeur(trice) de société,,20,5 - Essentiel à la survie de l'entreprise,3,42000,3500,57000,,libre,3
+182,Lullier,,2012,8,Autre,Moulins,Homme,Bureau d'études,,1,Bureau d'étude,Auto-entrepreneur,39,4,Directeur(trice) de société,,6,4,4,,,,16500,,3
+183,ENSAPBX,,2009,9,Autre,,Homme,Fonction publique,,501-1000,Fp,Fonctionnaire,39,4,Chef(fe) de projet confirmé,,4,3,4,29000,2400,,,Rtt tr,3
+184,ENSP Versailles,,2019,1,Lyon,,Femme,Agence de conception,,6-10,Entreprises architecture,C.D.I,39,5 - Très satisfait,Assistant(e) de projet,,0,3,5 - Très satisfait,,1600,,,Téléphone de fonction,3
+185,Agrocampus Ouest (INH),,2019,1,Autre,Angers,Homme,Agence de conception,,2-5,Architectes,C.D.D,43,4,Chargé(e) d'étude débutant,,1,3,4,18360,1520,,,,2
+186,ESAJ,,2014,6,Paris,,Homme,Agence de conception,,11-25,Entreprises paysagistes,C.D.I,39,2,Autre,Directeur de projet,2,3,4,36000,3000,,,"Prime, rtt, chèques vacances et",2
+187,Autre,"Master Landscape Architecture, University of Greenwich",2002,18,Paris,,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Dirigeant de SARL,39,5 - Très satisfait,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,3,9000,,,,,0 - Pas du tout satisfait
+188,ESAJ,,1992,28,Île-de-France,,Homme,Agence de conception,,2-5,entreprises d’architecture,Dirigeant de SARL,50,4,Directeur(trice) de société,,22,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,60000,5000,60000,,,5 - Très satisfait
+189,ENSAPL,,2012,7,Etats-Unis,,Femme,Agence de conception,,11-25,Entreprises d'architecture,C.D.I,40,4,Assistant(e) de projet,,3,2,3,42000,3500,,,Aucuns,4
+190,ENSAPBX,,2008,11,Bordeaux,,Femme,Freelance / Indépendant,,1,Entreprises d'architecture,Auto-entrepreneur,40,4,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,34650,2887,52500,,,4
+191,ENSAPBX,,2018,2,Nantes,,Homme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,39,2,Chef(fe) de projet débutant,,1,2,3,25000,2080,,,Rien.,2
+192,ENSP Marseille,,2017,2,Lyon,,Femme,Agence de conception,,6-10,Architecture,C.D.I,39,4,Chef(fe) de projet,,2,3,3,23000,1900,0,0,,4
+193,ENSP Versailles,,2013,5,Lyon,,Femme,Bureau d'études,,6-10,Syntec etam,C.D.I,45,2,Chef(fe) de projet,,1,4,3,,1844,,,,2
+194,Autre,Cornell University,2017,3,Etats-Unis,,Homme,Agence de conception,,11-25,Entreprises paysagistes,C.D.I,45,2,Chef(fe) de projet débutant,,3,2,2,35000,2900,,,,0 - Pas du tout satisfait
+195,ENSNP,,2012,8,Autre,Corrèze,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,45,3,Responsable d'agence / bureaux,,4,5 - Essentiel à la survie de l'entreprise,4,,,,1000,,2
+196,ESAJ,,2009,11,Paris,,Femme,Agence de conception,,1,Entreprises d'architecture paysagère,Auto-entrepreneur,48,2,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,39595,1900,Aucun,3
+197,ENSP Versailles,,2003,16,Paris,,Homme,Agence de conception,,6-10,Entreprises paysagistes,Dirigeant de SARL,45,4,Directeur(trice) de société,,16,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,88000,6600,,,,3
+198,ENSNP,,2004,16,Paris,,Homme,Agence de conception,,1,Entreprises paysagistes,Dirigeant de SARL,50,2,Directeur(trice) de société,,7,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,24000,,mutuelle,1
+199,ESAJ,,1982,35,Lyon,,Homme,Agence de conception,,1,Entreprisse d'architecture,Dirigeant de SARL,70,2,Directeur(trice) de société,,35,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,90000,,Voiture de fonction,4
+200,Agrocampus Ouest (INH),,2012,8,Autre,Dijon,Homme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,35,5 - Très satisfait,Chef(fe) de projet,,8,4,5 - Très satisfait,33000,2750,,,,5 - Très satisfait
+201,ENSP Versailles,,2014,10,Île-de-France,,Homme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant d'entreprise salarié,60,1,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,20400,1700,20400,,le choix des projets,2
+202,ENSP Versailles,,2016,4,Île-de-France,,Femme,Fonction publique,,51-200,Ecole de paysage fonction publique,C.D.D,39,3,Chargé(e) d'étude,,4,3,3,,1705,,,,2
+203,Gembloux,,2015,5,Autre,Normandie,Homme,Agence de conception,,6-10,Bureau d'études,C.D.I,39,5 - Très satisfait,Chef(fe) de projet,,2,4,5 - Très satisfait,27000,2200,,,,4
+204,ENSAPBX,,2018,0,Lyon,,Femme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.I,39,4,Assistant(e) d'étude,,0,3,5 - Très satisfait,,1638,,,Heures supplémentaires recupérées en jours de congés,3
+205,ESAJ,,1974,40,Lille,,Homme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant d'entreprise salarié,39,5 - Très satisfait,Directeur(trice) de société,,40,0 - Pas d'impact,5 - Très satisfait,35000,2900,117000,,LA LIBERTE,3
+206,Lullier,,2007,13,Autre,Vendee,Femme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,32,5 - Très satisfait,Chargé(e) d'étude,,13,4,3,19800,1650,,,Ce,2
+207,ENSAPBX,,2018,0,Nantes,,Homme,Bureau d'études,,6-10,Entreprises paysagistes,C.D.D,35,4,Chargé(e) d'étude débutant,,0,2,4,,1587,,,"Ordinateur, logiciel, voiture de fonction, remboursement des transport en commun de 50%",3
+208,ENSP Versailles,,2015,3,Paris,,Femme,Bureau d'études,,51-200,Ingetec,C.D.I,39,2,Chargé(e) d'étude,,1,3,2,23500,210,23500,,"tickets restaurants, téléphone pro, repos compensateur",3
+209,ENSP Versailles,,2013,5,Île-de-France,,Femme,Bureau d'études,,6-10,Agricole,C.D.I,39,1,Chargé(e) d'étude,,1,3,3,24000,2000,,,"Tickets restaurants, télé travail 3 jours par semaine",2
+210,Autre,ARCHITECTE spec; paysagiste,2008,8,Paris,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,41,4,Chef(fe) de projet confirmé,,2,4,2,,2250,,,,0 - Pas du tout satisfait
+211,ESAJ,,1995,24,Toulouse,,Femme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant d'entreprise salarié,39,2,Responsable d'agence / bureaux,,24,5 - Essentiel à la survie de l'entreprise,4,35000,,,,,3
+212,ENSP Versailles,,2013,5,Angleterre,,Femme,Bureau d'études,,201-500,Entreprises paysagistes,C.D.I,37.5,4,Chargé(e) d'étude,,1,2,3,,2200,,,Aucun,2
+213,ENSNP,,2006,14,Rennes,,Homme,Freelance / Indépendant,,1,entreprises d’architecture,Dirigeant de SARL,40,3,Directeur(trice) de société,,10,5 - Essentiel à la survie de l'entreprise,4,44000,,,,,5 - Très satisfait
+214,ENSP Versailles,,1990,30,Autre,Bourgogne,Femme,Freelance / Indépendant,,1,sans convention collective,Auto-entrepreneur,35,2,Autre,Multi-fonctions,14,5 - Essentiel à la survie de l'entreprise,4,,,18000,,,2
+215,ENSP Marseille,,2014,5,Canada,,Femme,Agence de conception,,2-5,Aucune,Dirigeant d'entreprise salarié,39,3,Chargé(e) d'étude confirmé,,3,4,4,26000,,,,"Flexibilité horaire, télé-travail, conciliation vie professionnelle/vie familiale",3
+216,ENSAPBX,,1999,19,Île-de-France,,Homme,Bureau d'études,,1,Entreprises paysagistes,Dirigeant de SARL,45,5 - Très satisfait,Responsable d'agence / bureaux,,10,0 - Pas d'impact,5 - Très satisfait,35000,3200,40000,,,4
+217,ENSP Versailles,,2009,10,Paris,,Femme,Agence de conception,,11-25,Bureau d'études,C.D.I,39,3,Chef(fe) de projet confirmé,,10,4,4,38000,2600,,,Ticket restaurant,0 - Pas du tout satisfait
+218,ENSNP,,2001,18,Strasbourg,,Femme,Fonction publique,,1001-...,Fonction publique territoriale,Fonctionnaire,40,4,Chef(fe) de projet confirmé,,19,2,3,30000,2500,,,Rtt,5 - Très satisfait
+219,Autre,Mexico,1982,15,Autre,COSTA RICA,Homme,Recherche,,51-200,Entreprises paysagistes,Auto-entrepreneur,500,5 - Très satisfait,Assistant(e) d'étude,,15,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,1800,1800,1800,Je n'ai pas de sécurité sociale,3
+220,Agrocampus Ouest (INH),,2007,11,Autre,Saint haon le chatel (42),Femme,Freelance / Indépendant,,2-5,Be techniques,Dirigeant de SARL,45,3,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,18000,,,1
+221,ENSAPBX,,2015,4,Lille,,Homme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,45,3,Chef(fe) de projet confirmé,,2,4,4,17000,1650,,,Repas offerts le midi,3
+222,ENSNP,,2019,1,Autre,région de chambéry,Homme,Bureau d'études,,11-25,bureau d'étude technique,C.D.D,37,2,Autre,chargée d'affaire,0,1,4,18000,1500,,,mutuelle,3
+223,ENSP Marseille,,2015,4,Lyon,,Femme,Fonction publique,,1001-...,fonction publique territoriale,Contractuel dans la fonction publique,39,4,Chargé(e) d'étude,,1,3,3,20400,1700,,,Rtt tickets restaurants,2
+224,Autre,Bts aménagement paysager,2003,18,Autre,Montpellier,Homme,Agence de conception,,26-50,Architecte,C.D.I,39,5 - Très satisfait,Chef(fe) de projet,,14,3,4,31200,2600,,,Tickets restaurant,2
+225,Autre,Dsaa design d’espace,2014,6,Bordeaux,,Femme,Agence de conception,,6-10,Bureau d’etude Technique ingénieur,C.D.I,35,4,Chef(fe) de projet,,2,4,4,,2121,,,,3
+226,ENSP Versailles,,2013,7,Autre,Grand Est,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Dirigeant de SARL,39,3,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,4,24000,2000,,,choix des projets et liberté,4
+227,ENSAPL,,2012,8,Autre,Angers,Femme,Bureau d'études,,11-25,Bureau d'etudes techniques,C.D.I,35,5 - Très satisfait,Responsable d'équipe,,4,3,4,,2100,,,"Mutuelle presque entierement prise en charge,  souplesse des horaires",4
+228,Autre,,2012,8,Paris,,Homme,Entreprise de réalisation,,201-500,Entreprises paysagistes,C.D.I,39,2,Chargé(e) d'opération,,4,4,3,40000,,,,Voiture,3
+229,ENSNP,,2008,10,Paris,,Homme,Agence de conception,,11-25,Entreprises Architecture,Dirigeant de SARL,39,2,Responsable d'agence / bureaux,,6,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,51834,4320,,,Je suis maître de conférence associé en parallèle de l’agence,4
+230,Autre,,2011,7,Lyon,,Homme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,42,4,Chef(fe) de projet,,7,4,4,29000,2100,,,Chèque cadeau,3
+231,Agrocampus Ouest (INH),,2010,9,Autre,Reims,Homme,Freelance / Indépendant,,1,"Ingénierie, études techniques",Dirigeant d'entreprise salarié,40,5 - Très satisfait,Directeur(trice) de société,,9,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,7200,500,7200,,"Indemnités kilométriques, frais de déplacements",5 - Très satisfait
+232,Lullier,,2018,1,Autre,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.D,39,5 - Très satisfait,Assistant(e) de projet,,0,3,4,,1384,,,,3
+233,Autre,Diplôme architecture du paysage : Grande Bretagne,1999,20,Rennes,,Femme,Bureau d'études,,51-200,Géomètre,C.D.I,25,3,Chargé(e) d'étude confirmé,,15,4,4,,1780,,,CE tickets de restaurant,2
+234,ENSP Versailles,,2008,10,Paris,,Femme,Agence de conception,,51-200,Entreprises architecture,C.D.I,50,0 - Pas du tout satisfait,Chef(fe) de projet,,5,3,2,30000,2500,,,TR,0 - Pas du tout satisfait
+235,ENSAPL,,2012,7,Rennes,,Homme,Fonction publique,,1001-...,métropole,Fonctionnaire,37.5,5 - Très satisfait,Chargé(e) d'étude,,4,2,4,22000,1700,,,"RTT,  tickets restaurants, CE, télétravail",3
+236,Autre,"University of Guelph, Bachelor's of Landscape Architecture",2014,8,Paris,,Femme,Agence de conception,,51-200,"Entreprises d'architecture, urbanism et paysagistes",C.D.D,35,3,Assistant(e) de projet,,1,1,0 - Pas du tout satisfait,25500,2130,,,,0 - Pas du tout satisfait
+237,Lullier,,2011,3,Lyon,,Homme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,39,2,Dessinateur(trice) projeteur,,2,3,4,21552,1796,,,"RTT, tickets restaurants et CE",3
+238,Lullier,,2009,11,Marseille - Aix-en-Provence,,Femme,Agence de conception,,6-10,société d'architecture,C.D.I,39,4,Chef(fe) de projet confirmé,,10,4,4,35100,2700,,,tickets restaurants,3
+239,ENSP Marseille,,2013,7,Paris,,Femme,Agence de conception,,51-200,Entreprises d’architecture,C.D.I,35,3,Chef(fe) de projet,,4,3,4,32500,2700,,,Tickets restaurants,4
+240,ENSP Versailles,,2007,12,Lyon,,Femme,Bureau d'études,,2-5,Entreprises d architecture,C.D.I,30,5 - Très satisfait,Chef(fe) de projet confirmé,,8,4,5 - Très satisfait,,1990,,,Tickets restau pee,3
+241,Agrocampus Ouest (INH),,2015,3,Autre,Nancy,Femme,Bureau d'études,,2-5,Syntec,C.D.I,39,2,Responsable d'agence / bureaux,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,30243,2700,,,Tickets restaurant - voirure - portable,5 - Très satisfait
+242,Agrocampus Ouest (INH),,2014,4,Toulouse,,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,40,3,Responsable d'agence / bureaux,,1,5 - Essentiel à la survie de l'entreprise,3,,,,5000,Aucun,0 - Pas du tout satisfait
+243,ENSAPL,,2018,1,Nice,,Homme,Agence de conception,,51-200,Entreprises d'architecture,C.D.I,42,2,Assistant(e) de projet,,1,1,1,17300,1437,,,Ticket restaurant,0 - Pas du tout satisfait
+244,ESAJ,,2009,10,Île-de-France,,Femme,Entreprise de réalisation,,1,Entreprises paysagistes,Dirigeant de SARL,25,5 - Très satisfait,Directeur(trice) de société,,9,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,18000,1500,18000,,Voiture,2
+245,Agrocampus Ouest (INH),,2011,9,Île-de-France,,Femme,Freelance / Indépendant,,1,Entreprise d’architecture,Auto-entrepreneur,39,2,Directeur(trice) de société,,1,5 - Essentiel à la survie de l'entreprise,4,,,,43000,,3
+246,ENSP Versailles,,1992,27,Île-de-France,,Homme,Agence de conception,,201-500,Syntec,C.D.I,39,4,Responsable d'équipe,,1,3,3,42000,3200,,,Cantine transport 13e mois,2
+247,ENSAPBX,,2001,18,Autre,Angoulême,Femme,Agence de conception,,2-5,pas de salarié,Dirigeant de SARL,50,2,Directeur(trice) de société,,18,5 - Essentiel à la survie de l'entreprise,3,18000,1500,,,,1
+248,Gembloux,,2003,17,Toulouse,,Homme,Agence de conception,,1,Entreprises paysagistes,Dirigeant de SARL,50,3,Responsable d'agence / bureaux,,5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,31200,,,4
+249,ENSNP,,2013,6,Paris,,Homme,Agence de conception,,51-200,Entreprises d'architecture,C.D.I,37,4,Assistant(e) de projet,,4,3,3,34563,3661,,,"RTT, tickets restaurants, CE, chèques cadeaux, Plan Epargne Entreprise, récupération des heures sup",4
+250,ENSNP,,2008,10,Nantes,,Homme,Agence de conception,,11-25,Entreprise architecture,Dirigeant de SARL,39,4,Directeur(trice) de société,,6,5 - Essentiel à la survie de l'entreprise,4,40500,3400,,,,4
+251,ENSP Marseille,,2017,2,Marseille - Aix-en-Provence,,Homme,Agence de conception,,11-25,Entreprises paysagistes,C.D.D,35,4,Chargé(e) d'étude débutant,,0,2,4,21600,1800,,,Tickets restaurants,4
+252,ENSP Marseille,,2018,1,Paris,,Homme,Bureau d'études,,51-200,Bureau d’étude assistance maîtrise d’ouvrage,C.D.I,42,3,Chargé(e) d'étude,,0,3,4,20400,1700,0,0,Ticket restaurant,1
+253,Lullier,,1991,30,Autre,Chambéry - (73000),Femme,Agence de conception,,1,Entreprises paysagistes,Auto-entrepreneur,50,3,Chef(fe) de projet,,30,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,,60000,,4
+254,ITIAPE - ISA Lille,,2007,16,Île-de-France,,Femme,Freelance / Indépendant,,1,Architecture,Dirigeant de SARL,39,5 - Très satisfait,Directeur(trice) de société,,10,5 - Essentiel à la survie de l'entreprise,2,14000,,7000,,,0 - Pas du tout satisfait
+255,ESAJ,,2007,13,Paris,,Homme,Agence de conception,,2-5,Architectes,C.D.I,45,3,Directeur(trice) de société,,8,4,4,21200,1845,,,Fonction gestion du tps,0 - Pas du tout satisfait
+256,ENSNP,,2013,7,Lyon,,Femme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,50,3,Chargé(e) d'étude,,1,4,3,26400,2300,,,,3
+257,ENSNP,,2018,1,Nantes,,Homme,Agence de conception,,2-5,Entreprises d’architecture,C.D.D,55,0 - Pas du tout satisfait,Chef(fe) de projet débutant,,1,1,1,18000,1500,,,,0 - Pas du tout satisfait
+258,ENSAPL,,2012,6,Bordeaux,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,32,4,Chef(fe) de projet,,6,4,4,21600,1800,,,200€ de tickets restaurants,3
+259,ENSP Versailles,,2003,17,Autre,Cayenne,Homme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant d'entreprise salarié,50,3,Directeur(trice) de société,,13,5 - Essentiel à la survie de l'entreprise,4,70000,2300,315000,,,5 - Très satisfait
+260,Autre,"""Cas 3"" décret application loi RBNP - Ecole européeenne",2013,7,Autre,Autre ville française...,Femme,Freelance / Indépendant,,1,NC,Auto-entrepreneur,39,3,Responsable d'agence / bureaux,,4,5 - Essentiel à la survie de l'entreprise,4,5000,420,5000,5000,NC,0 - Pas du tout satisfait
+261,Agrocampus Ouest (INH),,2008,12,Autre,Dom tom,Homme,C.A.U.E,,11-25,Convention  collective  des caue,C.D.I,40,4,Chargé(e) d'étude,,12,4,4,37200,3000,,,,4
+262,ENSP Versailles,,2010,9,Autre,La reunion,Homme,Agence de conception,,6-10,Bureau d’etude Technique,C.D.I,39,3,Chargé(e) d'étude,,4,4,2,24500,2150,,,Ticket resto,0 - Pas du tout satisfait
+263,Lullier,,2009,8,Autre,le Mans,Homme,Fonction publique,,1001-...,collectivité territoriale,Fonctionnaire,35,5 - Très satisfait,Chef(fe) de projet,,7,4,5 - Très satisfait,30200,2250,0,0,,4
+264,Agrocampus Ouest (INH),,2010,7,Paris,,Homme,Agence de conception,,11-25,Architectes,C.D.I,39,4,Chef(fe) de projet,,3,2,4,30600,2550,,,ticket restaurant,3
+265,ENSAPL,,2013,7,Autre,Vietnam,Homme,Groupe,,1001-...,Entreprise étrangere,Auto-entrepreneur,40,4,Chef(fe) de projet débutant,,2,4,2,36556,,,,Aucun,2
+266,ENSP Versailles,,1994,26,Autre,Le Havre,Homme,Entreprise de réalisation,,1,Entreprises paysagistes,Dirigeant de SARL,39,3,Autre,Je fais tout,26,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,16800,1400,63000,,,4
+267,ENSAPBX,,2013,6,Autre,Le Havre,Femme,Association,,11-25,Association,C.D.I,38,3,Chargé(e) d'étude,,1,3,4,,2300,,,Voiture de service,0 - Pas du tout satisfait
+268,ENSAPBX,,2014,6,Autre,Rouen,Femme,Autre,Cabinet d'architecture,26-50,Architecture,C.D.I,39,3,Chef(fe) de projet,,2,5 - Essentiel à la survie de l'entreprise,2,27600,2300,27600,,,5 - Très satisfait
+269,ENSP Marseille,,2017,2,Paris,,Homme,Agence de conception,,11-25,"Entreprises d’architecture, urbanistes et paysagistes",C.D.I,42,3,Chef(fe) de projet débutant,,2,4,4,31200,2600,,,Tickets restaurants,4
+270,ENSAPBX,,2014,3,Île-de-France,,Femme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.I,50,2,Chargé(e) d'étude,,3,5 - Essentiel à la survie de l'entreprise,4,32650,2450,,,"RTT, tickets restaurants , voiture de fonction, prime",2
+271,ENSP Versailles,,2010,10,Lyon,,Homme,Entreprise de réalisation,,11-25,Entreprises menuiserie,Dirigeant d'entreprise salarié,52,1,Chargé(e) d'étude,,4,2,2,24000,2000,,,Voiture fonction,1
+272,ENSNP,,2003,15,Rennes,,Femme,Bureau d'études,,26-50,Syntec,C.D.I,45,3,Chef(fe) de projet confirmé,,8,4,3,,2750,,,28rtt par an,3
+273,Autre,bac pro,1996,24,Autre,Nouan le Fuzelier,Homme,Autre,"domaine entretien foret  parc , potager etang",26-50,animation  sauf mon éuipe parc,C.D.I,35,0 - Pas du tout satisfait,Responsable d'équipe,,10,0 - Pas d'impact,5 - Très satisfait,24000,1700,,,,5 - Très satisfait
+274,ESAJ,,2012,8,Île-de-France,,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,28,5 - Très satisfait,Chef(fe) de projet confirmé,,3,5 - Essentiel à la survie de l'entreprise,4,,,22500,,,3
+275,Agrocampus Ouest (INH),,2016,3,Paris,,Homme,Agence de conception,,6-10,Entreprises architecture,C.D.I,39,4,Chef(fe) de projet débutant,,3,2,4,26659,2150,,,,3
+276,Agrocampus Ouest (INH),,2010,10,Nantes,,Femme,Bureau d'études,,26-50,Bureaux d'études techniques,C.D.I,50,1,Responsable d'équipe,,4,3,3,26150,2590,,,"voiture de fonction, chèques vacances, tickets repas, RTT",4
+277,ESAJ,,2002,18,Toulouse,,Homme,Agence de conception,,26-50,Entreprises d'architecture,C.D.I,39,4,Chef(fe) de projet confirmé,,9,4,4,31000,2800,31000,,Tickets restaurant voiture de service heures de repos compendtoire,3
+278,Agrocampus Ouest (INH),,2002,16,Lyon,,Femme,Agence de conception,,2-5,Architectes,C.D.I,32,4,Chef(fe) de projet confirmé,,16,4,4,23135,1873,,,flexibilité du travail et télétravail,3
+279,ESAJ,,2015,4,Paris,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,39,0 - Pas du tout satisfait,Chef(fe) de projet,,2,0 - Pas d'impact,0 - Pas du tout satisfait,4150,2075,,,Tickets restaurans,1
+280,ENSP Versailles - Formation continue,,2013,7,Lyon,,Homme,Agence de conception,,1,??,Dirigeant de SARL,45,3,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,1850,22500,,,3
+281,ENSAPL,,2017,3,Autre,Asie Sud-Est,Homme,Agence de conception,,26-50,Entreprise architecture et design,C.D.I,45,3,Chef(fe) de projet débutant,,2,4,3,30000,2500,0,0,0,3
+282,Gembloux,,2017,3,Île-de-France,,Homme,Groupe,,201-500,Entreprises paysagistes,C.D.I,45,3,Chef(fe) de projet débutant,,1,3,2,27000,2250,,,9 RTT/ans,4
+283,Gembloux,,2014,3,Autre,Crépy en Valois,Homme,Agence de conception,,11-25,Ordre des architectes,C.D.I,39,4,Chef(fe) de projet,,3,3,4,33000,2450,,,"Tickets restaurants, intéressement",4
+284,ENSAPBX,,2017,3,Bordeaux,,Homme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant de SARL,39,2,Responsable d'agence / bureaux,,3,5 - Essentiel à la survie de l'entreprise,4,18000,1500,,,Voiture de fonction,1
+285,ITIAPE - ISA Lille,,2000,25,Autre,pau,Femme,Freelance / Indépendant,,1,Entreprises d'architecture,Auto-entrepreneur,25,3,Chef(fe) de projet,,8,5 - Essentiel à la survie de l'entreprise,3,,,9000,,,1
+286,Autre,Management des projets urbains durables,2015,5,Paris,,Femme,Groupe,,2-5,Entreprises du conseil,C.D.I,39,2,Chef(fe) de projet,,1,1,1,24000,2000,,,Tickets restaurants,1
+287,ENSNP,,2017,2,Autre,bruxelles,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.D,39,3,Chef(fe) de projet débutant,,1,3,3,11887,1613,,,,1
+288,Autre,,1996,24,Lille,,Femme,Agence de conception,,6-10,Entreprises d’architectures,Dirigeant de SARL,60,3,Directeur(trice) de société,,16,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,26400,,,2
+289,ENSP Versailles - Formation continue,,2007,13,Paris,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,36,5 - Très satisfait,Chef(fe) de projet,,6,3,5 - Très satisfait,30000,2500,,,Tickets restaurant et moitié carte navigo,4
+290,ENSNP,,2010,10,Nantes,,Homme,Agence de conception,,11-25,Entreprises d'architectures,C.D.I,39,4,Chef(fe) de projet,,8,4,4,22370,1792,,,"RTT, heures supplémentaires payées et chèques déjeuners",3
+291,Agrocampus Ouest (INH),,2016,3,Autre,Dax,Femme,Bureau d'études,,2-5,Syntec,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude,,3,4,5 - Très satisfait,28303,2358,,,chèque vacances de l'URSCOP : 80€,4
+292,ENSAPL,,2009,11,Lille,,Femme,Fonction publique,,1001-...,Fonction publique,Contractuel dans la fonction publique,28,4,Chef(fe) de projet,,1,3,5 - Très satisfait,24024,2002,0,0,,3
+293,Autre,,1997,20,Toulouse,,Homme,Freelance / Indépendant,,1,...,Auto-entrepreneur,45,2,Directeur(trice) de société,,2,5 - Essentiel à la survie de l'entreprise,3,21000,1750,30000,21000,rien nada 000,0 - Pas du tout satisfait
+294,ENSAPBX,,2012,8,Bordeaux,,Femme,Bureau d'études,,2-5,Syntec,C.D.I,35,4,Chef(fe) de projet,,2,3,3,21000,1750,,,TR,3
+295,ENSP Versailles,,2010,10,Lyon,,Femme,C.A.U.E,,11-25,Caue,C.D.I,39,5 - Très satisfait,Chef(fe) de projet,,5,2,5 - Très satisfait,,2500,,,,5 - Très satisfait
+296,ENSP Versailles,,2014,6,Autre,Le Havre,Homme,Fonction publique,,1001-...,fonction publique,Contractuel dans la fonction publique,33,5 - Très satisfait,Responsable d'équipe,,6,3,3,24600,2050,,,CE,4
+297,ESAJ,,1999,20,Île-de-France,,Homme,Agence de conception,,6-10,Entreprises d'architecture,C.D.I,39,3,Chef(fe) de projet confirmé,,3,4,5 - Très satisfait,39000,3200,,,ticktes restaurants,4
+298,Gembloux,,1990,29,Nantes,,Femme,Agence de conception,,2-5,bureau d'études techniques,C.D.I,35,3,Chef(fe) de projet confirmé,,17,3,3,28855,2056,,,,1
+299,ENSNP,,2010,10,Paris,,Femme,Groupe,,51-200,Syntec,C.D.I,39,4,Autre,Ingenieur d'affaires,1,3,3,,2500,,,"RTT, tickets restaurants",4
+300,Agrocampus Ouest (INH),,2010,10,Autre,HAUT-RHIN,Femme,Association,,11-25,Animation,C.D.I,35,5 - Très satisfait,Responsable d'équipe,,5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,22590,1883,,,Chèque cadeau à Noël,4
+301,ENSP Versailles,,2014,11,Île-de-France,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.I,45,3,Chargé(e) d'étude confirmé,,5,4,3,28200,2350,,,"RTT, Tickets restaurants",3
+302,ENSAPBX,,2019,1,Autre,Vannes,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,35.5,5 - Très satisfait,Assistant(e) d'étude,,0,3,5 - Très satisfait,20400,1700,,,RTT,4
+303,Agrocampus Ouest (INH),,2004,15,Lille,,Femme,Fonction publique,,1001-...,Fonction  publique,Contractuel dans la fonction publique,39,4,Chef(fe) de projet,,1,3,4,25200,2100,,,CE,3
+304,ENSAPBX,,2001,20,Bordeaux,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,40,2,Chef(fe) de projet confirmé,,16,3,3,38000,2700,,,Ras,1
+305,Lullier,,2014,4,Autre,Clermont-ferrand,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,35,4,Chef(fe) de projet,,4,3,3,17163,1663,,,,4
+306,ENSP Marseille,,2012,8,Marseille - Aix-en-Provence,,Homme,Association,,1,Transition et biodiversité,Auto-entrepreneur,50,3,Autre,Libre chercheur autour des génie du vivant,8,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,100,,2200,liberté d'action dans l'urgence des transitions,0 - Pas du tout satisfait
+307,ENSP Versailles,,2006,13,Autre,Orleans,Homme,Fonction publique,,201-500,fonction publique territoriale,C.D.D,36,5 - Très satisfait,Autre,"architecte/paysagiste conseil, opération de façade, révision PLU, graphisme, participation élaboration ZAC",5,2,3,33714,2245,,,CE,4
+308,ESAJ,,2016,3,Angleterre,,Homme,Bureau d'études,,51-200,Bureau d’etudes,C.D.I,37.5,5 - Très satisfait,Chef(fe) de projet débutant,,2,2,5 - Très satisfait,28500,2370,,31700,Pas d’avantages,2
+309,ENSAPBX,,2017,2,Grenoble,,Homme,Agence de conception,,2-5,Architecte,C.D.I,39,4,Chargé(e) d'opération,,2,2,5 - Très satisfait,24600,1821,,,,4
+310,ENSP Versailles,,2010,3,Nantes,,Homme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.D,45,0 - Pas du tout satisfait,Chargé(e) d'étude,,0,3,2,21000,1750,,,aucun,0 - Pas du tout satisfait
+311,ENSAPL,,2011,9,Rennes,,Femme,Autre,Coopérative,51-200,BTP,C.D.I,40,3,Chef(fe) de projet,,3,0 - Pas d'impact,5 - Très satisfait,18000,1500,,,,3
+312,Agrocampus Ouest (INH),,1989,28,Nantes,,Femme,C.A.U.E,,11-25,convention collective des CAUE,C.D.I,35,5 - Très satisfait,Chargé(e) d'étude confirmé,,16,3,4,39600,3300,,,"tickets restaurant 9,20 euros",4
+313,Autre,,1992,27,Nantes,,Homme,Agence de conception,,11-25,Syntec,Dirigeant de SARL,35,5 - Très satisfait,Directeur(trice) de société,,27,4,5 - Très satisfait,100000,8500,,,,5 - Très satisfait
+314,ENSP Versailles,,2003,17,Grenoble,,Femme,C.A.U.E,,11-25,Syntec,C.D.I,32,5 - Très satisfait,Chargé(e) d'étude,,3,3,4,25000,2000,,,RTT,3
+315,Autre,Master Aménagements du territoire et Urbanisme,2016,4,Paris,,Homme,Agence de conception,,51-200,Entreprises d'architecture,C.D.D,38,4,Chargé(e) d'opération,,1,4,3,,2200,,,"RTT, tickets restaurants, CE",4
+316,ENSP Versailles,,2007,12,Nantes,,Femme,Agence de conception,,2-5,Entreprises architecture,C.D.I,32,4,Chef(fe) de projet,,6,4,4,26861,2206,,,,3
+317,ESAJ,,2002,20,Toulouse,,Femme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant d'entreprise salarié,39,5 - Très satisfait,Directeur(trice) de société,,15,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,35000,2500,,,VOITURE DE FONCTION,5 - Très satisfait
+318,ENSP Versailles,,1996,25,Paris,,Femme,Agence de conception,,2-5,Entreprise d'architecture,Dirigeant de SARL,60,1,Directeur(trice) de société,,20,5 - Essentiel à la survie de l'entreprise,2,,,18000,,"Voiture, frais de représentation,",0 - Pas du tout satisfait
+319,ENSAPBX,,2005,14,Autre,DOM,Femme,Bureau d'études,,2-5,Entreprises d’architecture,C.D.I,39,2,Chef(fe) de projet confirmé,,14,3,3,32000,2500,,,Tickets resto,3
+320,Agrocampus Ouest (INH),,1995,25,Autre,angers,Homme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant d'entreprise salarié,37,5 - Très satisfait,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,26000,2000,,,,2
+321,Lullier,,2009,10,Autre,Epinal,Femme,Bureau d'études,,11-25,bureaux d'études techniques,C.D.I,39,1,Dessinateur(trice) projeteur,,10,1,0 - Pas du tout satisfait,,1760,,,ticket restaurant,0 - Pas du tout satisfait
+322,Gembloux,,1999,20,Strasbourg,,Homme,Bureau d'études,,6-10,Syntec,C.D.I,39,3,Responsable d'équipe,,15,3,4,34000,2550,,,"Tickets restaurants, CE, Voiture de fonction",2
+323,ENSAPBX,,1997,21,Autre,Ville moyenne Province France,Femme,Fonction publique,,1001-...,Fonction publique,Fonctionnaire,39.5,4,Autre,Paysagiste conseil et innovation,12,4,4,34052,2730,,,RTT et deux jours de congés supplémentaires (si 8 jours de CP pris en période hivernale),3
+324,ESAJ,,2010,8,Autre,BEAUVAIS,Homme,C.A.U.E,,6-10,caue,C.D.I,39,3,Chargé(e) d'étude,,3,3,4,27000,2250,,,/,4
+325,ESAJ,,2004,16,Lyon,,Homme,Agence de conception,,2-5,Code du travail,C.D.I,39,4,Chef(fe) de projet confirmé,,14,3,3,23000,2200,,,,1
+326,ENSP Versailles,,2017,3,Paris,,Homme,Agence de conception,,2-5,code du travail,C.D.I,39,3,Chargé(e) d'étude,,3,3,3,22100,1900,,,Tickets restaurants,0 - Pas du tout satisfait
+327,Lullier,,2010,10,Nantes,,Homme,Agence de conception,,2-5,entreprises d’architecture,Dirigeant de SARL,40,4,Chef(fe) de projet confirmé,,10,4,4,,,23500,,"prevoyance, mutuelle",4
+328,Agrocampus Ouest (INH),,2016,3,Lyon,,Femme,Bureau d'études,,2-5,Syntec,C.D.I,35,4,Chef(fe) de projet débutant,,3,1,4,21600,1800,,,"tickets restaurant, mutuelle",1
+329,ESAJ,,1994,26,Autre,Montpellier,Femme,Bureau d'études,,2-5,Syntec,Dirigeant de SARL,50,0 - Pas du tout satisfait,Directeur(trice) de société,,20,5 - Essentiel à la survie de l'entreprise,4,,,24000,,,0 - Pas du tout satisfait
+330,ENSNP,,2013,7,Autre,,Femme,C.A.U.E,,11-25,CAUE,C.D.I,39,4,Chargé(e) d'étude,,3,3,4,24670,2068,,,"CE, RTT",3
+331,ENSP Versailles,,1994,25,Autre,Le Havre,Femme,Agence de conception,,2-5,agence d'architecture,Dirigeant d'entreprise salarié,35,4,Directeur(trice) de société,,15,5 - Essentiel à la survie de l'entreprise,4,30699,2600,31200,,,3
+332,ENSAPBX,,2011,7,Autre,Lot et garonne,Femme,Agence de conception,,1,Entreprises paysagistes,Auto-entrepreneur,45,0 - Pas du tout satisfait,Chef(fe) de projet confirmé,,7,0 - Pas d'impact,2,30000,,,,,0 - Pas du tout satisfait
+333,ENSP Versailles,,2001,19,Autre,Clermont-Ferrand,Femme,Bureau d'études,,2-5,bureaux d’études techniques - Syntec,C.D.I,35,4,Chargé(e) d'étude,,10,2,4,,2100,,,aucun,2
+334,ESAJ,,2012,5,Paris,,Femme,Autre,Coopérative d'activité et d'emploi,51-200,Convention collective du BTP,C.D.I,35,4,Chef(fe) de projet confirmé,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,8000,650,,,libre organisation de mes congés et de mon temps de travail,1
+335,ENSNP,,2018,1,Autre,Le Mans,Homme,Bureau d'études,,6-10,Compétence interne Ville du Mans - Fonction Publique Territoriale,Contractuel dans la fonction publique,40,3,Chef(fe) de projet,,1,3,4,24000,2000,,,,3
+336,ENSP Versailles,,2009,10,Marseille - Aix-en-Provence,,Homme,Bureau d'études,,1001-...,Convention Syntec,C.D.I,39,4,Chargé(e) d'étude confirmé,,9,3,3,32065,2440,,,"RTT, TR, CE, Participation, Interessement",2
+337,ENSP Versailles,,1987,33,Île-de-France,,Homme,Agence de conception,,6-10,Aucune,Dirigeant de SARL,50,5 - Très satisfait,Directeur(trice) de société,,30,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,36000,,"autres postes salariés : conseil de l'Etat, enseignant ENSA",5 - Très satisfait
+338,ENSP Versailles,,2010,10,Lyon,,Femme,Freelance / Indépendant,,1,paysagistes,Auto-entrepreneur,39,1,Directeur(trice) de société,,5,5 - Essentiel à la survie de l'entreprise,3,,,29000,,,1
+339,ENSP Versailles,,1987,30,Autre,ANNONAY,Femme,Bureau d'études,,1,Entreprises paysagistes,Dirigeant de SARL,39,3,Responsable d'agence / bureaux,,20,5 - Essentiel à la survie de l'entreprise,4,11000,,,,VOITURE,2
+340,ENSP Versailles,,2005,15,Autre,Nancy,Homme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant de SARL,55,2,Directeur(trice) de société,,10,5 - Essentiel à la survie de l'entreprise,3,,,21600,,,3
+341,Gembloux,,2004,16,Autre,Cabourg,,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant de SARL,39,4,Directeur(trice) de société,,9,1,4,30000,2500,,,,4
+342,ENSP Versailles,,2001,19,Bordeaux,,Homme,Agence de conception,,6-10,Bureau d'étude technique,Dirigeant de SARL,35,4,Directeur(trice) de société,,12,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,40000,3300,660000,,"PEE, PERCO, Voiture de société,",4
+343,ESAJ,,2000,25,Autre,Maine et Loire,Homme,Bureau d'études,,2-5,Entreprises paysagistes,Dirigeant de SARL,50,3,Directeur(trice) de société,,20,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,78600,6550,,,,5 - Très satisfait
+344,ESAJ,,1995,22,Île-de-France,,Femme,Bureau d'études,,2-5,Syntec,Dirigeant de SARL,39,4,Chef(fe) de projet confirmé,,12,5 - Essentiel à la survie de l'entreprise,3,,,47500,,,4
+345,ENSP Versailles,,2008,8,Autre,72300,Homme,Agence de conception,,2-5,entreprises d’architecture,Dirigeant d'entreprise salarié,53,0 - Pas du tout satisfait,Directeur(trice) de société,,2,5 - Essentiel à la survie de l'entreprise,1,21834,2073,22000,,Tickets restaurants,1
+346,ENSP Versailles,,2001,19,Lyon,,Femme,Agence de conception,,6-10,Entreprises architecture,C.D.I,35,5 - Très satisfait,Chef(fe) de projet confirmé,,1,4,3,,2614,,,"Récupération des heures sup, prime annuel (environ 700 euros net)",1
+347,ENSP Versailles,,2015,4,Autre,vinezac 07,Femme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant de SARL,45,2,Directeur(trice) de société,,4,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,25000,1500,18000,,,2
+348,Autre,Habilité FFP / Licence pro,2003,17,Marseille - Aix-en-Provence,,Homme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,39,4,Directeur(trice) de société,,9,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,30000,2500,,,,3
+349,ENSP Versailles,,1993,25,Autre,,Homme,Agence de conception,,1,be,Dirigeant de SARL,40,1,Autre,"a son compte, on fait tout!",22,5 - Essentiel à la survie de l'entreprise,3,30000,2500,,,aucun,1
+350,ENSP Versailles,,2015,5,Autre,Concarneau,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,39,2,Autre,tout à la fois,5,5 - Essentiel à la survie de l'entreprise,3,,,,8277,aucun,1
+351,ENSP Versailles - Formation continue,,2012,7,Nantes,,Femme,Entreprise de réalisation,,2-5,Entreprises paysagistes,C.D.D,39,4,Chargé(e) d'étude,,7,4,3,19800,1850,,,aucun,0 - Pas du tout satisfait
+352,Gembloux,,2015,3,Autre,Moselle,Femme,Freelance / Indépendant,,1,entreprises d’architecture,Auto-entrepreneur,39,2,Directeur(trice) de société,,0,5 - Essentiel à la survie de l'entreprise,1,,1200,,,Aucun,0 - Pas du tout satisfait
+353,ENSNP,,2009,12,Paris,,Homme,Agence de conception,,51-200,Entreprises architecture,C.D.I,40,5 - Très satisfait,Directeur(trice) de société,,10,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,65000,4500,,,,5 - Très satisfait
+354,ENSP Versailles,,2012,3,Lyon,,Femme,Autre,Géomètres-experts,11-25,Entreprises géomètres,C.D.I,39,4,Chef(fe) de projet,,1,3,4,31200,2600,,,Tickets restaurants/chèques vacances/prime d’activités/ prime macron/intéressement,5 - Très satisfait
+355,ENSP Marseille,,2018,1,Marseille - Aix-en-Provence,,Femme,Recherche,,51-200,fonction publique,C.D.D,20,2,Chargé(e) d'étude,,1,3,3,,822,,,,2
+356,ENSAPBX,,2013,6,Toulouse,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,32,3,Chargé(e) d'étude,,6,4,3,20613,1675,,,paiement de la moitié du télépéage,2
+357,ESAJ,,2008,13,Paris,,Homme,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant d'entreprise salarié,39,4,Responsable d'agence / bureaux,,7,5 - Essentiel à la survie de l'entreprise,4,25200,2100,,,,4
+358,ENSP Versailles,,1999,20,Autre,chambéry,Homme,Bureau d'études,,11-25,bureau d'études technique - ingénierie,C.D.I,37,5 - Très satisfait,Chef(fe) de projet confirmé,,16,3,2,36000,3000,,,aucun,3
+359,Agrocampus Ouest (INH),,1981,39,Autre,,Homme,Fonction publique,,26-50,fonction publique,C.D.I,31,5 - Très satisfait,Chargé(e) d'étude confirmé,,39,4,5 - Très satisfait,45000,3720,,,,4
+360,Agrocampus Ouest (INH),,2005,15,Autre,Vosges,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Dirigeant de SARL,35,5 - Très satisfait,Autre,,5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,15600,,,5 - Très satisfait
+361,ENSP Versailles,,2011,8,Île-de-France,,Homme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant d'entreprise salarié,55,1,Directeur(trice) de société,,4,5 - Essentiel à la survie de l'entreprise,3,20400,1700,,,,0 - Pas du tout satisfait
+362,ESAJ,,2005,15,Île-de-France,,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,39,5 - Très satisfait,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,,,31000,La liberté!,3
+363,ENSP Versailles,,2004,16,Paris,,Homme,Agence de conception,,26-50,Entreprises paysagistes,C.D.I,39,3,Chef(fe) de projet confirmé,,13,1,3,41580,3465,42000,,Heures supplémentaires récupérées,4
+364,ESAJ,,1995,25,Autre,ROUEN,Homme,Agence de conception,,11-25,BUREAU ETUDES TECHNIQUES,C.D.I,50,3,Responsable d'agence / bureaux,,2,4,4,42600,3954,,,Voiture de fonction,4
+365,Agrocampus Ouest (INH),,2012,16,Île-de-France,,Femme,Bureau d'études,,1,Entreprises paysagistes,Auto-entrepreneur,20,4,Responsable d'agence / bureaux,,7,5 - Essentiel à la survie de l'entreprise,4,,,,8100,,4
+366,ENSP Versailles,,1987,30,Paris,,Homme,Freelance / Indépendant,,1,Syntec,Contractuel dans la fonction publique,39,5 - Très satisfait,Autre,paysagiste conseil et chargé de mission pédagogique,22,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,23632,1935,40188,,,3
+367,ENSP Versailles,,2009,11,Lille,,Homme,Bureau d'études,,2-5,entreprises d'architecture,C.D.I,42,3,Chargé(e) d'étude,,8,4,3,27360,2280,,,,3
+368,ENSP Versailles,,2016,4,Île-de-France,,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Auto-entrepreneur,60,2,Directeur(trice) de société,,4,5 - Essentiel à la survie de l'entreprise,4,,,,40000,,2
+369,Autre,ENSAPLV (ayant toujours travaillé en paysage),2012,8,Paris,,Femme,Agence de conception,,26-50,Entreprises d’architecture,C.D.I,39,4,Chef(fe) de projet,,8,4,5 - Très satisfait,45998,3600,,,,5 - Très satisfait
+370,Gembloux,,1974,45,Nantes,,Homme,Bureau d'études,,6-10,Entreprises paysagistes,Dirigeant d'entreprise salarié,60,4,Directeur(trice) de société,,35,4,5 - Très satisfait,48000,3500,,,,3
+371,Agrocampus Ouest (INH),,2012,8,Lille,,Femme,Agence de conception,,2-5,Entreprises d'architecture,C.D.I,39,5 - Très satisfait,Chargé(e) d'étude confirmé,,8,5 - Essentiel à la survie de l'entreprise,3,16440,1370,0,,"RTT, ticket restaurants, prestations sociales de l'union sociale des scop (équivalent CE)",3
+372,ENSNP,,2017,3,Paris,,Femme,Agence de conception,,11-25,Entreprises architectes,C.D.I,39,3,Chef(fe) de projet débutant,,1,0 - Pas d'impact,3,22400,1870,,,Ticket restaurants,3
+373,ENSNP,,2018,1,Autre,Brioude,Homme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.I,35,4,Chargé(e) d'étude,,1,4,4,15840,1320,,,,1
+374,Agrocampus Ouest (INH),,2015,4,Lille,,Homme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,42,4,Chef(fe) de projet,,1,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,21600,1800,,,voiture de service,2
+375,Gembloux,,2009,10,Nantes,,Homme,Freelance / Indépendant,,1,Entreprises paysagistes,Dirigeant de SARL,39,2,Responsable d'agence / bureaux,,5,5 - Essentiel à la survie de l'entreprise,3,,,23500,,,2
+376,Gembloux,,2013,5,Lille,,Homme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.I,39,3,Chargé(e) d'étude confirmé,,5,2,4,20085,2230,,,"Chèque de cadeau, prime, carte Campagne",3
+377,Autre,CQP collaborateur concepteur paysagiste,2015,5,Île-de-France,,Femme,Autre,Entreprise privée,6-10,jardinerie Graineterie,C.D.I,35,3,Chef(fe) de projet,,2,4,2,23525,2112,,,Voiture et portable,1
+378,ENSNP,,2013,6,Lyon,,Femme,Agence de conception,,2-5,Entreprises d'architecture,C.D.I,35,4,Chef(fe) de projet,,1,2,4,25200,2100,,,,3
+379,Agrocampus Ouest (INH),,2018,2,Autre,Orléans,Femme,Fonction publique,,201-500,fonction publique,C.D.I,39,4,Chef(fe) de projet,,2,3,3,25500,2100,,,"Ticket resto, voiture administrative, RTT",4
+380,Agrocampus Ouest (INH),,2019,0,Paris,,Homme,Agence de conception,,51-200,Entreprises paysagistes,C.D.D,39,4,Dessinateur(trice) projeteur,,0,3,3,21000,1750,,,"Ticket restaurant, prime intéressement, moitié pass navigo",3
+381,Agrocampus Ouest (INH),,2013,6,Paris,,Femme,Agence de conception,,51-200,Entreprises d’architecture,C.D.I,39,4,Chef(fe) de projet débutant,,4,0 - Pas d'impact,3,28000,2400,0,0,0,3
+382,Autre,"Master géographie, aménagement, environnement, développement",2018,1,Autre,Angers,Femme,Bureau d'études,,6-10,Entreprises paysagistes,C.D.D,40,4,Assistant(e) d'étude,,1,0 - Pas d'impact,5 - Très satisfait,,1600,,,"Rtt , tickets restaurant",3
+383,Agrocampus Ouest (INH),,2019,1,Autre,Thouars,Femme,Fonction publique,,201-500,fonction publique,C.D.D,39,3,Responsable d'équipe,,1,2,5 - Très satisfait,19800,1650,,,prime 500€,2
+384,Agrocampus Ouest (INH),,2015,5,Autre,Challans (85),Femme,Entreprise de réalisation,,26-50,Entreprises paysagistes,C.D.I,42,4,Chargé(e) d'étude,,5,3,5 - Très satisfait,22669,1742,,,"RTT, tickets restaurants, CE, 13ème mois",2
+385,Agrocampus Ouest (INH),,2014,5,Autre,Rouen,Homme,Fonction publique,,1001-...,Fonction publique territoriale,Fonctionnaire,39,4,Chargé(e) d'opération,,5,3,4,25600,2100,,,"Tickets restaurants, CNAS, RTT",4
+386,Agrocampus Ouest (INH),,2017,1,Autre,Albi,Femme,Bureau d'études,,26-50,bureaux d'études techniques,C.D.I,35,4,Chargé(e) d'étude,,1,2,3,14081,1643,,,Tickets restaurants,2
+387,ENSP Marseille,,2019,0,Nantes,,Femme,Agence de conception,,6-10,Entreprises d architecture,C.D.D,45,0 - Pas du tout satisfait,Assistant(e) de projet,,0,0 - Pas d'impact,2,,1445,,,Indemnisation km velo,1
+388,Agrocampus Ouest (INH),,2016,4,Autre,Champagne Ardenne,Femme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,42,2,Chargé(e) d'étude,,3,3,4,25985,1833,,,125€ de Carte cadhoc et 1 magnum de champagne en fin d'année,1
+389,ENSAPBX,,2000,20,Autre,Pau (64),Femme,Autre,Portage salarial,501-1000,SYNTEC (attente entrée en vigueur d'une convention propre aux ets de portage),C.D.I,45,3,Responsable d'agence / bureaux,,20,4,3,26000,2150,83193,,Salarié indépendant (je n'ai pas d'avantages mais peux choisir d'en avoir en fonction de mes revenus),2
+390,ESAJ,,2017,2,Autre,Ile de la Réunion,Femme,Fonction publique,,501-1000,Service des Espaces Verts,Contractuel dans la fonction publique,40,3,Responsable d'équipe,,1,3,4,25000,1927,,,"tickets restaurants, voiture de fonction, téléphone de fonction, poste informatique de fonction.",2
+391,Agrocampus Ouest (INH),,2014,4,Île-de-France,,Femme,Entreprise de réalisation,,51-200,Entreprises paysagistes,C.D.I,50,2,Chargé(e) d'étude,,4,3,3,25530,2041,0,,RTT + TR + voiture de service,3
+392,ENSNP,,2014,6,Paris,,Homme,Agence de conception,,6-10,Entreprises architecture,C.D.I,39,5 - Très satisfait,Chef(fe) de projet,,2,4,4,32400,2700,,,"RTT, tickets restaurants, remboursement (0% navigo",4
+393,ENSAPL,,2011,4,Autre,Ardennes,,Autre,PNR,11-25,Fonction publique territoriale,Fonctionnaire,32,4,Responsable d'équipe,,3,3,5 - Très satisfait,14146,1268,,,"RTT, Association équivalant CE.",4
+394,Agrocampus Ouest (INH),,2014,4,Lille,,Femme,Agence de conception,,6-10,Convention collective des architectes,C.D.I,42,0 - Pas du tout satisfait,Chef(fe) de projet,,0,1,0 - Pas du tout satisfait,,2300,,,2 RTT mensuels,0 - Pas du tout satisfait
+395,Agrocampus Ouest (INH),,2016,3,Autre,La Rochelle,Homme,Entreprise de réalisation,,1001-...,Entreprises paysagistes,C.D.I,40,0 - Pas du tout satisfait,Chargé(e) d'étude,,3,1,1,22379,1917,,,"11 RTT /an, tickets restaurants",1
+396,ENSAPL,,2016,4,Île-de-France,,Homme,Bureau d'études,,6-10,Bet,C.D.I,39,5 - Très satisfait,Chef(fe) de projet,,3,3,5 - Très satisfait,35000,2900,,,Frais kilométriques,5 - Très satisfait
+397,ENSP Versailles,,2008,10,Toulouse,,Femme,Agence de conception,,2-5,entreprises d’architecture,C.D.I,45,2,Chargé(e) d'étude,,1,3,3,21600,1800,0,0,0,3
+398,Agrocampus Ouest (INH),,2017,2,Grenoble,,Femme,C.A.U.E,,11-25,Convention collective des CAUE,C.D.D,32,5 - Très satisfait,Chargé(e) d'étude,,1,2,3,30000,1400,,,,4
+399,ENSNP,,2006,14,Île-de-France,,Homme,Agence de conception,,6-10,BET SYNTEC,Dirigeant de SARL,45,2,Directeur(trice) de société,,12,4,3,38000,3150,38000,38000,,2
+400,Agrocampus Ouest (INH),,2018,2,Paris,,Femme,Bureau d'études,,51-200,Syntec,C.D.I,40,1,Chargé(e) d'étude,,2,2,3,25200,2100,,,"TR, prime de résultat",3
+401,Agrocampus Ouest (INH),,2017,2,Lyon,,Femme,Agence de conception,,11-25,Bureaux d'études techniques - SYNTEC,C.D.I,39,4,Chef(fe) de projet débutant,,2,3,3,23041,1875,,,"tickets restaurant, accès salle de sport",3
+402,Agrocampus Ouest (INH),,2018,1,Toulouse,,Femme,Fonction publique,,1001-...,Fonction publique,C.D.D,38,4,Chargé(e) d'opération,,1,1,3,19200,1600,,,"tickets restaurants, RTT",1
+403,Agrocampus Ouest (INH),,2016,4,Lyon,,Femme,Agence de conception,,11-25,Entreprise d'architecture,C.D.I,40,4,Chargé(e) d'étude,,4,3,4,19688,1788,,,Tickets restaurants,4
+404,Agrocampus Ouest (INH),,2016,4,Nantes,,Homme,Bureau d'études,,6-10,SYNTECH,C.D.I,50,3,Chef(fe) de projet,,4,4,4,24500,2006,0,0,Tickets restaurant + prime intéressement + prime vacances estivales,3
+405,Autre,"DESS jardins historiques et paysages, DNSEP Design d'espace et de produit",1994,23,Strasbourg,,Je ne souhaite pas répondre,Agence de conception,,2-5,Entreprises d'architecture,Dirigeant de SARL,40,5 - Très satisfait,Directeur(trice) de société,,23,5 - Essentiel à la survie de l'entreprise,3,,,44000,,"voiture de fonction, téléphone",4
+406,Autre,bts et licence aménagements paysagers,2013,9,Strasbourg,,Femme,Freelance / Indépendant,,1,pas de convention,Auto-entrepreneur,50,3,Chef(fe) de projet,,9,5 - Essentiel à la survie de l'entreprise,3,,,,41000,/,5 - Très satisfait
+407,ENSAPBX,,2014,5,Autre,"Rospez, 22300",Femme,Autre,"à mon compte dans une coopérative d'activité CAE22, donc salariée indépendante",201-500,?,C.D.I,35,5 - Très satisfait,Autre,"je fais tout moi même, conception, chantier, entretien...",5,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,,1413,,,remboursement frais km,4
+408,ENSAPBX,,2018,2,Île-de-France,,Femme,Agence de conception,,6-10,Entreprises paysagistes,C.D.D,39,3,Chef(fe) de projet,,1,2,4,24000,2000,24000,,,4
+409,Agrocampus Ouest (INH),,2017,3,Nantes,,Homme,Agence de conception,,2-5,Bureau d'étude technique,C.D.I,39,3,Chargé(e) d'étude,,2,3,3,,1900,,,"RTT, ticket restaurant, prime sur intéressement",3
+410,Agrocampus Ouest (INH),,2004,15,Île-de-France,,Homme,Bureau d'études,,11-25,Syntec,C.D.I,39,4,Directeur(trice) de société,,13,5 - Essentiel à la survie de l'entreprise,5 - Très satisfait,64000,5100,0,0,"RTT, tickets restaurants, voiture de fonction",4
+411,Agrocampus Ouest (INH),,2010,10,Lyon,,Femme,Agence de conception,,6-10,Entreprises d'architecture,C.D.I,35,5 - Très satisfait,Chef(fe) de projet confirmé,,4,3,3,28796,3142,,,Recups >35h,3
+412,ENSAPL,,2019,1,Paris,,Femme,Agence de conception,,26-50,Entreprises architectures,C.D.D,39,4,Chargé(e) d'étude débutant,,1,2,4,20628,1719,29064,,tickets restaurant,4
+413,ENSP Marseille,,2016,1,Autre,Montpellier,Je ne souhaite pas répondre,Agence de conception,,6-10,Entreprises d'architecture,C.D.D,28,4,Chargé(e) d'étude débutant,,0,4,3,,1330,,12827,,1
+414,ESAJ,,1999,19,Paris,,Je ne souhaite pas répondre,Agence de conception,,2-5,entreprises d’architecture,Dirigeant de SARL,45,3,Directeur(trice) de société,,3,5 - Essentiel à la survie de l'entreprise,4,9800,816,43500,,,0 - Pas du tout satisfait
+415,ESAJ,,2014,3,Paris,,Femme,Bureau d'études,,51-200,Entreprises d’architecture,C.D.D,39,3,Assistant(e) de projet,,1,0 - Pas d'impact,3,24000,2000,,,Tickets restaurants 10€,1
+416,ENSP Marseille,,2014,6,Autre,,Homme,Bureau d'études,,6-10,Pas de convention collective,C.D.I,39,2,Chargé(e) d'étude,,1,2,2,20952,1746,,,Aucun,0 - Pas du tout satisfait
+417,Agrocampus Ouest (INH),,2004,16,Nantes,,Femme,Agence de conception,,11-25,bureaux d'études techniques Syntec,C.D.I,39,3,Chef(fe) de projet débutant,,2,0 - Pas d'impact,3,6315,2280,,,"tickets restaurant, mutuelle à 50%",1
+418,Autre,TECOMAH,2016,4,Autre,Saint Etienne,Homme,Entreprise de réalisation,,6-10,Entreprises paysagistes,C.D.I,35,3,Responsable d'agence / bureaux,,3,4,4,22000,1800,,,,2
+419,Agrocampus Ouest (INH),,1990,30,Autre,,Femme,Bureau d'études,,2-5,Entreprises paysagistes,Dirigeant de SARL,45,3,Responsable d'agence / bureaux,,12,5 - Essentiel à la survie de l'entreprise,4,,,15000,,voiture en location,0 - Pas du tout satisfait
+420,Agrocampus Ouest (INH),,2008,11,Autre,Vendee,Homme,Autre,Parc de loisir,201-500,Parcs de loisirs,C.D.I,39,4,Chef(fe) de projet,,3,4,4,38000,3000,,,Participation aux bénéfices,4
+421,Gembloux,,2017,1,Île-de-France,,Femme,Groupe,,51-200,syntec,C.D.I,39,2,Autre,Chargée de projet paysagiste,0,3,4,,1736,,,"11 jours de Rtt par an, CE",3
+422,ENSAPBX,,2018,1,Île-de-France,,Femme,Groupe,,1001-...,Entreprises paysagistes,C.D.I,39,2,Chargé(e) d'étude,,1,1,3,,1960,,,RTT,4
+423,ENSAPBX,,2018,1,Bordeaux,,Femme,Bureau d'études,,2-5,Entreprises paysagistes,C.D.I,35,4,Chargé(e) d'étude débutant,,1,2,4,,1674,,,,3
+424,ENSP Versailles,,2000,20,Bordeaux,,Femme,Agence de conception,,6-10,Entreprises paysagistes,Dirigeant de SARL,45,2,Directeur(trice) de société,,17,5 - Essentiel à la survie de l'entreprise,4,33000,2750,33000,,Abonnement téléphone,2
+425,Agrocampus Ouest (INH),,2018,2,Paris,,Femme,Agence de conception,,51-200,Entreprises d'architecture,C.D.I,42,2,Chargé(e) d'étude,,2,0 - Pas d'impact,3,22200,1850,,,,2
+426,ENSNP,,2004,16,Autre,Vietnam,Homme,Agence de conception,,2-5,Entreprises paysagistes,Dirigeant d'entreprise salarié,45,4,Directeur(trice) de société,,5,3,4,,4500,,,,4
+427,ENSAPBX,,2011,9,Toulouse,,Femme,Agence de conception,,2-5,Entreprise d'architecture,C.D.I,35,5 - Très satisfait,Chargé(e) d'étude,,9,3,4,,1450,,,,2
+428,ENSAPBX,,2018,2,Autre,DIJON,Homme,Bureau d'études,,2-5,bureaux d'études techniques - syntec,C.D.I,35,4,Chargé(e) d'étude,,2,4,4,22000,1800,22000,,tickets restaurants,4
+429,ENSAPBX,,2019,1,Allemagne,,Femme,Bureau d'études,,11-25,GbR,C.D.I,40,4,Assistant(e) de projet,,1,2,2,24720,2060,,,rien,2
+430,ENSP Versailles,,2006,13,Autre,,Femme,Freelance / Indépendant,,1,Entreprises paysagistes,Dirigeant de SARL,45,3,Autre,,9,5 - Essentiel à la survie de l'entreprise,3,,,25000,,,2
+431,ENSAPBX,,2018,2,Bordeaux,,Homme,Agence d'Urbanisme du réseau F.N.A.U,,51-200,Association d'ordre privée,C.D.D,35,5 - Très satisfait,Assistant(e) d'étude,,1,3,5 - Très satisfait,20670,1590,,,"RTT, jour de récupération",4
+432,ENSP Versailles,,1997,22,Grenoble,,Femme,Agence de conception,,2-5,entreprise d'architecture,Dirigeant d'entreprise salarié,24,5 - Très satisfait,Chef(fe) de projet confirmé,,22,5 - Essentiel à la survie de l'entreprise,4,,,21480,,aucun,3
+433,ENSAPBX,,2006,14,Autre,Deux-Sevres,Femme,Entreprise de réalisation,,11-25,Entreprises paysagistes,C.D.I,32,5 - Très satisfait,Chargé(e) d'étude confirmé,,4,4,4,24845,1859,,,"voiture de fonction, téléphone",4
+434,Agrocampus Ouest (INH),,2016,3,Rennes,,Femme,Bureau d'études,,11-25,entreprises d’architecture,C.D.I,35,4,Chargé(e) d'étude,,3,2,3,22923,1835,,,"tickets restaurants, mutuelle prise en charge à 60%, recup des heures sup",4
+435,ENSNP,,2018,1,Rennes,,Femme,Bureau d'études,,11-25,Entreprises paysagistes,C.D.I,35,5 - Très satisfait,Chargé(e) d'étude débutant,,1,0 - Pas d'impact,3,,1511,,,tickets restaurants,2
+436,ENSAPBX,,2018,1,Autre,Le Mans,Femme,C.A.U.E,,11-25,CAUE,C.D.I,35,5 - Très satisfait,Chargé(e) d'étude débutant,,1,3,4,27892,2138,,,"2 RTT/mois, Tickets resto",5 - Très satisfait
+437,ENSP Versailles,,2016,3,Autre,Jura,Femme,C.A.U.E,,2-5,convention collective CAUE,C.D.I,35,5 - Très satisfait,Chef(fe) de projet,,3,3,3,27300,2274,,,,4
+438,ENSAPBX,,2018,1,Lille,,Femme,Agence de conception,,2-5,Entreprises paysagistes,C.D.I,40,1,Chargé(e) d'étude,,1,4,3,17640,1470,,,Repas compris,2
