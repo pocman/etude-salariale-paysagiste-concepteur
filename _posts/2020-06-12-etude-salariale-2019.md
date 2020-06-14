@@ -37,8 +37,8 @@ Et les hommes sont plus représentés dans les statuts de dirigeants.
 |-----------------------------------------|---------|    -------|--------|
 |                                         |         |    Femme  | Homme  |
 | C.D.I                                   |  54,81% |    57,21% | 52,11% |
-| Dirigeant de SARL                       |  12,35% |    8,37%  | 16,84% |
 | C.D.D                                   |  16,54% |    19,53% | 13,16% |
+| Dirigeant de SARL                       |  12,35% |    8,37%  | 16,84% |
 | Auto-entrepreneur                       |  7,16%  |    8,84%  | 5,26%  |
 | Dirigeant d'entreprise salarié          |  3,95%  |    2,33%  | 5,79%  |
 | Fonctionnaire                           |  3,21%  |    1,86%  | 4,74%  |
