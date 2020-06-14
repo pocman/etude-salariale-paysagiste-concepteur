@@ -2,19 +2,21 @@
 classes: wide
 title:  "Résultats 2019"
 ---
-**Depuis le 1er Novembre 2019**, vous avez été **430** à répondre  l'enquête, c'est 50% de plus que l'année dernière !
+**Depuis le 1er Novembre 2019**, vous avez été **430** à répondre l'enquête, c'est 50% de plus que l'année dernière !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2019-paysagiste-concepteur-1571493030).
 Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2019___paysagiste_concepteur.csv).
 # Description des réponses
+Parmi les 430 réponses, 20 n'ont pas été exploitées.
+
 ### Sexe
 Parmi les 410 réponses, la parité est respectée avec 53% de femmes. 
-Il serait intéressant de comparer cette proportion avec la parité au sein des paysagistes concepteurs.
+Il serait intéressant de comparer cette proportion avec la parité au sein des paysagistes détenteurs du titre concepteur.
 
 ### Répartition géographique
 Concernant la répartition géographique, 31% des réponses portent sur l'île de france et donc 69% sur le reste de la France (Métropole et Dom-Tom).
 
 ### Expérience des répondant.e.s
-Nous avons posé deux questions relatives à l'expérience des répondants.
+Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
 Concernant le nombre d'années d'expérience, la moyenne est de 8,3 années, avec une médiane à 5 années.
 Concernant le nombre d'années depuis la fin de la formation initiale, la moyenne est à 9 années, avec une médiane à 7 années.
 Pour la suite de l'analyse, nous avons décidé de découper la population en 4 catégories en fonction de la date de sortie de formation initiale.
@@ -22,10 +24,10 @@ Pour la suite de l'analyse, nous avons décidé de découper la population en 4 
 |   |                                                    | Ensemble | |  |
 |---|----------------------------------------------------|---------------|-------|-------|
 |   |                                                    |               | dont Femme |  dont Province | 
-|   | Sortis depuis 0 à 3 ans de formation initiale      | 29%           | 53%    |  65%    | 
-|   | Sortis depuis 4 à 6 ans de formation initiale      | 20%           | 51%    | 62%    | 
-|   | Sortis depuis 7 à 10 ans de formation initiale     | 19%           | 56%    |  76%    | 
-|   | Sortis depuis 11 ans ou plus de formation initiale | 31%           | 44%    |  71%    | 
+|   | Sortie depuis 0 à 3 ans de formation initiale      | 29%           | 53%    |  65%    | 
+|   | Sortie depuis 4 à 6 ans de formation initiale      | 20%           | 51%    | 62%    | 
+|   | Sortie depuis 7 à 10 ans de formation initiale     | 19%           | 56%    |  76%    | 
+|   | Sortie depuis 11 ans ou plus de formation initiale | 31%           | 44%    |  71%    | 
 
 ### Types de contrats
 On peut observer que les femmes ont, en moyenne, des contrats plus précaires (C.D.D, Auto-entrepreneur) que les hommes.
@@ -43,14 +45,14 @@ Et les hommes sont plus représentés dans les statuts de dirigeants.
 | Contractuel dans la fonction publique   |  1,98%  |    1,86%  | 2,11%  |
 
 ### Ecole diplômante
-L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentés dans les réponses.
+L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
 ![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/Pourcentage-réponses-école-diplômante.png)
 
 # Analyse des réponses
 ## Temps partiel et satisfaction au travail
 On peut observer que les personnes à temps partiel sont plus satisfaites de leur emploi et de leur temps de travail.
 Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail, 
-mais les hommes dans cette situation sont globalement plus satisfait de leur emploi que les femmes.
+mais les hommes dans cette situation sont globalement plus satisfaits de leur emploi que les femmes.
 
 |                  | Sexe  | Moyenne Satisfaction globale | Moyenne Satisfaction temps de travail | % de réponses |
 |------------------|-------|------------------------------|---------------------------------------|---------------|
@@ -68,24 +70,24 @@ mais les hommes dans cette situation sont globalement plus satisfait de leur emp
 ![Moyenne de la satisfaction du temps de trvail en fonction du temps de travail](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-satisfaction-temps-travail-fonction-temps-travail.png)
 
 ## Salaire
-En 2020, les jeunes salariés sortis depuis 0 à 3 ans de formation initiale perçoivent un salaire net moyen mensuel (tous temps de travail confondus) 
-de 1700 euros, contre 2500 euros pour les salariés qui ont terminé leurs études depuis plus de 11 ans.
+En 2020, les jeunes salarié.e.s sorti.e.s depuis 0 à 3 ans de formation initiale perçoivent un salaire net moyen mensuel (tous temps de travail confondus) 
+de 1700 euros, contre 2500 euros pour les salarié.e.s qui ont terminé leurs études depuis plus de 11 ans.
 
 Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/metadonnees/definition/c1729)) est de 2048 euros.
 
 | Salaire équivalent temps plein | Ensemble |       |       |          |               |
 |------------|----------|-------|-------|----------|---------------|
 |            |          | Femme | Homme | Province | Ile-de-France |
-| Sortis depuis 0 à 3 ans de formation initiale       | 1693€     | 1684€  | 1704€  | 1607€     | 1855€          |
-| Sortis depuis 4 à 6 ans de formation initiale       | 1965€     | 1855€  | 2086€  | 1846€     | 2155€          |
-| Sortis depuis 7 à 10 ans de formation initiale      | 1967€     | 1975€  | 1957€  | 1861€     | 2289€          |
-| Sortis depuis 11 ans ou plus de formation initiale  | 2484€     | 2072€  | 2830€  | 2412€     | 2616€          |
+| Sortie depuis 0 à 3 ans de formation initiale       | 1693€     | 1684€  | 1704€  | 1607€     | 1855€          |
+| Sortie depuis 4 à 6 ans de formation initiale       | 1965€     | 1855€  | 2086€  | 1846€     | 2155€          |
+| Sortie depuis 7 à 10 ans de formation initiale      | 1967€     | 1975€  | 1957€  | 1861€     | 2289€          |
+| Sortie depuis 11 ans ou plus de formation initiale  | 2484€     | 2072€  | 2830€  | 2412€     | 2616€          |
 | Ensemble                                            | 2048€     | 1883€  | 2235€  | 1969€     | 2211€          |
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
-Lecture : en 2020, 10 % des répondants en équivalent temps plein perçoivent un salaire mensuel net inférieur à 1300 euros et 
-80 % des répondants perçoivent un salaire mensuel net inférieur à 2500 euros.
+Lecture : en 2020, 10 % des répondant.e.s en équivalent temps plein perçoivent un salaire mensuel net inférieur à 1300 euros et 
+80 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 2500 euros.
 
 | Déciles      | Ensemble | Femme    | Homme    |
 |--------------|----------|----------|----------|
@@ -128,7 +130,7 @@ La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satis
 | Total                                 |       | 3,56                         | 2,64                              | 3,26                                  | 405        |
 
 Les personnes les plus satisfaites au travail sont les dirigeants de SARL, les moins satisfaites sont les personnes en C.D.D.
-On observe une différence de satisfaction au travail entre homme et femme chez les dirigeants, les fonctionnaires et les auto-entrepreneur.
+On observe une différence de satisfaction au travail entre homme et femme chez les dirigeant.e.s, les fonctionnaires et les auto-entrepreneur.se.s.
 La satisfaction est homogène entre les sexes pour les personnes en C.D.I et en C.D.D.
 ![Moyenne de la satisfaction globale en fonction du statut et du sexe](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-de-la-satisfaction-globale-en-fonction-du-statut-et-du-sexe.png)
 
@@ -154,3 +156,4 @@ Malgré une parité au sein des répondant.e.s, on observe que les femmes sont s
 | 11-50 employées                | 3        |            | 3          |
 | Total                          | 66       | 23         | 43         |
 
+Si vous avez des remarques ou des propositions d'analyses complémentaires, merci de me contacter par email (voir en haut à gauche) ou sur twitter.
