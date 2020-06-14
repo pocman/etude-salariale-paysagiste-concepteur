@@ -64,6 +64,7 @@ mais les hommes dans cette situation sont globalement plus satisfait de leur emp
 |                  | Femme | 3,25                         | 2,08                                  | 9,88%         |
 |                  | Homme | 3,79                         | 2,62                                  | 14,32%        |
 | Ensemble         |       | 3,56                         | 3,26                                  | 100,00%       |
+
 ![Moyenne de la satisfaction du temps de trvail en fonction du temps de travail](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-satisfaction-temps-travail-fonction-temps-travail.png)
 
 ## Salaire
