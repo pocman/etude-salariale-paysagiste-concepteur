@@ -2,7 +2,7 @@
 classes: wide
 title:  "Résultats 2019"
 ---
-**Depuis le 1er Novembre 2019**, vous avez été **430** à répondre l'enquête, c'est 50% de plus que l'année dernière !
+**Depuis le 1er Novembre 2019**, vous avez été **430** à répondre à l'enquête, c'est 50% de plus que l'année dernière !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2019-paysagiste-concepteur-1571493030).
 Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2019___paysagiste_concepteur.csv).
 # Description des réponses
@@ -81,8 +81,6 @@ mais les hommes dans cette situation sont globalement plus satisfaits de leur em
 En 2020, les jeunes salarié.e.s sorti.e.s depuis 0 à 3 ans de formation initiale perçoivent un salaire net moyen mensuel (tous temps de travail confondus) 
 de 1700 euros, contre 2500 euros pour les salarié.e.s qui ont terminé leurs études depuis plus de 11 ans.
 
-Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et des entreprises de réalisation.
-
 Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/metadonnees/definition/c1729)) est de **2048 euros**.
 
 | Salaire équivalent temps plein | Ensemble |       |       |          |               |
@@ -98,6 +96,10 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et des hommes, soit 15,7% de différence**.
 
 On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France, soit 10,9% de différence**.
+
+A rémunération égale, les personnes travaillant en île de France ainsi que les femmes sont moins satisfaites de leur rémunération que les autres. Les parisiens payés entre 3000 et 3500euros sont beaucoup moins satisfaits que la moyenne.
+
+Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et les entreprises de réalisation.
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
