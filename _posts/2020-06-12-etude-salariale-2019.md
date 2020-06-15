@@ -51,8 +51,8 @@ Les structures les plus représentées sont les agences de conception de 2 à 5 
 
 ![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
 
-### Type de postes
-Les chargé.e.s d'étude et les chef.fe de project sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
+### Types de postes
+Les chargé.e.s d'étude et les chef.fe.s de project sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
 
 ![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/réponses-type-poste-sans-freelances.png)
 
