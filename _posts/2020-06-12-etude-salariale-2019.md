@@ -51,6 +51,11 @@ Les structures les plus représentées sont les agences de conception de 2 à 5 
 
 ![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
 
+### Type de postes
+Les chargé.e.s d'étude et les chef.fe de project sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
+
+![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/réponses-type-poste-sans-freelances.png)
+
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
 
@@ -97,9 +102,11 @@ On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et
 
 On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France, soit 10,9% de différence**.
 
-A rémunération égale, les personnes travaillant en île de France ainsi que les femmes sont moins satisfaites de leur rémunération que les autres. Les parisien.ne.s payé.e.s entre 3000 et 3500euros sont beaucoup moins satisfait.e.s que la moyenne.
+A rémunération égale, les personnes travaillant en île de France ainsi que les femmes sont moins satisfaites de leur rémunération que les autres. 
+Les parisien.ne.s payé.e.s entre 3000 et 3500euros sont beaucoup moins satisfait.e.s que la moyenne.
 
-Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et les entreprises de réalisation.
+Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. 
+Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et les entreprises de réalisation.
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
@@ -122,6 +129,18 @@ On peut observer une nette différence entre les rémunérations des 20% les mie
 **Ainsi, 20% des hommes ont un salaire équivalent temps plein supérieur à 2620€ contre 2317€ pour les femmes.**
 
 Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante pour nous resituer dans le contexte national.
+
+## Expérience en fonction du type de poste
+Les postes occupés par les personnes avec le plus d'années d'expérience sont les directreur.trice.s de société, les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s.
+
+![Expérience en fonction du type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-années-expérience-fonction-type-poste.png)
+
+## Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste
+Les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s ont les salaires médian équivalent temps plein les plus élevés.
+
+Lecture: pour chaque type de poste, la boite contient 50% des réponses. La ligne symbolise la médiane.
+
+![Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/salaire-type-de-poste-moustaches.png)
 
 ## Satisfaction au travail en fonction du type de contrat
 La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satisfait**.
