@@ -10,7 +10,7 @@ Parmi les 430 réponses, 20 n'ont pas été exploitées.
 
 ### Sexe
 Parmi les 410 réponses, la parité est respectée avec 53% de femmes. 
-Il serait intéressant de comparer cette proportion avec la parité au sein des paysagistes détenteurs du titre concepteur.
+Il serait intéressant de comparer cette proportion avec la parité au sein des paysagistes détenteurs du titre de concepteur.
 
 ### Répartition géographique
 Concernant la répartition géographique, 31% des réponses portent sur l'île de france et donc 69% sur le reste de la France (Métropole et Dom-Tom).
@@ -18,20 +18,20 @@ Concernant la répartition géographique, 31% des réponses portent sur l'île d
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
 Concernant le nombre d'années d'expérience, la moyenne est de 8,3 années, avec une médiane à 5 années.
-Concernant le nombre d'années depuis la fin de la formation initiale, la moyenne est à 9 années, avec une médiane à 7 années.
+Concernant le nombre d'années depuis la fin de la formation initiale (incluant par exemple, une année de chômage), la moyenne est à 9 années, avec une médiane à 7 années.
 Pour la suite de l'analyse, nous avons décidé de découper la population en 4 catégories en fonction de la date de sortie de formation initiale.
 
-|   |                                                    | Ensemble | |  |
+|   |                                                    | | |  |
 |---|----------------------------------------------------|---------------|-------|-------|
-|   |                                                    |               | dont Femme |  dont Province | 
+|   |                                                    | Ensemble               | dont Femme |  dont Province | 
 |   | Sortie depuis 0 à 3 ans de formation initiale      | 29%           | 53%    |  65%    | 
 |   | Sortie depuis 4 à 6 ans de formation initiale      | 20%           | 51%    | 62%    | 
 |   | Sortie depuis 7 à 10 ans de formation initiale     | 19%           | 56%    |  76%    | 
 |   | Sortie depuis 11 ans ou plus de formation initiale | 31%           | 44%    |  71%    | 
 
 ### Types de contrats
-On peut observer que les femmes ont, en moyenne, des contrats plus précaires (C.D.D, Auto-entrepreneur) que les hommes.
-Et les hommes sont plus représentés dans les statuts de dirigeants.
+On peut observer que les femmes ont, en moyenne, des contrats plus précaires (C.D.D, Auto-entrepreneuses) que les hommes.
+Et les hommes sont plus représentés dans les statuts de dirigeant.e.s.
 
 | Statut                                  |  Ensemble  |  Sexe     | Sexe        |
 |-----------------------------------------|---------|    -------|--------|
@@ -45,9 +45,9 @@ Et les hommes sont plus représentés dans les statuts de dirigeants.
 | Contractuel.le dans la fonction publique   |  1,98%  |    1,86%  | 2,11%  |
 
 ### Type et taille des structures
-Une part importante des répondant.e.s est dans une agence de conception, cela réprésente 41% des réponses.
-Les structures de 2 à 5 personnes représentent 25% des réponses, se suivent ensuite les structues de 11 à 50 et de 51 et plus avec environ 20% des réponses chacunes.
-Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, et les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
+Une part importante des répondant.e.s travaille en agence de conception, à hauteur de 41% des réponses.
+Les structures de 2 à 5 personnes représentent 25% des réponses. Ensuite, les structures de 11 à 50 personnes et celles de 51 et+ représentent chacune environ 20% des réponses.
+Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, puis les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
 
 ![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
 
@@ -58,7 +58,7 @@ L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les r�
 
 # Analyse des réponses
 ## Temps partiel et satisfaction au travail
-On peut observer que les personnes à temps partiel sont plus satisfaites de leur emploi et de leur temps de travail.
+Au global, on peut observer que les personnes à temps partiel sont plus satisfaites de leur emploi et de leur temps de travail.
 Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail, 
 mais les hommes dans cette situation sont globalement plus satisfaits de leur emploi que les femmes.
 
@@ -93,9 +93,9 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 | **Ensemble**                                            | **2048€**     | **1883€**  | **2235€**  | **1969€**     | **2211€**          |
 
 
-On observe un écart de **352€ soit 15,7% entre la moyenne des salaire EQTP des femmes et des hommes**.
+On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et des hommes, soit 15,7% de différence**.
 
-On observe un écart de **242€ soit 10,9% entre la moyenne des salaires EQTP en Province et en Île-de-France**.
+On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France, soit 10,9% de différence**.
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
@@ -117,7 +117,7 @@ Lecture: en 2020, 10 % des répondant.e.s en équivalent temps plein perçoivent
 On peut observer une différence nette entre les rémunérations des 20% les mieux rémunérés chez les hommes et les femmes.
 **Ainsi, 20% des hommes ont un salaire équivalent temps plein supérieur à 2620€ contre 2317€ pour les femmes.**
 
-Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante.
+Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante pour nous resituer dans le contexte national.
 
 ## Satisfaction au travail en fonction du type de contrat
 La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satisfait**.
@@ -133,7 +133,7 @@ La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satis
 | **C.D.I**                                 |       | 3,46                         | 2,69                              | 3,32                                  | 222        |
 |                                       | Femme | 3,45                         | 2,71                              | 3,33                                  | 123        |
 |                                       | Homme | 3,48                         | 2,68                              | 3,31                                  | 99         |
-| **Contractuel dans la fonction publique** |       | 3,88                         | 2,75                              | 4,00                                  | 8          |
+| **Contractuel.le dans la fonction publique** |       | 3,88                         | 2,75                              | 4,00                                  | 8          |
 |                                       | Femme | 4,00                         | 2,50                              | 3,75                                  | 4          |
 |                                       | Homme | 3,75                         | 3,00                              | 4,25                                  | 4          |
 | **Dirigeant.e d'entreprise salarié**        |       | 3,94                         | 2,81                              | 3,38                                  | 16         |
