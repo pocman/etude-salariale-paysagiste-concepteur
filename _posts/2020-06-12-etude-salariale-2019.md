@@ -10,7 +10,7 @@ Parmi les 430 réponses, 20 n'ont pas été exploitées.
 
 ### Sexe
 Parmi les 410 réponses, la parité est respectée avec 53% de femmes. 
-Il serait intéressant de comparer cette proportion avec la parité au sein de la communauté ayant le titre de paysagsite concepteur.trice.
+Il serait intéressant de comparer cette proportion avec la parité au sein de la communauté ayant le titre de paysagiste concepteur.trice.
 
 ### Répartition géographique
 Concernant la répartition géographique, 31% des réponses portent sur l'île de france et donc 69% sur le reste de la France (Métropole et Dom-Tom).
