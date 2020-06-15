@@ -44,8 +44,16 @@ Et les hommes sont plus représentés dans les statuts de dirigeants.
 | Fonctionnaire                           |  3,21%  |    1,86%  | 4,74%  |
 | Contractuel.le dans la fonction publique   |  1,98%  |    1,86%  | 2,11%  |
 
+### Type et taille des structures
+Une part importante des répondant.e.s est dans une agence de conception, cela réprésente 41% des réponses.
+Les structures de 2 à 5 personnes représentent 25% des réponses, se suivent ensuite les structues de 11 à 50 et de 51 et plus avec environ 20% des réponses chacunes.
+Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, et les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
+
+![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
+
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
+
 ![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/Pourcentage-réponses-école-diplômante.png)
 
 # Analyse des réponses
@@ -84,22 +92,28 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 | Sortie depuis 11 ans ou plus de formation initiale  | 2484€     | 2072€  | 2830€  | 2412€     | 2616€          |
 | **Ensemble**                                            | **2048€**     | **1883€**  | **2235€**  | **1969€**     | **2211€**          |
 
+On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et des hommes**.
+On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France**.
+
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
-Lecture : en 2020, 10 % des répondant.e.s en équivalent temps plein perçoivent un salaire mensuel net inférieur à 1300 euros et 
+Lecture: en 2020, 10 % des répondant.e.s en équivalent temps plein perçoivent un salaire mensuel net inférieur à 1300 euros et 
 80 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 2500 euros.
 
-| Déciles      | Ensemble | Femme    | Homme    |
-|--------------|----------|----------|----------|
-| D1           | 1300€    | 1179€    | 1405€    |
-| D2           | 1550€    | 1500€    | 1598€    |
-| D3           | 1700€    | 1639€    | 1719€    |
-| D4           | 1800€    | 1758€    | 1812€    |
-| **Médiane (D5)** | **1954€**    | **1900€**    | **2000€**    |
-| D6           | 2100€    | 2025€    | 2150€    |
-| D7           | 2246€    | 2109€    | 2296€    |
-| D8           | 2500€    | 2317€    | 2620€    |
-| D9           | 2901€    | 2596€    | 3230€    |
+| Déciles        | Ensemble | Femme    | Homme    |
+|----------------|----------|----------|----------|
+| D10%           | 1300€    | 1179€    | 1405€    |
+| D20%           | 1550€    | 1500€    | 1598€    |
+| D30%           | 1700€    | 1639€    | 1719€    |
+| D40%           | 1800€    | 1758€    | 1812€    |
+| **Médiane (D50%)** | **1954€**    | **1900€**    | **2000€**    |
+| D60%           | 2100€    | 2025€    | 2150€    |
+| D70%           | 2246€    | 2109€    | 2296€    |
+| D80%           | 2500€    | 2317€    | 2620€    |
+| D90%           | 2901€    | 2596€    | 3230€    |
+
+On peut observer une différence nette entre les rémunérations des 20% les mieux rémunérés chez les hommes et les femmes.
+**Ainsi, 20% des hommes ont un salaire équivalent temps plein supérieur à 2620€ contre 2317€ pour les femmes.**
 
 Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante.
 
