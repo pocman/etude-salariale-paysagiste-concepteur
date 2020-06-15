@@ -49,7 +49,7 @@ Une part importante des répondant.e.s est dans une agence de conception, cela r
 Les structures de 2 à 5 personnes représentent 25% des réponses, se suivent ensuite les structues de 11 à 50 et de 51 et plus avec environ 20% des réponses chacunes.
 Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, et les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
 
-![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
+![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
 
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
@@ -92,8 +92,10 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 | Sortie depuis 11 ans ou plus de formation initiale  | 2484€     | 2072€  | 2830€  | 2412€     | 2616€          |
 | **Ensemble**                                            | **2048€**     | **1883€**  | **2235€**  | **1969€**     | **2211€**          |
 
-On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et des hommes**.
-On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France**.
+
+On observe un écart de **352€ soit 15,7% entre la moyenne des salaire EQTP des femmes et des hommes**.
+
+On observe un écart de **242€ soit 10,9% entre la moyenne des salaires EQTP en Province et en Île-de-France**.
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020
 
