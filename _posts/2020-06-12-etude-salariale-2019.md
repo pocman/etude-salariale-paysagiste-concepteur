@@ -97,7 +97,7 @@ On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et
 
 On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France, soit 10,9% de différence**.
 
-A rémunération égale, les personnes travaillant en île de France ainsi que les femmes sont moins satisfaites de leur rémunération que les autres. Les parisiens payés entre 3000 et 3500euros sont beaucoup moins satisfaits que la moyenne.
+A rémunération égale, les personnes travaillant en île de France ainsi que les femmes sont moins satisfaites de leur rémunération que les autres. Les parisien.ne.s payé.e.s entre 3000 et 3500euros sont beaucoup moins satisfait.e.s que la moyenne.
 
 Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et les entreprises de réalisation.
 
