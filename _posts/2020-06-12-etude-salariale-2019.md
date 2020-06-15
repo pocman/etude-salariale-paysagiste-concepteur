@@ -10,7 +10,7 @@ Parmi les 430 réponses, 20 n'ont pas été exploitées.
 
 ### Sexe
 Parmi les 410 réponses, la parité est respectée avec 53% de femmes. 
-Il serait intéressant de comparer cette proportion avec la parité au sein des paysagistes détenteurs du titre de concepteur.
+Il serait intéressant de comparer cette proportion avec la parité au sein des paysagistes ayant le titre de concepteur.trice.s.
 
 ### Répartition géographique
 Concernant la répartition géographique, 31% des réponses portent sur l'île de france et donc 69% sur le reste de la France (Métropole et Dom-Tom).
@@ -82,8 +82,6 @@ En 2020, les jeunes salarié.e.s sorti.e.s depuis 0 à 3 ans de formation initia
 de 1700 euros, contre 2500 euros pour les salarié.e.s qui ont terminé leurs études depuis plus de 11 ans.
 
 Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et des entreprises de réalisation.
-
-Il n'y a pas de lien direct entre la rémunération et la satisfaction de la rémunération. Les personnes les mieux payées ne sont pas forcément celles les plus satisfaites de leur salaire.
 
 Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/metadonnees/definition/c1729)) est de **2048 euros**.
 
