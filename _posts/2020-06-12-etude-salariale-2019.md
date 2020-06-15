@@ -81,6 +81,10 @@ mais les hommes dans cette situation sont globalement plus satisfaits de leur em
 En 2020, les jeunes salarié.e.s sorti.e.s depuis 0 à 3 ans de formation initiale perçoivent un salaire net moyen mensuel (tous temps de travail confondus) 
 de 1700 euros, contre 2500 euros pour les salarié.e.s qui ont terminé leurs études depuis plus de 11 ans.
 
+Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et des entreprises de réalisation.
+
+Il n'y a pas de lien direct entre la rémunération et la satisfaction de la rémunération. Les personnes les mieux payées ne sont pas forcément celles les plus satisfaites de leur salaire.
+
 Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/metadonnees/definition/c1729)) est de **2048 euros**.
 
 | Salaire équivalent temps plein | Ensemble |       |       |          |               |
@@ -114,7 +118,7 @@ Lecture: en 2020, 10 % des répondant.e.s en équivalent temps plein perçoivent
 | D80%           | 2500€    | 2317€    | 2620€    |
 | D90%           | 2901€    | 2596€    | 3230€    |
 
-On peut observer une différence nette entre les rémunérations des 20% les mieux rémunérés chez les hommes et les femmes.
+On peut observer une nette différence entre les rémunérations des 20% les mieux rémunérés (hommes et femmes).
 **Ainsi, 20% des hommes ont un salaire équivalent temps plein supérieur à 2620€ contre 2317€ pour les femmes.**
 
 Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante pour nous resituer dans le contexte national.
