@@ -50,7 +50,7 @@ Les structures de 2 à 5 personnes représentent 25% des réponses. Ensuite, les
 Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, puis les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
  
 ![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
-*Les couleurs représentent les tailles de structures: 1 personnes, 2 à 5, 6 à 10, 51+. La première bar correspond aux agences de conception de 2 à 5 personnes.*
+*Les couleurs représentent les tailles de structures: 1 personnes, 2 à 5, 6 à 10, 51+. La première barre correspond aux agences de conception de 2 à 5 personnes.*
 
 ### Types de postes
 Les chargé.e.s d'étude et les chef.fe.s de projet sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
