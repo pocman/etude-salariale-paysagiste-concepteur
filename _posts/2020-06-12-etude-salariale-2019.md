@@ -53,7 +53,7 @@ Les structures les plus représentées sont les agences de conception de 2 à 5 
 *Les couleurs représentent les tailles de structures: 1 personnes, 2 à 5, 6 à 10, 51+. La première bar correspond aux agences de conception de 2 à 5 personnes.*
 
 ### Types de postes
-Les chargé.e.s d'étude et les chef.fe.s de project sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
+Les chargé.e.s d'étude et les chef.fe.s de projet sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
 ![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/réponses-type-poste-sans-freelances.png)
 
 Voici le nombre de réponses par type de poste et par sexe. 
