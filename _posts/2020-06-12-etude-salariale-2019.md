@@ -160,25 +160,25 @@ La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satis
 
 | Statut                                | Sexe  | Moyenne satisfaction au travail | Moyenne satisfaction rémunération | Moyenne satisfaction temps de travail | # réponses |
 |---------------------------------------|-------|------------------------------|-----------------------------------|---------------------------------------|------------|
-| **Auto-entrepreneur.se**                     |       | 3,45                         | 1,76                              | 2,66                                  | 29         |
+| **Auto-entrepreneur.se**                     |       | **3,45**                         | **1,76**                           | **2,66**                                | **29**      |
 |                                       | Femme | 3,26                         | 1,84                              | 2,47                                  | 19         |
 |                                       | Homme | 3,80                         | 1,60                              | 3,00                                  | 10         |
-| **C.D.D**                                 |       | 3,37                         | 2,72                              | 3,28                                  | 67         |
+| **C.D.D**                                 |       | **3,37**                      | **2,72**                              | **3,28**                                  | **67**         |
 |                                       | Femme | 3,38                         | 2,64                              | 3,24                                  | 42         |
 |                                       | Homme | 3,36                         | 2,84                              | 3,36                                  | 25         |
-| **C.D.I**                                 |       | 3,46                         | 2,69                              | 3,32                                  | 222        |
+| **C.D.I**                                 |       | **3,46**                         | **2,69**                              | **3,32**                                  | **222**        |
 |                                       | Femme | 3,45                         | 2,71                              | 3,33                                  | 123        |
 |                                       | Homme | 3,48                         | 2,68                              | 3,31                                  | 99         |
-| **Contractuel.le dans la fonction publique** |       | 3,88                         | 2,75                              | 4,00                                  | 8          |
+| **Contractuel.le dans la fonction publique** |       | **3,88**                       | **2,75**                              | 4,00                                  | **8**          |
 |                                       | Femme | 4,00                         | 2,50                              | 3,75                                  | 4          |
 |                                       | Homme | 3,75                         | 3,00                              | 4,25                                  | 4          |
-| **Dirigeant.e d'entreprise salarié**        |       | 3,94                         | 2,81                              | 3,38                                  | 16         |
+| **Dirigeant.e d'entreprise salarié**        |       | **3,94**                      | **2,81**                              | **3,38**                                  | **16**         |
 |                                       | Femme | 4,20                         | 3,40                              | 4,20                                  | 5          |
 |                                       | Homme | 3,82                         | 2,55                              | 3,00                                  | 11         |
-| **Dirigeant.e de SARL**                     |       | 4,14                         | 2,64                              | 3,00                                  | 50         |
+| **Dirigeant.e de SARL**                     |       | **4,14**                       | **2,64**                              | **3,00**                                  | **50**         |
 |                                       | Femme | 3,83                         | 1,56                              | 3,06                                  | 18         |
 |                                       | Homme | 4,31                         | 3,25                              | 2,97                                  | 32         |
-| **Fonctionnaire**                         |       | 3,62                         | 3,15                              | 3,92                                  | 13         |
+| **Fonctionnaire**                         |       | **3,62**                     | **3,15**                              | **3,92**                                  | **13**         |
 |                                       | Femme | 4,00                         | 3,75                              | 4,00                                  | 4          |
 |                                       | Homme | 3,44                         | 2,89                              | 3,89                                  | 9          |
 | **Total**                                 |       | **3,56**                         | **2,64**                              | **3,26**                                  | **405**        |
