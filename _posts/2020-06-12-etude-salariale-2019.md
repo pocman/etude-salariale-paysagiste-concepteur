@@ -105,7 +105,7 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 | **Ensemble**                                            | **2048€**     | **1883€**  | **2235€**  | **1969€**     | **2211€**          |
 
 
-On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et des hommes, soit 15,7% de différence**.
+On observe un écart de **352€ entre la moyenne des salaires EQTP des femmes et des hommes, soit 15,7% de différence**.
 
 On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France, soit 10,9% de différence**.
 
