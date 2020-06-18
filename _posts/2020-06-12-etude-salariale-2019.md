@@ -46,15 +46,19 @@ Et les hommes sont plus représentés dans les statuts de dirigeant.e.s.
 
 ### Type et taille des structures
 Une part importante des répondant.e.s travaille en agence de conception, à hauteur de 41% des réponses.
-Les structures de 2 à 5 personnes représentent 25% des réponses. Ensuite, les structures de 11 à 50 personnes et celles de 51 et+ représentent chacune environ 20% des réponses.
+Les structures de 2 à 5 personnes représentent 25% des réponses. Ensuite, les structures de 11 à 50 personnes et celles de 51 et + représentent chacune environ 20% des réponses.
 Les structures les plus représentées sont les agences de conception de 2 à 5 personnes avec 16,5% des réponses, puis les agences de conception de 6 à 10 personnes avec 10,5% des réponses.
-
+ 
 ![Nombre de réponses en fonction du type et de la taille des structures](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-taille-structures.png)
+*Les couleurs représentent les tailles de structures: 1 personnes, 2 à 5, 6 à 10, 51+. La première bar correspond aux agences de conception de 2 à 5 personnes.*
 
 ### Types de postes
 Les chargé.e.s d'étude et les chef.fe.s de project sont les plus représentés avec respectivement 19,4% et 15,1% des réponses.
-
 ![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/réponses-type-poste-sans-freelances.png)
+
+Voici le nombre de réponses par type de poste et par sexe. 
+Dans ce graphique, les types de postes sont aggrégés de manière à regrouper les réponses sans prendre en compte l'expérience.
+![](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-poste-aggrégé-sexe.png)
 
 ### Ecole diplômante
 L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
@@ -63,9 +67,8 @@ L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les r�
 
 # Analyse des réponses
 ## Temps partiel et satisfaction au travail
-Au global, on peut observer que les personnes à temps partiel sont plus satisfaites de leur emploi et de leur temps de travail.
-Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail, 
-mais les hommes dans cette situation sont globalement plus satisfaits de leur emploi que les femmes.
+Est considérée en temps partiel toute personne travaillant moins de 34 heures hebdomadaires effectives.
+Est considérée en temps trop plein toute personne travaillant plus de 40 heures hebdomadaires effectives.
 
 |                  | Sexe  | Moyenne Satisfaction globale | Moyenne Satisfaction temps de travail | % de réponses |
 |------------------|-------|------------------------------|---------------------------------------|---------------|
@@ -79,6 +82,10 @@ mais les hommes dans cette situation sont globalement plus satisfaits de leur em
 |                  | Femme | 3,25                         | 2,08                                  | 9,88%         |
 |                  | Homme | 3,79                         | 2,62                                  | 14,32%        |
 | **Ensemble**         |       | **3,56/5**                         | **3,26/5**                                  |        |
+
+Au global, on peut observer que les personnes à temps partiel sont plus satisfaites de leur emploi et de leur temps de travail.
+Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail, 
+mais les hommes dans cette situation sont globalement plus satisfaits de leur emploi que les femmes.
 
 ![Moyenne de la satisfaction du temps de trvail en fonction du temps de travail](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-satisfaction-temps-travail-fonction-temps-travail.png)
 
@@ -101,9 +108,6 @@ Le salaire moyen en équivalent temps plein ([EQTP](https://www.insee.fr/fr/meta
 On observe un écart de **352€ entre la moyenne des salaire EQTP des femmes et des hommes, soit 15,7% de différence**.
 
 On observe un écart de **242€ entre la moyenne des salaires EQTP en Province et en Île-de-France, soit 10,9% de différence**.
-
-A rémunération égale, les personnes travaillant en île de France ainsi que les femmes sont moins satisfaites de leur rémunération que les autres. 
-Les parisien.ne.s payé.e.s entre 3000 et 3500euros sont beaucoup moins satisfait.e.s que la moyenne.
 
 Les structures de 11 à 50 personnes rémunèrent plus que les autres types de structures, en prenant en compte les années d'expérience. 
 Mais, à nombre d'années d'expériences égales, les bureaux d'études rémunèrent mieux que les agences de conception, la fonction publique et les entreprises de réalisation.
@@ -138,9 +142,18 @@ Les postes occupés par les personnes avec le plus d'années d'expérience sont 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste
 Les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s ont les salaires médian équivalent temps plein les plus élevés.
 
-Lecture: pour chaque type de poste, la boite contient 50% des réponses. La ligne symbolise la médiane.
+Lecture: pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
+La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
 
 ![Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/salaire-type-de-poste-moustaches.png)
+
+## Distribution des salaires équivalent temps plein mensuels nets en 2020 par expérience
+
+Lecture: pour chaque niveau d'expérience, la boite (le rectangle) contient 50% des réponses. 
+La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
+
+![Distribution des salaires équivalent temps plein mensuels nets en 2020 par expérience](/etude-salariale-paysagiste-concepteur/assets/images/2019/salaire-experience-moustaches.png)
+
 
 ## Satisfaction au travail en fonction du type de contrat
 La satisfaction est notée de **0 - Pas du tout satisfait** à **5 - Très satisfait**.
