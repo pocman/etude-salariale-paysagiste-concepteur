@@ -15,6 +15,11 @@ Il serait intéressant de comparer cette proportion avec la parité au sein de l
 ### Répartition géographique
 Concernant la répartition géographique, 31% des réponses portent sur l'île de france et donc 69% sur le reste de la France (Métropole et Dom-Tom).
 
+### Ecole diplômante
+L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
+
+![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/Pourcentage-réponses-école-diplômante.png)
+
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
 Concernant le nombre d'années d'expérience, la moyenne est de 8,3 années, avec une médiane à 5 années.
@@ -59,11 +64,6 @@ Les chargé.e.s d'étude et les chef.fe.s de projet sont les plus représentés 
 Voici le nombre de réponses par type de poste et par sexe. 
 Dans ce graphique, les types de postes sont aggrégés de manière à regrouper les réponses sans prendre en compte l'expérience.
 ![](/etude-salariale-paysagiste-concepteur/assets/images/2019/Nombre-réponses-type-poste-aggrégé-sexe.png)
-
-### Ecole diplômante
-L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses.
-
-![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2019/Pourcentage-réponses-école-diplômante.png)
 
 # Analyse des réponses
 ## Temps partiel et satisfaction au travail
