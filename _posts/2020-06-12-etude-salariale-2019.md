@@ -140,7 +140,7 @@ Les postes occupés par les personnes avec le plus d'années d'expérience sont 
 ![Expérience en fonction du type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-années-expérience-fonction-type-poste.png)
 
 ## Distribution des salaires équivalent temps plein mensuels nets en 2020 par type de poste
-Les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s ont les salaires médian équivalent temps plein les plus élevés.
+Les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s ont les salaires médians équivalent temps plein les plus élevés.
 
 Lecture: pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
 La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
