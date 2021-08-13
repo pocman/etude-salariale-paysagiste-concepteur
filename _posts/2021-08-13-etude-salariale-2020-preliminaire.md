@@ -25,7 +25,10 @@ L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les r�
 
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
+
 Concernant le nombre d'années d'expérience, la moyenne est de 9,6 années, avec une médiane à 8 années (contre 8,3 et 5 l'année passée). Cela signifie que nous avons touché des personnes plus expérimentés que l'année passée ce qui était justement l'objectif de cette campagne !
+
+
 Concernant le nombre d'années depuis la fin de la formation initiale (incluant par exemple, une année de chômage), la moyenne est à 10 années, avec une médiane à 8 années.
 Pour la suite de l'analyse, nous avons décidé de découper la population en 4 catégories en fonction de la date de sortie de formation initiale.
 
@@ -44,11 +47,14 @@ Environ 25% des répondant.e.s sont sous la convention Syntec, 24% sous la Conve
 
 # Analyse des réponses
 ## Télétravail
-Une écrasante majorité des répondant.e.s sont favorables au télétravail (12% à temps complet et 72% si flexible). Les femmes sont globalement plus favorables au télétravail que les hommes (90,3% contre 78,7%).
+Une écrasante majorité des répondant.e.s sont favorables au télétravail (12% à temps complet et 72% si flexible). 
+
+Les femmes sont globalement plus favorables au télétravail que les hommes (90,3% contre 78,7%).
 
 
 ## Temps partiel et satisfaction au travail
 Est considérée en temps partiel toute personne travaillant moins de 34 heures hebdomadaires effectives.
+
 Est considérée en temps trop plein toute personne travaillant plus de 40 heures hebdomadaires effectives.
 
 | Temps de travail | Sexe | Satisfaction charge horaire | Satisfaction rémunération | Satisfaction générale | % de réponses |
