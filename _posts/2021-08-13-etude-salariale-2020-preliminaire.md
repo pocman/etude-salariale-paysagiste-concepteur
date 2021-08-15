@@ -1,6 +1,6 @@
 ---
 classes: wide
-title:  "Résultats 2020"
+title:  "Résultats préliminaires 2020"
 ---
 **Depuis le 22 Novembre 2020**, vous avez été **231** à répondre à l'enquête !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2020-paysagiste-concepteur-1605773216).
@@ -8,13 +8,13 @@ Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etud
 # Description des réponses
 ### Sexe
 Parmi les 231 réponses, la parité est respectée avec légèrement plus de femmes. 
-Il serait intéressant de comparer cette proportion avec la parité au sein de la communauté ayant le titre de paysagiste concepteur.trice.
+Il serait intéressant de comparer cette proportion avec la parité au sein de la communauté ayant le titre de paysagiste concepteur.rice.
 
 ### Répartition géographique
-Concernant la répartition géographique, 26% des réponses portent sur l'île de france (dont 9,5% pour Paris), 12% pour les Pays de la Loire, 11% pour Auvergne-Rhône-Alpes.
+Concernant la répartition géographique, 26% des réponses portent sur l'île de france (dont 9,5% pour Paris), 12% pour les Pays de la Loire, 11% pour la région Auvergne-Rhône-Alpes.
 
 ### Ecole diplômante
-L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses avec respectivement 23% et 16% des réponses, suivies par ENSAPL et ENSAPBX.
+L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les réponses avec respectivement 23% et 16% des réponses, suivies par l'ENSAPL et l'ENSAPBX.
 
 ![Pourcentage de réponses en fonction de l'école diplômante](/etude-salariale-paysagiste-concepteur/assets/images/2020/count_ecole.png)
 
@@ -24,7 +24,7 @@ L'ENSP Versaille et L'Agrocampus Ouest sont les plus réprésentées dans les r�
 ### Expérience des répondant.e.s
 Nous avons posé deux questions relatives à l'expérience des répondant.e.s.
 
-Concernant le nombre d'années d'expérience, la moyenne est de 9,6 années, avec une médiane à 8 années (contre 8,3 et 5 l'année passée). Cela signifie que nous avons touché des personnes plus expérimentés que l'année passée ce qui était justement l'objectif de cette campagne !
+Concernant le nombre d'années d'expérience, la moyenne est de 9,6 années, avec une médiane à 8 années (contre 8,3 et 5 l'année passée). Cela signifie que nous avons touché des personnes plus expérimentées que l'année passée ce qui était justement l'objectif de cette campagne !
 
 
 Concernant le nombre d'années depuis la fin de la formation initiale (incluant par exemple, une année de chômage), la moyenne est à 10 années, avec une médiane à 8 années.
@@ -45,7 +45,7 @@ Environ 25% des répondant.e.s sont sous la convention Syntec, 24% sous la Conve
 
 # Analyse des réponses
 ## Télétravail
-Une écrasante majorité des répondant.e.s sont favorables au télétravail (12.9% à temps complet et 71.9% si flexible). 
+Une écrasante majorité des répondant.e.s est favorable au télétravail (12.9% à temps complet et 71.9% si flexible). 
 
 ![Pourcentage de réponses par catégorie d'avis par rapport au télétravail](/etude-salariale-paysagiste-concepteur/assets/images/2020/remote.png)
 
@@ -71,5 +71,23 @@ Est considérée en temps trop plein toute personne travaillant plus de 40 heure
 | **Ensemble** |  | **3,41/5** | **2,77/5** | **3,76/5** | 100,00% |
 
 Au global, on peut observer que les personnes à temps partiel sont plus satisfaites de leur temps de travail.
-Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail et de leur rémunération. Concernant la rémunération, les femmes sont généralements moins satisfaites de leur rémunération que les hommes.
+Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail et de leur rémunération. Concernant la rémunération, les femmes sont généralement moins satisfaites de leur rémunération que les hommes.
 
+## Distribution des salaires en 2020
+
+La moyenne des rémunérations est de 2352€.
+Lecture: en 2020, 10 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 1383 euros et 80 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 2944 euros.
+
+| Déciles | Ensemble |
+|---|---|
+| 10% | 1383€ |
+| 20% | 1697€ |
+| 30% | 1802€ |
+| 40% | 1946€ |
+| Médiane (50%) | 2089€ |
+| 60% | 2333€ |
+| 70% | 2583€ |
+| 80% | 2944€ |
+| 90% | 3750€ |
+
+Les valeurs des déciles sont un peu plus élévées que l'année dernière. Cela semble attendu puisque la population sondée n'est pas la même (le nombre d'années d'expérience est plus important que l'année précédente).
