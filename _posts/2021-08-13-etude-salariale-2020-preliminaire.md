@@ -6,8 +6,6 @@ title:  "Résultats 2020"
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2020-paysagiste-concepteur-1605773216).
 Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2020___paysagiste_concepteur.tsv).
 # Description des réponses
-Parmi les 231 réponses, X n'ont pas été exploitées.
-
 ### Sexe
 Parmi les 231 réponses, la parité est respectée avec légèrement plus de femmes. 
 Il serait intéressant de comparer cette proportion avec la parité au sein de la communauté ayant le titre de paysagiste concepteur.trice.
@@ -47,7 +45,9 @@ Environ 25% des répondant.e.s sont sous la convention Syntec, 24% sous la Conve
 
 # Analyse des réponses
 ## Télétravail
-Une écrasante majorité des répondant.e.s sont favorables au télétravail (12% à temps complet et 72% si flexible). 
+Une écrasante majorité des répondant.e.s sont favorables au télétravail (12.9% à temps complet et 71.9% si flexible). 
+
+![Pourcentage de réponses par catégorie d'avis par rapport au télétravail](/etude-salariale-paysagiste-concepteur/assets/images/2020/remote.png)
 
 Les femmes sont globalement plus favorables au télétravail que les hommes (90,3% contre 78,7%).
 
