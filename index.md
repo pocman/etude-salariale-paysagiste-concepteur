@@ -6,11 +6,12 @@ author_profile: true
 
 L'enquête 2020 est lancée. Si vous souhaitez participer à cette enquête, n'hésitez pas à compléter [ce formulaire](https://framaforms.org/etude-salaire-2020-paysagiste-concepteur-1605684778).
 
-# Résultats 2019
-Les résultats et analyses de l'enquête 2019 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2019/)**.
+# Résultats préliminaires 2020
+Les résultats préliminaires sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2020-preliminaire/)**. Malheureusement, nous avons eu moins de réponses cette année comparée aux précédentes enquêtes. Les résultats préliminaires nous permettrons sans doutes de toucher plus de personnes qui partageront leur expérience professionnelle, salariale. Alors n'hésitez pas à en parler autour de vous !
 
-# Résultats 2018
+# Résultats 2018 et 2019
 Les résultats et analyses de l'enquête 2018 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2018/)**.
+Les résultats et analyses de l'enquête 2019 sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2019/)**.
 
 # Une étude collaborative
 Vous êtes **élève en 4ème ou en terminale** et cherchez à vous orientez dans le domaine du paysage sans vraiment savoir à quoi cela correspond en terme de rémunération ? Vous êtes **étudiant en école supérieure de Paysage** et vous aimeriez avoir un aperçu des niveaux de rémuneration, à la sortie du cursus universitaire, dans le monde entrepreunarial ? Vous êtes **en recherche d'emploi** et souhaitez connaître la moyenne de rémunération pour savoir à quoi prétendre ? Vous êtes **promu-e** et allez bientôt négocier une rémunération corrélée au nouveau poste ? 
