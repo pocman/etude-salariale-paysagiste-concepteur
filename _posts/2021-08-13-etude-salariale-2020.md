@@ -74,10 +74,10 @@ Est considérée en temps trop plein toute personne travaillant plus de 40 heure
 Au global, on peut observer que les personnes à temps partiel sont plus satisfaites de leur temps de travail.
 Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail et de leur rémunération. Concernant la rémunération, les femmes sont généralement moins satisfaites de leur rémunération que les hommes.
 
-## Distribution des salaires en 2020
+## Distribution des salaires en 2021
 
 La moyenne des rémunérations est de 2337€.
-Lecture: en 2020, 10 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 1500 euros et 80 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 2909 euros.
+Lecture: en 2021, 10 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 1500 euros et 80 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 2909 euros.
 
 | Déciles | Ensemble |
 |---|---|
@@ -90,3 +90,25 @@ Lecture: en 2020, 10 % des répondant.e.s perçoivent un salaire mensuel net inf
 | 70% | 2500€ |
 | 80% | 2909€ |
 | 90% | 3573€ |
+
+## Moyenne des salaires net imposable mensualisé par années depuis sortie de formation initiale et sexe
+
+On peut voir que si les salaires en sortie d'école sont similaires avec une moyenne d'environ 1800€ net mensuel, 
+les écarts se creusent à mesure qu'augmente le nombre d'années depuis la sortie de formation.
+
+![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_sexe.png)
+
+## Distribution des salaires net imposable mensualisé en 2021 par type de poste
+
+Lecture: pour chaque niveau d'expérience, la boite (le rectangle) contient 50% des réponses. 
+La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
+
+![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_france.png)
+
+### Province
+
+![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/province.png)
+
+### Île-de-france
+
+![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/ile-de-france.png)
