@@ -108,10 +108,6 @@ author:
   bio              : "Paysagiste conceptrice DPLG"
   location         : "Nantes, France"
   email            : "olsjuliette@gmail.com"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Juliette0ls"
 
 # Site Footer
 #footer:

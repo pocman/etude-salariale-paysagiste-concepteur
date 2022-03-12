@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "🗳️ Questionnaire 2020"
-    url: https://framaforms.org/etude-salaire-2020-paysagiste-concepteur-1605684778
-  - title: "📊 Résultats préliminaires 2020"
-    url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2020-preliminaire/
+  - title: "📊 Résultats 2020"
+    url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2020/
   - title: "📊 Résultats 2019"
     url: https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2019/
   - title: "📊 Résultats 2018"
