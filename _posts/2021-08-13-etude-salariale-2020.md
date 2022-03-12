@@ -74,10 +74,11 @@ Est considérée en temps trop plein toute personne travaillant plus de 40 heure
 Au global, on peut observer que les personnes à temps partiel sont plus satisfaites de leur temps de travail.
 Les personnes travaillant plus de 40 heures hebdomadaires sont peu satisfaites de leur temps de travail et de leur rémunération. Concernant la rémunération, les femmes sont généralement moins satisfaites de leur rémunération que les hommes.
 
-## Distribution des salaires en 2021
+## Distribution des rémunérations nettes imposables mensualisées en 2021
 
-La moyenne des rémunérations est de 2337€.
-Lecture: en 2021, 10 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 1500 euros et 80 % des répondant.e.s perçoivent un salaire mensuel net inférieur à 2909 euros.
+La moyenne des rémunérations net imposables mensualisées est de 2337€.
+Lecture: en 2021, 10 % des répondant.e.s perçoivent une rémunération nette imposable mensualisée inférieure à 1500 euros 
+et 80 % des répondant.e.s perçoivent une rémunération inférieure à 2909 euros.
 
 | Déciles | Ensemble |
 |---|---|
@@ -91,24 +92,40 @@ Lecture: en 2021, 10 % des répondant.e.s perçoivent un salaire mensuel net inf
 | 80% | 2909€ |
 | 90% | 3573€ |
 
-## Moyenne des salaires net imposable mensualisé par années depuis sortie de formation initiale et sexe
+La rémunération nette imposable est-ce que vous avez déclaré en "revenu d'activité connue 1AJ" au service des impôts pour vos revenus 2020.
+Elle comprend deux types de revenu :
+* Revenu salarial annuel net imposable : somme de tous les salaires perçus par un individu au cours d'une année donnée, nets de toutes cotisations sociales, y compris contribution sociale généralisée (CSG) et contribution au remboursement de la dette sociale (CRDS).
+* Revenu d’activité annuel : rémunération issue de l’activité non salariée, déduction faite des cotisations sociales payées dans l’année mais pas des contributions sociales (CSG non déductible, CRDS). Il est calculé à partir du revenu professionnel imposable auquel sont réintégrés certains allègements fiscaux et cotisations sociales facultatives : chiffre d’affaires des micro-entrepreneurs après abattement pour frais professionnels, bénéfice net des entrepreneurs individuels classiques, rémunération des gérants majoritaires (incluant une partie des dividendes).
 
-On peut voir que si les salaires en sortie d'école sont similaires avec une moyenne d'environ 1800€ net mensuel, 
-les écarts se creusent à mesure qu'augmente le nombre d'années depuis la sortie de formation.
+## Moyenne des rémunérations nettes imposables mensualisées par années depuis sortie de formation initiale et sexe
+
+On peut voir que si les rémunérations en sortie d'école sont similaires avec une moyenne d'environ 1800€ net mensuel imposable, l'écart se creuse par la suite.
 
 ![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_sexe.png)
 
-## Distribution des salaires net imposable mensualisé en 2021 par type de poste
+## Distribution des rémunérations nettes imposables mensualisées en 2021 par type de poste
 
-Lecture: pour chaque niveau d'expérience, la boite (le rectangle) contient 50% des réponses. 
-La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
+Lecture d'une boîte à moustache :
+* pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
+* La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
+* Le haut de la boite correspond au 3ème quartile (25% des personnes ont une rémunération supérieure à cette valeur).
+* Le bas de la boite correspond au 1ème quartile (75% des personnes ont une rémunération supérieure à cette valeur).
+* Le minimum et maximum sont représentés par les extrémités des traits.
 
-![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_france.png)
+Pour en savoir plus sur les diagrammes en boîte à moustaches, [cliquez ici](https://fr.wikipedia.org/wiki/Bo%C3%AEte_%C3%A0_moustaches).
 
-### Province
+![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_france.png)
 
-![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/province.png)
+Example: 75% des chef(fe)s de projet débutants ont une rémunération inférieure à 2000€ net mensuel imposable.
 
-### Île-de-france
+### Province (180 répondant.e.s)
 
-![Moyenne des salaires par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/ile-de-france.png)
+![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/province.png)
+
+Example: 50% des chargé(e)s d'études confirmés ont une rémunération supérieure à 2000€ net mensuel imposable en province.
+
+### Île-de-france, Paris inclus (47 répondant.e.s)
+
+![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/ile-de-france.png)
+
+Example: 50% des répondants ont une rémunération supérieure à 2500€ net mensuel imposable en Île-de-france.
