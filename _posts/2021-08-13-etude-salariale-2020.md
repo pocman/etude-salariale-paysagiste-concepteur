@@ -38,6 +38,20 @@ Pour la suite de l'analyse, nous avons décidé de découper la population en 4 
 |   | Sortie depuis 7 à 10 ans de formation initiale     | 19%         | 
 |   | Sortie depuis 11 ans ou plus de formation initiale | 38%           |
 
+### Expérience en fonction du type de poste
+Les postes occupés par les personnes avec le plus d’années d’expérience sont les directeur.trice.s de société, les chef.fe.s de projet confirmé.e.s et les chargé.e.s d’étude confirmé.e.s.
+
+![Expérience en fonction du type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2020/xp_poste.png)
+
+Lecture d'une boîte à moustache :
+* pour chaque type de poste, la boite (le rectangle) contient 50% des réponses. 
+* La ligne qui divise la boite représente la médiane (50% des personnes ont une rémunération supérieure à cette valeur).
+* Le haut de la boite correspond au 3ème quartile (25% des personnes ont une rémunération supérieure à cette valeur).
+* Le bas de la boite correspond au 1ème quartile (75% des personnes ont une rémunération supérieure à cette valeur).
+* Le minimum et maximum sont représentés par les extrémités des traits.
+
+Pour en savoir plus sur les diagrammes en boîte à moustaches, [cliquez ici](https://fr.wikipedia.org/wiki/Bo%C3%AEte_%C3%A0_moustaches).
+
 ### Convention collective
 Environ 25% des répondant.e.s sont sous la convention Syntec, 24% sous la Convention collective nationale des entreprises d'architecture et 8% sous la Convention collective nationale des entreprises du paysage.
 

@@ -135,7 +135,7 @@ On peut observer une nette différence entre les rémunérations des 20% les mie
 Pour comparaison, voici l'étude [INSEE 2019](https://www.insee.fr/fr/statistiques/4277680?sommaire=4318291) sur les revenus de 2016. La figure 6 est particulièrement intéressante pour nous resituer dans le contexte national.
 
 ## Expérience en fonction du type de poste
-Les postes occupés par les personnes avec le plus d'années d'expérience sont les directreur.trice.s de société, les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s.
+Les postes occupés par les personnes avec le plus d'années d'expérience sont les directeur.trice.s de société, les chef.fe.s de projet confirmé.e.s et les chargé.e.s d'étude confirmé.e.s.
 
 ![Expérience en fonction du type de poste](/etude-salariale-paysagiste-concepteur/assets/images/2019/Moyenne-années-expérience-fonction-type-poste.png)
 
