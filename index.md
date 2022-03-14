@@ -2,9 +2,9 @@
 layout: home
 classes: wide
 author_profile: true
+title: Résultats 2020
 ---
 
-# Résultats 2020
 L'enquête 2020 est terminée. Les résultats sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2020/)**.
 
 # Résultats 2018 et 2019
