@@ -130,16 +130,16 @@ Pour en savoir plus sur les diagrammes en boîte à moustaches, [cliquez ici](ht
 
 ![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/rem_france.png)
 
-Example: 75% des chef(fe)s de projet débutants ont une rémunération inférieure à 2000€ net mensuel imposable.
+Exemple: 75% des chef(fe)s de projet débutants ont une rémunération inférieure à 2000€ net mensuel imposable.
 
 ### Province (180 répondant.e.s)
 
 ![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/province.png)
 
-Example: 50% des chargé(e)s d'études confirmés ont une rémunération supérieure à 2000€ net mensuel imposable en province.
+Exemple: 50% des chargé(e)s d'études confirmés ont une rémunération supérieure à 2000€ net mensuel imposable en province.
 
 ### Île-de-france, Paris inclus (47 répondant.e.s)
 
 ![Moyenne des rémunérations net imposables mensualisées par années depuis sortie de formation initiale et sexe](/etude-salariale-paysagiste-concepteur/assets/images/2020/ile-de-france.png)
 
-Example: 50% des répondants ont une rémunération supérieure à 2500€ net mensuel imposable en Île-de-france.
+Exemple: 50% des répondants ont une rémunération supérieure à 2500€ net mensuel imposable en Île-de-france.
