@@ -3,7 +3,7 @@ classes: wide
 title:  "Résultats 2019"
 ---
 **Depuis le 1er Novembre 2019**, vous avez été **430** à répondre à l'enquête, c'est 50% de plus que l'année dernière !
-Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2019-paysagiste-concepteur-1571493030).
+Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2022-paysagiste-concepteur-1605773216).
 Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2019___paysagiste_concepteur.csv).
 # Description des réponses
 Parmi les 430 réponses, 20 n'ont pas été exploitées.
