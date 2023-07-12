@@ -1,7 +1,7 @@
 ---
 classes: wide
 title:  "Résultats 2018"
-redirect_to: https://etude-salariale.facettes.bzh
+redirect_to: https://etude-salariale.facettes.bzh/etude-salariale-2018/
 ---
 **Depuis le 30 octobre 2018**, nous avons été **294** à répondre à l'appel. L'enquête 2018 est maintenant close.
 
