@@ -3,6 +3,7 @@ layout: home
 classes: wide
 author_profile: true
 title: Résultats 2020
+redirect_to: https://etude-salariale.facettes.bzh
 ---
 
 L'enquête 2020 est terminée. Les résultats sont disponibles sur **[cette page](https://pocman.github.io/etude-salariale-paysagiste-concepteur/etude-salariale-2020/)**.

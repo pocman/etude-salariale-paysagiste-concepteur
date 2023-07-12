@@ -1,6 +1,7 @@
 ---
 classes: wide
 title:  "Résultats préliminaires 2020"
+redirect_to: https://etude-salariale.facettes.bzh
 ---
 **Depuis le 22 Novembre 2020**, vous avez été **231** à répondre à l'enquête !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2020-paysagiste-concepteur-1605773216).

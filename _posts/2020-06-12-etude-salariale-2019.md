@@ -1,6 +1,7 @@
 ---
 classes: wide
 title:  "Résultats 2019"
+redirect_to: https://etude-salariale.facettes.bzh
 ---
 **Depuis le 1er Novembre 2019**, vous avez été **430** à répondre à l'enquête, c'est 50% de plus que l'année dernière !
 Si vous souhaitez recevoir la prochaine enquête, merci de vous inscrire via [ce formulaire](https://framaforms.org/resultat-etude-salaire-2022-paysagiste-concepteur-1605773216).

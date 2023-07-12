@@ -1,6 +1,7 @@
 ---
 classes: wide
 title:  "Résultats 2020"
+redirect_to: https://etude-salariale.facettes.bzh
 ---
 **Depuis le 22 Novembre 2020**, vous avez été **260** à répondre à l'enquête !
 Les données de l'enquête sont disponibles [ici](https://github.com/pocman/etude-salariale-paysagiste-concepteur/blob/master/etude_salaire_2020___paysagiste_concepteur.csv).
